@@ -1,0 +1,6002 @@
+[
+ {
+  "w": "谢谢",
+  "uz": "rahmat",
+  "ru": "спасибо",
+  "p": "xièxie",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "谢谢你的帮助。(Xièxie nǐ de bāngzhù.)",
+   "Yordamingiz uchun rahmat."
+  ]
+ },
+ {
+  "w": "不客气",
+  "uz": "arzimaydi",
+  "ru": "не за что",
+  "p": "bú kèqi",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "不客气，我的朋友。(Bú kèqi, wǒ de péngyou.)",
+   "Arzimaydi, do'stim."
+  ]
+ },
+ {
+  "w": "对不起",
+  "uz": "kechirasiz",
+  "ru": "извините",
+  "p": "duìbuqǐ",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "对不起，我来晚了。(Duìbuqǐ, wǒ lái wǎn le.)",
+   "Kechirasiz, kech qoldim."
+  ]
+ },
+ {
+  "w": "没关系",
+  "uz": "hechqisi yo'q",
+  "ru": "ничего страшного",
+  "p": "méi guānxi",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "没关系，你别担心。(Méi guānxi, nǐ bié dānxīn.)",
+   "Hechqisi yo'q, xavotir olmang."
+  ]
+ },
+ {
+  "w": "再见",
+  "uz": "xayr, ko'rishguncha",
+  "ru": "до свидания",
+  "p": "zàijiàn",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "老师，再见！(Lǎoshī, zàijiàn!)",
+   "Ustoz, xayr!"
+  ]
+ },
+ {
+  "w": "请",
+  "uz": "iltimos, marhamat",
+  "ru": "пожалуйста; просить",
+  "p": "qǐng",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "请坐，请喝茶。(Qǐng zuò, qǐng hē chá.)",
+   "Marhamat, o'tiring, choy iching."
+  ]
+ },
+ {
+  "w": "喂",
+  "uz": "allo",
+  "ru": "алло",
+  "p": "wéi",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "喂，你在哪儿？(Wéi, nǐ zài nǎr?)",
+   "Allo, qayerdasiz?"
+  ]
+ },
+ {
+  "w": "欢迎",
+  "uz": "xush kelibsiz",
+  "ru": "добро пожаловать",
+  "p": "huānyíng",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "欢迎你来中国！(Huānyíng nǐ lái Zhōngguó!)",
+   "Xitoyga xush kelibsiz!"
+  ]
+ },
+ {
+  "w": "认识",
+  "uz": "tanimoq, tanishmoq",
+  "ru": "знать, знакомиться",
+  "p": "rènshi",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "认识你很高兴。(Rènshi nǐ hěn gāoxìng.)",
+   "Tanishganimdan xursandman."
+  ]
+ },
+ {
+  "w": "名字",
+  "uz": "ism",
+  "ru": "имя",
+  "p": "míngzi",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "你叫什么名字？(Nǐ jiào shénme míngzi?)",
+   "Ismingiz nima?"
+  ]
+ },
+ {
+  "w": "叫",
+  "uz": "atalmoq, chaqirmoq",
+  "ru": "звать(ся)",
+  "p": "jiào",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "我叫阿里。(Wǒ jiào Ālǐ.)",
+   "Mening ismim Ali."
+  ]
+ },
+ {
+  "w": "介绍",
+  "uz": "tanishtirmoq",
+  "ru": "знакомить, представлять",
+  "p": "jièshào",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "我来介绍一下。(Wǒ lái jièshào yíxià.)",
+   "Keling, tanishtirib qo'yay."
+  ]
+ },
+ {
+  "w": "姓",
+  "uz": "familiya",
+  "ru": "фамилия",
+  "p": "xìng",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "您姓什么？(Nín xìng shénme?)",
+   "Familiyangiz nima?"
+  ]
+ },
+ {
+  "w": "您",
+  "uz": "Siz (hurmat bilan)",
+  "ru": "Вы (вежливо)",
+  "p": "nín",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "您好，请进！(Nín hǎo, qǐng jìn!)",
+   "Assalomu alaykum, kiring!"
+  ]
+ },
+ {
+  "w": "先生",
+  "uz": "janob",
+  "ru": "господин",
+  "p": "xiānsheng",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "王先生，您好！(Wáng xiānsheng, nín hǎo!)",
+   "Salom, Van janob!"
+  ]
+ },
+ {
+  "w": "小姐",
+  "uz": "xonim, qiz",
+  "ru": "девушка, мисс",
+  "p": "xiǎojiě",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "李小姐是我的同事。(Lǐ xiǎojiě shì wǒ de tóngshì.)",
+   "Li xonim mening hamkasbim."
+  ]
+ },
+ {
+  "w": "打电话",
+  "uz": "qo'ng'iroq qilmoq",
+  "ru": "звонить по телефону",
+  "p": "dǎ diànhuà",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "晚上给我打电话。(Wǎnshang gěi wǒ dǎ diànhuà.)",
+   "Kechqurun menga qo'ng'iroq qiling."
+  ]
+ },
+ {
+  "w": "说话",
+  "uz": "gapirmoq",
+  "ru": "говорить, разговаривать",
+  "p": "shuōhuà",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "请慢一点儿说话。(Qǐng màn yìdiǎnr shuōhuà.)",
+   "Iltimos, sekinroq gapiring."
+  ]
+ },
+ {
+  "w": "回答",
+  "uz": "javob bermoq",
+  "ru": "отвечать",
+  "p": "huídá",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "请回答我的问题。(Qǐng huídá wǒ de wèntí.)",
+   "Iltimos, savolimga javob bering."
+  ]
+ },
+ {
+  "w": "聊天",
+  "uz": "suhbatlashmoq",
+  "ru": "болтать, беседовать",
+  "p": "liáotiān",
+  "t": "salom",
+  "lv": 3,
+  "e": [
+   "我们在网上聊天。(Wǒmen zài wǎng shang liáotiān.)",
+   "Biz internetda suhbatlashamiz."
+  ]
+ },
+ {
+  "w": "见面",
+  "uz": "uchrashmoq, ko'rishmoq",
+  "ru": "встречаться",
+  "p": "jiànmiàn",
+  "t": "salom",
+  "lv": 3,
+  "e": [
+   "我们明天见面吧。(Wǒmen míngtiān jiànmiàn ba.)",
+   "Ertaga uchrashaylik."
+  ]
+ },
+ {
+  "w": "客人",
+  "uz": "mehmon",
+  "ru": "гость",
+  "p": "kèrén",
+  "t": "salom",
+  "lv": 3,
+  "e": [
+   "今天家里有客人。(Jīntiān jiā li yǒu kèrén.)",
+   "Bugun uyda mehmon bor."
+  ]
+ },
+ {
+  "w": "爸爸",
+  "uz": "ota, dada",
+  "ru": "папа",
+  "p": "bàba",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "我爸爸是医生。(Wǒ bàba shì yīshēng.)",
+   "Dadam shifokor."
+  ]
+ },
+ {
+  "w": "妈妈",
+  "uz": "ona, oyi",
+  "ru": "мама",
+  "p": "māma",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "妈妈在做饭。(Māma zài zuò fàn.)",
+   "Oyim ovqat pishiryapti."
+  ]
+ },
+ {
+  "w": "儿子",
+  "uz": "o'g'il",
+  "ru": "сын",
+  "p": "érzi",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "他儿子三岁了。(Tā érzi sān suì le.)",
+   "Uning o'g'li uch yoshga to'ldi."
+  ]
+ },
+ {
+  "w": "女儿",
+  "uz": "qiz (farzand)",
+  "ru": "дочь",
+  "p": "nǚ'ér",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "我女儿很漂亮。(Wǒ nǚ'ér hěn piàoliang.)",
+   "Qizim juda chiroyli."
+  ]
+ },
+ {
+  "w": "哥哥",
+  "uz": "aka",
+  "ru": "старший брат",
+  "p": "gēge",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "我哥哥在北京工作。(Wǒ gēge zài Běijīng gōngzuò.)",
+   "Akam Pekinda ishlaydi."
+  ]
+ },
+ {
+  "w": "姐姐",
+  "uz": "opa",
+  "ru": "старшая сестра",
+  "p": "jiějie",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "姐姐喜欢唱歌。(Jiějie xǐhuan chàng gē.)",
+   "Opam qo'shiq aytishni yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "弟弟",
+  "uz": "uka",
+  "ru": "младший брат",
+  "p": "dìdi",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "弟弟是小学生。(Dìdi shì xiǎoxuéshēng.)",
+   "Ukam boshlang'ich sinf o'quvchisi."
+  ]
+ },
+ {
+  "w": "妹妹",
+  "uz": "singil",
+  "ru": "младшая сестра",
+  "p": "mèimei",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "我妹妹十岁。(Wǒ mèimei shí suì.)",
+   "Singlim o'n yoshda."
+  ]
+ },
+ {
+  "w": "丈夫",
+  "uz": "er (turmush o'rtoq)",
+  "ru": "муж",
+  "p": "zhàngfu",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "她丈夫是老师。(Tā zhàngfu shì lǎoshī.)",
+   "Uning eri o'qituvchi."
+  ]
+ },
+ {
+  "w": "妻子",
+  "uz": "xotin, rafiqa",
+  "ru": "жена",
+  "p": "qīzi",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "我妻子在银行工作。(Wǒ qīzi zài yínháng gōngzuò.)",
+   "Xotinim bankda ishlaydi."
+  ]
+ },
+ {
+  "w": "孩子",
+  "uz": "bola, farzand",
+  "ru": "ребёнок",
+  "p": "háizi",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "你有几个孩子？(Nǐ yǒu jǐ ge háizi?)",
+   "Nechta farzandingiz bor?"
+  ]
+ },
+ {
+  "w": "家",
+  "uz": "uy, oila",
+  "ru": "дом, семья",
+  "p": "jiā",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "我家有五口人。(Wǒ jiā yǒu wǔ kǒu rén.)",
+   "Oilamiz besh kishidan iborat."
+  ]
+ },
+ {
+  "w": "人",
+  "uz": "odam, kishi",
+  "ru": "человек",
+  "p": "rén",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "他是中国人。(Tā shì Zhōngguó rén.)",
+   "U xitoylik."
+  ]
+ },
+ {
+  "w": "朋友",
+  "uz": "do'st",
+  "ru": "друг",
+  "p": "péngyou",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "他是我的好朋友。(Tā shì wǒ de hǎo péngyou.)",
+   "U mening yaqin do'stim."
+  ]
+ },
+ {
+  "w": "男",
+  "uz": "erkak",
+  "ru": "мужской, мужчина",
+  "p": "nán",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "那个男孩子是我弟弟。(Nàge nán háizi shì wǒ dìdi.)",
+   "Anavi o'g'il bola mening ukam."
+  ]
+ },
+ {
+  "w": "女",
+  "uz": "ayol",
+  "ru": "женский, женщина",
+  "p": "nǚ",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "我们的老师是女的。(Wǒmen de lǎoshī shì nǚ de.)",
+   "Ustozimiz ayol kishi."
+  ]
+ },
+ {
+  "w": "爷爷",
+  "uz": "bobo (ota tomondan)",
+  "ru": "дедушка (по отцу)",
+  "p": "yéye",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "爷爷每天早上跑步。(Yéye měi tiān zǎoshang pǎobù.)",
+   "Bobom har kuni ertalab yuguradi."
+  ]
+ },
+ {
+  "w": "奶奶",
+  "uz": "buvi (ota tomondan)",
+  "ru": "бабушка (по отцу)",
+  "p": "nǎinai",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "奶奶做的菜很好吃。(Nǎinai zuò de cài hěn hǎochī.)",
+   "Buvimning taomlari juda mazali."
+  ]
+ },
+ {
+  "w": "叔叔",
+  "uz": "amaki",
+  "ru": "дядя",
+  "p": "shūshu",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "叔叔给我买了礼物。(Shūshu gěi wǒ mǎi le lǐwù.)",
+   "Amakim menga sovg'a oldi."
+  ]
+ },
+ {
+  "w": "阿姨",
+  "uz": "xola",
+  "ru": "тётя",
+  "p": "āyí",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "阿姨，您好！(Āyí, nín hǎo!)",
+   "Xola, assalomu alaykum!"
+  ]
+ },
+ {
+  "w": "邻居",
+  "uz": "qo'shni",
+  "ru": "сосед",
+  "p": "línjū",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "我的邻居很热情。(Wǒ de línjū hěn rèqíng.)",
+   "Qo'shnim juda samimiy."
+  ]
+ },
+ {
+  "w": "结婚",
+  "uz": "turmush qurmoq",
+  "ru": "жениться, выйти замуж",
+  "p": "jiéhūn",
+  "t": "oila",
+  "lv": 3,
+  "e": [
+   "他们去年结婚了。(Tāmen qùnián jiéhūn le.)",
+   "Ular o'tgan yili turmush qurishdi."
+  ]
+ },
+ {
+  "w": "一",
+  "uz": "bir",
+  "ru": "один",
+  "p": "yī",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我有一个哥哥。(Wǒ yǒu yí ge gēge.)",
+   "Mening bitta akam bor."
+  ]
+ },
+ {
+  "w": "二",
+  "uz": "ikki",
+  "ru": "два",
+  "p": "èr",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "今天是二月二号。(Jīntiān shì èr yuè èr hào.)",
+   "Bugun ikkinchi fevral."
+  ]
+ },
+ {
+  "w": "三",
+  "uz": "uch",
+  "ru": "три",
+  "p": "sān",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我学了三年汉语。(Wǒ xué le sān nián Hànyǔ.)",
+   "Men uch yil xitoy tilini o'rgandim."
+  ]
+ },
+ {
+  "w": "四",
+  "uz": "to'rt",
+  "ru": "четыре",
+  "p": "sì",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我们班有四个老师。(Wǒmen bān yǒu sì ge lǎoshī.)",
+   "Sinfimizda to'rtta o'qituvchi bor."
+  ]
+ },
+ {
+  "w": "五",
+  "uz": "besh",
+  "ru": "пять",
+  "p": "wǔ",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我五点下班。(Wǒ wǔ diǎn xiàbān.)",
+   "Men soat beshda ishdan chiqaman."
+  ]
+ },
+ {
+  "w": "六",
+  "uz": "olti",
+  "ru": "шесть",
+  "p": "liù",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "这本书六块钱。(Zhè běn shū liù kuài qián.)",
+   "Bu kitob olti yuan."
+  ]
+ },
+ {
+  "w": "七",
+  "uz": "yetti",
+  "ru": "семь",
+  "p": "qī",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "一个星期有七天。(Yí ge xīngqī yǒu qī tiān.)",
+   "Bir haftada yetti kun bor."
+  ]
+ },
+ {
+  "w": "八",
+  "uz": "sakkiz",
+  "ru": "восемь",
+  "p": "bā",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我早上八点起床。(Wǒ zǎoshang bā diǎn qǐchuáng.)",
+   "Men ertalab soat sakkizda turaman."
+  ]
+ },
+ {
+  "w": "九",
+  "uz": "to'qqiz",
+  "ru": "девять",
+  "p": "jiǔ",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我妹妹九岁。(Wǒ mèimei jiǔ suì.)",
+   "Singlim to'qqiz yoshda."
+  ]
+ },
+ {
+  "w": "十",
+  "uz": "o'n",
+  "ru": "десять",
+  "p": "shí",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "我买了十个苹果。(Wǒ mǎi le shí ge píngguǒ.)",
+   "Men o'nta olma sotib oldim."
+  ]
+ },
+ {
+  "w": "零",
+  "uz": "nol",
+  "ru": "ноль",
+  "p": "líng",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "今天零下五度。(Jīntiān língxià wǔ dù.)",
+   "Bugun havo minus besh daraja."
+  ]
+ },
+ {
+  "w": "百",
+  "uz": "yuz",
+  "ru": "сто",
+  "p": "bǎi",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "这件衣服两百块。(Zhè jiàn yīfu liǎng bǎi kuài.)",
+   "Bu kiyim ikki yuz yuan."
+  ]
+ },
+ {
+  "w": "千",
+  "uz": "ming",
+  "ru": "тысяча",
+  "p": "qiān",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "这个手机三千块。(Zhège shǒujī sān qiān kuài.)",
+   "Bu telefon uch ming yuan."
+  ]
+ },
+ {
+  "w": "万",
+  "uz": "o'n ming",
+  "ru": "десять тысяч",
+  "p": "wàn",
+  "t": "raqam",
+  "lv": 3,
+  "e": [
+   "这个城市有一百万人。(Zhège chéngshì yǒu yìbǎi wàn rén.)",
+   "Bu shaharda bir million aholi bor."
+  ]
+ },
+ {
+  "w": "两",
+  "uz": "ikki (ta)",
+  "ru": "два (со счётным словом)",
+  "p": "liǎng",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "我有两个妹妹。(Wǒ yǒu liǎng ge mèimei.)",
+   "Mening ikkita singlim bor."
+  ]
+ },
+ {
+  "w": "第一",
+  "uz": "birinchi",
+  "ru": "первый",
+  "p": "dì yī",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "这是我第一次来中国。(Zhè shì wǒ dì yī cì lái Zhōngguó.)",
+   "Bu Xitoyga birinchi kelishim."
+  ]
+ },
+ {
+  "w": "半",
+  "uz": "yarim",
+  "ru": "половина",
+  "p": "bàn",
+  "t": "raqam",
+  "lv": 3,
+  "e": [
+   "现在三点半。(Xiànzài sān diǎn bàn.)",
+   "Hozir soat uch yarim."
+  ]
+ },
+ {
+  "w": "点",
+  "uz": "soat (vaqt)",
+  "ru": "час (о времени)",
+  "p": "diǎn",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "现在几点？(Xiànzài jǐ diǎn?)",
+   "Hozir soat necha?"
+  ]
+ },
+ {
+  "w": "分钟",
+  "uz": "daqiqa",
+  "ru": "минута",
+  "p": "fēnzhōng",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "请等我五分钟。(Qǐng děng wǒ wǔ fēnzhōng.)",
+   "Iltimos, meni besh daqiqa kuting."
+  ]
+ },
+ {
+  "w": "小时",
+  "uz": "soat (davomiylik)",
+  "ru": "час (длительность)",
+  "p": "xiǎoshí",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "我每天睡八个小时。(Wǒ měi tiān shuì bā ge xiǎoshí.)",
+   "Men har kuni sakkiz soat uxlayman."
+  ]
+ },
+ {
+  "w": "时间",
+  "uz": "vaqt",
+  "ru": "время",
+  "p": "shíjiān",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "你明天有时间吗？(Nǐ míngtiān yǒu shíjiān ma?)",
+   "Ertaga vaqtingiz bormi?"
+  ]
+ },
+ {
+  "w": "刻",
+  "uz": "chorak (15 daqiqa)",
+  "ru": "четверть часа",
+  "p": "kè",
+  "t": "raqam",
+  "lv": 3,
+  "e": [
+   "现在八点一刻。(Xiànzài bā diǎn yí kè.)",
+   "Hozir soat sakkizdan o'n besh daqiqa o'tdi."
+  ]
+ },
+ {
+  "w": "几",
+  "uz": "nechta, necha",
+  "ru": "сколько (до 10)",
+  "p": "jǐ",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "你家有几口人？(Nǐ jiā yǒu jǐ kǒu rén?)",
+   "Oilangiz necha kishidan iborat?"
+  ]
+ },
+ {
+  "w": "今天",
+  "uz": "bugun",
+  "ru": "сегодня",
+  "p": "jīntiān",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "今天天气很好。(Jīntiān tiānqì hěn hǎo.)",
+   "Bugun havo juda yaxshi."
+  ]
+ },
+ {
+  "w": "明天",
+  "uz": "ertaga",
+  "ru": "завтра",
+  "p": "míngtiān",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "明天我去北京。(Míngtiān wǒ qù Běijīng.)",
+   "Ertaga men Pekinga boraman."
+  ]
+ },
+ {
+  "w": "昨天",
+  "uz": "kecha",
+  "ru": "вчера",
+  "p": "zuótiān",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "昨天我很忙。(Zuótiān wǒ hěn máng.)",
+   "Kecha men juda band edim."
+  ]
+ },
+ {
+  "w": "年",
+  "uz": "yil",
+  "ru": "год",
+  "p": "nián",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "我在中国住了两年。(Wǒ zài Zhōngguó zhù le liǎng nián.)",
+   "Men Xitoyda ikki yil yashadim."
+  ]
+ },
+ {
+  "w": "月",
+  "uz": "oy",
+  "ru": "месяц",
+  "p": "yuè",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "我九月去中国。(Wǒ jiǔ yuè qù Zhōngguó.)",
+   "Men sentyabrda Xitoyga boraman."
+  ]
+ },
+ {
+  "w": "日",
+  "uz": "kun, sana",
+  "ru": "день, число",
+  "p": "rì",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "今天是五月一日。(Jīntiān shì wǔ yuè yī rì.)",
+   "Bugun birinchi may."
+  ]
+ },
+ {
+  "w": "号",
+  "uz": "sana (oy kuni)",
+  "ru": "число (дата)",
+  "p": "hào",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "今天几号？(Jīntiān jǐ hào?)",
+   "Bugun nechanchi sana?"
+  ]
+ },
+ {
+  "w": "星期",
+  "uz": "hafta",
+  "ru": "неделя",
+  "p": "xīngqī",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "今天星期几？(Jīntiān xīngqī jǐ?)",
+   "Bugun haftaning qaysi kuni?"
+  ]
+ },
+ {
+  "w": "上午",
+  "uz": "tushdan oldin",
+  "ru": "первая половина дня",
+  "p": "shàngwǔ",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "上午我有课。(Shàngwǔ wǒ yǒu kè.)",
+   "Tushdan oldin darsim bor."
+  ]
+ },
+ {
+  "w": "下午",
+  "uz": "tushdan keyin",
+  "ru": "вторая половина дня",
+  "p": "xiàwǔ",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "下午我去商店。(Xiàwǔ wǒ qù shāngdiàn.)",
+   "Tushdan keyin do'konga boraman."
+  ]
+ },
+ {
+  "w": "中午",
+  "uz": "tush payti",
+  "ru": "полдень",
+  "p": "zhōngwǔ",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "中午我们一起吃饭。(Zhōngwǔ wǒmen yìqǐ chī fàn.)",
+   "Tushda birga ovqatlanamiz."
+  ]
+ },
+ {
+  "w": "早上",
+  "uz": "ertalab",
+  "ru": "утро",
+  "p": "zǎoshang",
+  "t": "kun",
+  "lv": 2,
+  "e": [
+   "我早上喝咖啡。(Wǒ zǎoshang hē kāfēi.)",
+   "Men ertalab qahva ichaman."
+  ]
+ },
+ {
+  "w": "晚上",
+  "uz": "kechqurun",
+  "ru": "вечер",
+  "p": "wǎnshang",
+  "t": "kun",
+  "lv": 2,
+  "e": [
+   "晚上我看电视。(Wǎnshang wǒ kàn diànshì.)",
+   "Kechqurun men televizor ko'raman."
+  ]
+ },
+ {
+  "w": "去年",
+  "uz": "o'tgan yil",
+  "ru": "прошлый год",
+  "p": "qùnián",
+  "t": "kun",
+  "lv": 2,
+  "e": [
+   "我是去年来中国的。(Wǒ shì qùnián lái Zhōngguó de.)",
+   "Men Xitoyga o'tgan yili kelganman."
+  ]
+ },
+ {
+  "w": "周末",
+  "uz": "dam olish kunlari",
+  "ru": "выходные",
+  "p": "zhōumò",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "周末你做什么？(Zhōumò nǐ zuò shénme?)",
+   "Dam olish kunlari nima qilasiz?"
+  ]
+ },
+ {
+  "w": "春",
+  "uz": "bahor",
+  "ru": "весна",
+  "p": "chūn",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "春天的花很漂亮。(Chūntiān de huā hěn piàoliang.)",
+   "Bahorgi gullar juda chiroyli."
+  ]
+ },
+ {
+  "w": "夏",
+  "uz": "yoz",
+  "ru": "лето",
+  "p": "xià",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "北京的夏天很热。(Běijīng de xiàtiān hěn rè.)",
+   "Pekinning yozi juda issiq."
+  ]
+ },
+ {
+  "w": "秋",
+  "uz": "kuz",
+  "ru": "осень",
+  "p": "qiū",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "我最喜欢秋天。(Wǒ zuì xǐhuan qiūtiān.)",
+   "Men kuzni eng yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "冬",
+  "uz": "qish",
+  "ru": "зима",
+  "p": "dōng",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "冬天常常下雪。(Dōngtiān chángcháng xià xuě.)",
+   "Qishda tez-tez qor yog'adi."
+  ]
+ },
+ {
+  "w": "季节",
+  "uz": "fasl",
+  "ru": "время года",
+  "p": "jìjié",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "你喜欢哪个季节？(Nǐ xǐhuan nǎge jìjié?)",
+   "Qaysi faslni yoqtirasiz?"
+  ]
+ },
+ {
+  "w": "节日",
+  "uz": "bayram",
+  "ru": "праздник",
+  "p": "jiérì",
+  "t": "kun",
+  "lv": 3,
+  "e": [
+   "春节是中国最大的节日。(Chūnjié shì Zhōngguó zuì dà de jiérì.)",
+   "Bahor bayrami Xitoyning eng katta bayrami."
+  ]
+ },
+ {
+  "w": "生日",
+  "uz": "tug'ilgan kun",
+  "ru": "день рождения",
+  "p": "shēngrì",
+  "t": "kun",
+  "lv": 2,
+  "e": [
+   "祝你生日快乐！(Zhù nǐ shēngrì kuàilè!)",
+   "Tug'ilgan kuningiz muborak!"
+  ]
+ },
+ {
+  "w": "现在",
+  "uz": "hozir",
+  "ru": "сейчас",
+  "p": "xiànzài",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "我现在很忙。(Wǒ xiànzài hěn máng.)",
+   "Men hozir juda bandman."
+  ]
+ },
+ {
+  "w": "颜色",
+  "uz": "rang",
+  "ru": "цвет",
+  "p": "yánsè",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "你喜欢什么颜色？(Nǐ xǐhuan shénme yánsè?)",
+   "Qaysi rangni yoqtirasiz?"
+  ]
+ },
+ {
+  "w": "白",
+  "uz": "oq",
+  "ru": "белый",
+  "p": "bái",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "她穿了一件白衬衫。(Tā chuān le yí jiàn bái chènshān.)",
+   "U oq ko'ylak kiydi."
+  ]
+ },
+ {
+  "w": "黑",
+  "uz": "qora",
+  "ru": "чёрный",
+  "p": "hēi",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "我的猫是黑的。(Wǒ de māo shì hēi de.)",
+   "Mening mushugim qora."
+  ]
+ },
+ {
+  "w": "红",
+  "uz": "qizil",
+  "ru": "красный",
+  "p": "hóng",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "这个苹果很红。(Zhège píngguǒ hěn hóng.)",
+   "Bu olma juda qizil."
+  ]
+ },
+ {
+  "w": "蓝",
+  "uz": "ko'k, moviy",
+  "ru": "синий, голубой",
+  "p": "lán",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "今天的天很蓝。(Jīntiān de tiān hěn lán.)",
+   "Bugun osmon juda moviy."
+  ]
+ },
+ {
+  "w": "绿",
+  "uz": "yashil",
+  "ru": "зелёный",
+  "p": "lǜ",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "春天的树很绿。(Chūntiān de shù hěn lǜ.)",
+   "Bahorda daraxtlar yam-yashil."
+  ]
+ },
+ {
+  "w": "大",
+  "uz": "katta",
+  "ru": "большой",
+  "p": "dà",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "这个房间很大。(Zhège fángjiān hěn dà.)",
+   "Bu xona juda katta."
+  ]
+ },
+ {
+  "w": "小",
+  "uz": "kichik",
+  "ru": "маленький",
+  "p": "xiǎo",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "我的狗很小。(Wǒ de gǒu hěn xiǎo.)",
+   "Mening itim juda kichkina."
+  ]
+ },
+ {
+  "w": "长",
+  "uz": "uzun",
+  "ru": "длинный",
+  "p": "cháng",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "她的头发很长。(Tā de tóufa hěn cháng.)",
+   "Uning sochi juda uzun."
+  ]
+ },
+ {
+  "w": "短",
+  "uz": "qisqa, kalta",
+  "ru": "короткий",
+  "p": "duǎn",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "这条裤子太短了。(Zhè tiáo kùzi tài duǎn le.)",
+   "Bu shim juda kalta."
+  ]
+ },
+ {
+  "w": "高",
+  "uz": "baland, bo'yi uzun",
+  "ru": "высокий",
+  "p": "gāo",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "我哥哥很高。(Wǒ gēge hěn gāo.)",
+   "Akamning bo'yi juda baland."
+  ]
+ },
+ {
+  "w": "矮",
+  "uz": "past (bo'yli)",
+  "ru": "низкий (ростом)",
+  "p": "ǎi",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "我比姐姐矮。(Wǒ bǐ jiějie ǎi.)",
+   "Men opamdan pastroqman."
+  ]
+ },
+ {
+  "w": "胖",
+  "uz": "semiz",
+  "ru": "толстый",
+  "p": "pàng",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "这只猫有点儿胖。(Zhè zhī māo yǒudiǎnr pàng.)",
+   "Bu mushuk biroz semiz."
+  ]
+ },
+ {
+  "w": "瘦",
+  "uz": "ozg'in",
+  "ru": "худой",
+  "p": "shòu",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "他最近瘦了。(Tā zuìjìn shòu le.)",
+   "U yaqinda ozib qoldi."
+  ]
+ },
+ {
+  "w": "厚",
+  "uz": "qalin",
+  "ru": "толстый (о предметах)",
+  "p": "hòu",
+  "t": "rang",
+  "lv": 4,
+  "e": [
+   "这本书很厚。(Zhè běn shū hěn hòu.)",
+   "Bu kitob juda qalin."
+  ]
+ },
+ {
+  "w": "深",
+  "uz": "chuqur; to'q (rang)",
+  "ru": "глубокий; тёмный (о цвете)",
+  "p": "shēn",
+  "t": "rang",
+  "lv": 4,
+  "e": [
+   "我喜欢深蓝色。(Wǒ xǐhuan shēnlánsè.)",
+   "Men to'q ko'k rangni yoqtiraman."
+  ]
+ },
+ {
+  "w": "浅",
+  "uz": "sayoz; och (rang)",
+  "ru": "мелкий; светлый (о цвете)",
+  "p": "qiǎn",
+  "t": "rang",
+  "lv": 4,
+  "e": [
+   "她穿浅绿色的裙子。(Tā chuān qiǎnlǜsè de qúnzi.)",
+   "U och yashil yubka kiygan."
+  ]
+ },
+ {
+  "w": "漂亮",
+  "uz": "chiroyli",
+  "ru": "красивый",
+  "p": "piàoliang",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "这件衣服很漂亮。(Zhè jiàn yīfu hěn piàoliang.)",
+   "Bu kiyim juda chiroyli."
+  ]
+ },
+ {
+  "w": "美丽",
+  "uz": "go'zal",
+  "ru": "прекрасный",
+  "p": "měilì",
+  "t": "rang",
+  "lv": 4,
+  "e": [
+   "这里的风景很美丽。(Zhèlǐ de fēngjǐng hěn měilì.)",
+   "Bu yerning manzarasi juda go'zal."
+  ]
+ },
+ {
+  "w": "样子",
+  "uz": "ko'rinish, shakl",
+  "ru": "вид, форма",
+  "p": "yàngzi",
+  "t": "rang",
+  "lv": 4,
+  "e": [
+   "这个杯子的样子很可爱。(Zhège bēizi de yàngzi hěn kě'ài.)",
+   "Bu piyolaning shakli juda yoqimli."
+  ]
+ },
+ {
+  "w": "画",
+  "uz": "rasm chizmoq; rasm",
+  "ru": "рисовать; картина",
+  "p": "huà",
+  "t": "rang",
+  "lv": 3,
+  "e": [
+   "我会画画儿。(Wǒ huì huà huàr.)",
+   "Men rasm chizishni bilaman."
+  ]
+ },
+ {
+  "w": "身体",
+  "uz": "tana; sog'liq",
+  "ru": "тело; здоровье",
+  "p": "shēntǐ",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "你身体好吗？(Nǐ shēntǐ hǎo ma?)",
+   "Sog'lig'ingiz yaxshimi?"
+  ]
+ },
+ {
+  "w": "眼睛",
+  "uz": "ko'z",
+  "ru": "глаза",
+  "p": "yǎnjing",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "她的眼睛很大。(Tā de yǎnjing hěn dà.)",
+   "Uning ko'zlari juda katta."
+  ]
+ },
+ {
+  "w": "头发",
+  "uz": "soch",
+  "ru": "волосы",
+  "p": "tóufa",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "我的头发是黑色的。(Wǒ de tóufa shì hēisè de.)",
+   "Mening sochim qora."
+  ]
+ },
+ {
+  "w": "耳朵",
+  "uz": "quloq",
+  "ru": "ухо",
+  "p": "ěrduo",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "兔子的耳朵很长。(Tùzi de ěrduo hěn cháng.)",
+   "Quyonning qulog'i uzun."
+  ]
+ },
+ {
+  "w": "鼻子",
+  "uz": "burun",
+  "ru": "нос",
+  "p": "bízi",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "他的鼻子红了。(Tā de bízi hóng le.)",
+   "Uning burni qizarib ketdi."
+  ]
+ },
+ {
+  "w": "脸",
+  "uz": "yuz, bet",
+  "ru": "лицо",
+  "p": "liǎn",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "我每天早上洗脸。(Wǒ měi tiān zǎoshang xǐ liǎn.)",
+   "Men har kuni ertalab yuz yuvaman."
+  ]
+ },
+ {
+  "w": "脚",
+  "uz": "oyoq (panja)",
+  "ru": "ступня",
+  "p": "jiǎo",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "我的脚很疼。(Wǒ de jiǎo hěn téng.)",
+   "Oyog'im juda og'riyapti."
+  ]
+ },
+ {
+  "w": "腿",
+  "uz": "oyoq (son-boldir)",
+  "ru": "нога",
+  "p": "tuǐ",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "他的腿很长。(Tā de tuǐ hěn cháng.)",
+   "Uning oyoqlari uzun."
+  ]
+ },
+ {
+  "w": "肚子",
+  "uz": "qorin",
+  "ru": "живот",
+  "p": "dùzi",
+  "t": "tana",
+  "lv": 4,
+  "e": [
+   "我肚子疼。(Wǒ dùzi téng.)",
+   "Qornim og'riyapti."
+  ]
+ },
+ {
+  "w": "牙齿",
+  "uz": "tish",
+  "ru": "зубы",
+  "p": "yáchǐ",
+  "t": "tana",
+  "lv": 4,
+  "e": [
+   "她的牙齿很白。(Tā de yáchǐ hěn bái.)",
+   "Uning tishlari oppoq."
+  ]
+ },
+ {
+  "w": "皮肤",
+  "uz": "teri",
+  "ru": "кожа",
+  "p": "pífū",
+  "t": "tana",
+  "lv": 4,
+  "e": [
+   "她的皮肤很好。(Tā de pífū hěn hǎo.)",
+   "Uning terisi juda yaxshi."
+  ]
+ },
+ {
+  "w": "医生",
+  "uz": "shifokor",
+  "ru": "врач",
+  "p": "yīshēng",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "你应该去看医生。(Nǐ yīnggāi qù kàn yīshēng.)",
+   "Shifokorga borishingiz kerak."
+  ]
+ },
+ {
+  "w": "医院",
+  "uz": "kasalxona",
+  "ru": "больница",
+  "p": "yīyuàn",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "她在医院工作。(Tā zài yīyuàn gōngzuò.)",
+   "U kasalxonada ishlaydi."
+  ]
+ },
+ {
+  "w": "生病",
+  "uz": "kasal bo'lmoq",
+  "ru": "заболеть",
+  "p": "shēngbìng",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "我生病了，不能上课。(Wǒ shēngbìng le, bù néng shàngkè.)",
+   "Kasal bo'lib qoldim, darsga bora olmayman."
+  ]
+ },
+ {
+  "w": "药",
+  "uz": "dori",
+  "ru": "лекарство",
+  "p": "yào",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "这个药一天吃三次。(Zhège yào yì tiān chī sān cì.)",
+   "Bu dori kuniga uch mahal ichiladi."
+  ]
+ },
+ {
+  "w": "感冒",
+  "uz": "shamollash; shamollamoq",
+  "ru": "простуда; простудиться",
+  "p": "gǎnmào",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "我感冒了。(Wǒ gǎnmào le.)",
+   "Men shamollab qoldim."
+  ]
+ },
+ {
+  "w": "发烧",
+  "uz": "isitmalamoq",
+  "ru": "температурить",
+  "p": "fāshāo",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "孩子发烧了。(Háizi fāshāo le.)",
+   "Bolaning isitmasi chiqdi."
+  ]
+ },
+ {
+  "w": "疼",
+  "uz": "og'rimoq",
+  "ru": "болеть (о боли)",
+  "p": "téng",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "我头很疼。(Wǒ tóu hěn téng.)",
+   "Boshim qattiq og'riyapti."
+  ]
+ },
+ {
+  "w": "健康",
+  "uz": "sog'lom; sog'liq",
+  "ru": "здоровый; здоровье",
+  "p": "jiànkāng",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "祝你身体健康！(Zhù nǐ shēntǐ jiànkāng!)",
+   "Sizga sog'lik tilayman!"
+  ]
+ },
+ {
+  "w": "检查",
+  "uz": "tekshirmoq",
+  "ru": "проверять, осматривать",
+  "p": "jiǎnchá",
+  "t": "tana",
+  "lv": 3,
+  "e": [
+   "医生给我检查身体。(Yīshēng gěi wǒ jiǎnchá shēntǐ.)",
+   "Shifokor meni ko'rikdan o'tkazyapti."
+  ]
+ },
+ {
+  "w": "护士",
+  "uz": "hamshira",
+  "ru": "медсестра",
+  "p": "hùshi",
+  "t": "tana",
+  "lv": 4,
+  "e": [
+   "我妈妈是护士。(Wǒ māma shì hùshi.)",
+   "Oyim hamshira."
+  ]
+ },
+ {
+  "w": "咳嗽",
+  "uz": "yo'tal; yo'talmoq",
+  "ru": "кашель; кашлять",
+  "p": "késou",
+  "t": "tana",
+  "lv": 4,
+  "e": [
+   "他咳嗽得很厉害。(Tā késou de hěn lìhai.)",
+   "U qattiq yo'talyapti."
+  ]
+ },
+ {
+  "w": "吃",
+  "uz": "yemoq",
+  "ru": "есть",
+  "p": "chī",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "你吃饭了吗？(Nǐ chī fàn le ma?)",
+   "Ovqatlandingizmi?"
+  ]
+ },
+ {
+  "w": "喝",
+  "uz": "ichmoq",
+  "ru": "пить",
+  "p": "hē",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "我想喝水。(Wǒ xiǎng hē shuǐ.)",
+   "Suv ichgim keldi."
+  ]
+ },
+ {
+  "w": "菜",
+  "uz": "taom; sabzavot",
+  "ru": "блюдо; овощи",
+  "p": "cài",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "中国菜很好吃。(Zhōngguó cài hěn hǎochī.)",
+   "Xitoy taomlari juda mazali."
+  ]
+ },
+ {
+  "w": "茶",
+  "uz": "choy",
+  "ru": "чай",
+  "p": "chá",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "中国人很爱喝茶。(Zhōngguó rén hěn ài hē chá.)",
+   "Xitoyliklar choy ichishni juda yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "米饭",
+  "uz": "guruch (pishirilgan)",
+  "ru": "варёный рис",
+  "p": "mǐfàn",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "我要一碗米饭。(Wǒ yào yì wǎn mǐfàn.)",
+   "Menga bir kosa guruch bering."
+  ]
+ },
+ {
+  "w": "水",
+  "uz": "suv",
+  "ru": "вода",
+  "p": "shuǐ",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "这里的水很干净。(Zhèlǐ de shuǐ hěn gānjìng.)",
+   "Bu yerning suvi juda toza."
+  ]
+ },
+ {
+  "w": "水果",
+  "uz": "meva",
+  "ru": "фрукты",
+  "p": "shuǐguǒ",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "我每天吃水果。(Wǒ měi tiān chī shuǐguǒ.)",
+   "Men har kuni meva yeyman."
+  ]
+ },
+ {
+  "w": "苹果",
+  "uz": "olma",
+  "ru": "яблоко",
+  "p": "píngguǒ",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "这个苹果很甜。(Zhège píngguǒ hěn tián.)",
+   "Bu olma juda shirin."
+  ]
+ },
+ {
+  "w": "鸡蛋",
+  "uz": "tuxum",
+  "ru": "яйцо",
+  "p": "jīdàn",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "我早上吃两个鸡蛋。(Wǒ zǎoshang chī liǎng ge jīdàn.)",
+   "Men ertalab ikkita tuxum yeyman."
+  ]
+ },
+ {
+  "w": "面条",
+  "uz": "lag'mon, ugra",
+  "ru": "лапша",
+  "p": "miàntiáo",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "我很喜欢吃面条。(Wǒ hěn xǐhuan chī miàntiáo.)",
+   "Men lag'monni juda yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "牛奶",
+  "uz": "sut",
+  "ru": "молоко",
+  "p": "niúnǎi",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "孩子每天喝牛奶。(Háizi měi tiān hē niúnǎi.)",
+   "Bola har kuni sut ichadi."
+  ]
+ },
+ {
+  "w": "咖啡",
+  "uz": "qahva",
+  "ru": "кофе",
+  "p": "kāfēi",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "你要咖啡还是茶？(Nǐ yào kāfēi háishi chá?)",
+   "Qahva olasizmi yoki choy?"
+  ]
+ },
+ {
+  "w": "羊肉",
+  "uz": "qo'y go'shti",
+  "ru": "баранина",
+  "p": "yángròu",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "新疆的羊肉很好吃。(Xīnjiāng de yángròu hěn hǎochī.)",
+   "Shinjonning qo'y go'shti juda mazali."
+  ]
+ },
+ {
+  "w": "鱼",
+  "uz": "baliq",
+  "ru": "рыба",
+  "p": "yú",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "我不喜欢吃鱼。(Wǒ bù xǐhuan chī yú.)",
+   "Men baliq yeyishni yoqtirmayman."
+  ]
+ },
+ {
+  "w": "西瓜",
+  "uz": "tarvuz",
+  "ru": "арбуз",
+  "p": "xīguā",
+  "t": "ovqat",
+  "lv": 2,
+  "e": [
+   "夏天我们吃西瓜。(Xiàtiān wǒmen chī xīguā.)",
+   "Yozda biz tarvuz yeymiz."
+  ]
+ },
+ {
+  "w": "面包",
+  "uz": "non",
+  "ru": "хлеб",
+  "p": "miànbāo",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "我买了一个面包。(Wǒ mǎi le yí ge miànbāo.)",
+   "Men bitta non sotib oldim."
+  ]
+ },
+ {
+  "w": "蛋糕",
+  "uz": "tort",
+  "ru": "торт",
+  "p": "dàngāo",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "这是你的生日蛋糕。(Zhè shì nǐ de shēngrì dàngāo.)",
+   "Bu sizning tug'ilgan kun tortingiz."
+  ]
+ },
+ {
+  "w": "香蕉",
+  "uz": "banan",
+  "ru": "банан",
+  "p": "xiāngjiāo",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "猴子喜欢吃香蕉。(Hóuzi xǐhuan chī xiāngjiāo.)",
+   "Maymunlar banan yeyishni yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "葡萄",
+  "uz": "uzum",
+  "ru": "виноград",
+  "p": "pútao",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "这些葡萄很甜。(Zhèxiē pútao hěn tián.)",
+   "Bu uzumlar juda shirin."
+  ]
+ },
+ {
+  "w": "饮料",
+  "uz": "ichimlik",
+  "ru": "напиток",
+  "p": "yǐnliào",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "你想喝什么饮料？(Nǐ xiǎng hē shénme yǐnliào?)",
+   "Qanday ichimlik ichmoqchisiz?"
+  ]
+ },
+ {
+  "w": "饺子",
+  "uz": "chuchvara",
+  "ru": "пельмени (цзяоцзы)",
+  "p": "jiǎozi",
+  "t": "ovqat",
+  "lv": 4,
+  "e": [
+   "春节我们包饺子。(Chūnjié wǒmen bāo jiǎozi.)",
+   "Bahor bayramida chuchvara tugamiz."
+  ]
+ },
+ {
+  "w": "糖",
+  "uz": "shakar; konfet",
+  "ru": "сахар; конфета",
+  "p": "táng",
+  "t": "ovqat",
+  "lv": 4,
+  "e": [
+   "咖啡里不要放糖。(Kāfēi li búyào fàng táng.)",
+   "Qahvaga shakar solmang."
+  ]
+ },
+ {
+  "w": "饿",
+  "uz": "och (qorni)",
+  "ru": "голодный",
+  "p": "è",
+  "t": "ovqat",
+  "lv": 3,
+  "e": [
+   "我饿了，我们吃饭吧。(Wǒ è le, wǒmen chī fàn ba.)",
+   "Qornim ochdi, ovqatlanaylik."
+  ]
+ },
+ {
+  "w": "房间",
+  "uz": "xona",
+  "ru": "комната",
+  "p": "fángjiān",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "我的房间不大。(Wǒ de fángjiān bú dà.)",
+   "Mening xonam katta emas."
+  ]
+ },
+ {
+  "w": "门",
+  "uz": "eshik",
+  "ru": "дверь",
+  "p": "mén",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "请关门。(Qǐng guān mén.)",
+   "Iltimos, eshikni yoping."
+  ]
+ },
+ {
+  "w": "桌子",
+  "uz": "stol",
+  "ru": "стол",
+  "p": "zhuōzi",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "书在桌子上。(Shū zài zhuōzi shang.)",
+   "Kitob stol ustida."
+  ]
+ },
+ {
+  "w": "椅子",
+  "uz": "stul",
+  "ru": "стул",
+  "p": "yǐzi",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "这把椅子很舒服。(Zhè bǎ yǐzi hěn shūfu.)",
+   "Bu stul juda qulay."
+  ]
+ },
+ {
+  "w": "电视",
+  "uz": "televizor",
+  "ru": "телевизор",
+  "p": "diànshì",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "爸爸在看电视。(Bàba zài kàn diànshì.)",
+   "Dadam televizor ko'ryapti."
+  ]
+ },
+ {
+  "w": "冰箱",
+  "uz": "muzlatkich",
+  "ru": "холодильник",
+  "p": "bīngxiāng",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "牛奶在冰箱里。(Niúnǎi zài bīngxiāng li.)",
+   "Sut muzlatkichda."
+  ]
+ },
+ {
+  "w": "空调",
+  "uz": "konditsioner",
+  "ru": "кондиционер",
+  "p": "kōngtiáo",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "太热了，开空调吧。(Tài rè le, kāi kōngtiáo ba.)",
+   "Juda issiq, konditsionerni yoqaylik."
+  ]
+ },
+ {
+  "w": "灯",
+  "uz": "chiroq",
+  "ru": "лампа, свет",
+  "p": "dēng",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "请把灯关了。(Qǐng bǎ dēng guān le.)",
+   "Iltimos, chiroqni o'chiring."
+  ]
+ },
+ {
+  "w": "楼",
+  "uz": "bino; qavat",
+  "ru": "здание; этаж",
+  "p": "lóu",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "我住在三楼。(Wǒ zhù zài sān lóu.)",
+   "Men uchinchi qavatda yashayman."
+  ]
+ },
+ {
+  "w": "层",
+  "uz": "qavat",
+  "ru": "этаж",
+  "p": "céng",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "这个楼有二十层。(Zhège lóu yǒu èrshí céng.)",
+   "Bu bino yigirma qavatli."
+  ]
+ },
+ {
+  "w": "杯子",
+  "uz": "stakan, piyola",
+  "ru": "чашка, стакан",
+  "p": "bēizi",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "这是我的杯子。(Zhè shì wǒ de bēizi.)",
+   "Bu mening piyolam."
+  ]
+ },
+ {
+  "w": "筷子",
+  "uz": "cho'p tayoqchalar",
+  "ru": "палочки для еды",
+  "p": "kuàizi",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "你会用筷子吗？(Nǐ huì yòng kuàizi ma?)",
+   "Cho'p tayoqchalarni ishlata olasizmi?"
+  ]
+ },
+ {
+  "w": "碗",
+  "uz": "kosa",
+  "ru": "миска, пиала",
+  "p": "wǎn",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "桌子上有两个碗。(Zhuōzi shang yǒu liǎng ge wǎn.)",
+   "Stol ustida ikkita kosa bor."
+  ]
+ },
+ {
+  "w": "盘子",
+  "uz": "likopcha, tarelka",
+  "ru": "тарелка",
+  "p": "pánzi",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "请把盘子给我。(Qǐng bǎ pánzi gěi wǒ.)",
+   "Iltimos, likopchani menga bering."
+  ]
+ },
+ {
+  "w": "洗手间",
+  "uz": "hojatxona",
+  "ru": "туалет",
+  "p": "xǐshǒujiān",
+  "t": "uy",
+  "lv": 3,
+  "e": [
+   "请问，洗手间在哪儿？(Qǐngwèn, xǐshǒujiān zài nǎr?)",
+   "Kechirasiz, hojatxona qayerda?"
+  ]
+ },
+ {
+  "w": "窗户",
+  "uz": "deraza",
+  "ru": "окно",
+  "p": "chuānghu",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "请打开窗户。(Qǐng dǎkāi chuānghu.)",
+   "Iltimos, derazani oching."
+  ]
+ },
+ {
+  "w": "沙发",
+  "uz": "divan",
+  "ru": "диван",
+  "p": "shāfā",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "猫在沙发上睡觉。(Māo zài shāfā shang shuìjiào.)",
+   "Mushuk divanda uxlayapti."
+  ]
+ },
+ {
+  "w": "厨房",
+  "uz": "oshxona",
+  "ru": "кухня",
+  "p": "chúfáng",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "妈妈在厨房做饭。(Māma zài chúfáng zuò fàn.)",
+   "Oyim oshxonada ovqat pishiryapti."
+  ]
+ },
+ {
+  "w": "客厅",
+  "uz": "mehmonxona (xona)",
+  "ru": "гостиная",
+  "p": "kètīng",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "我们的客厅很大。(Wǒmen de kètīng hěn dà.)",
+   "Mehmonxonamiz juda katta."
+  ]
+ },
+ {
+  "w": "镜子",
+  "uz": "oyna, ko'zgu",
+  "ru": "зеркало",
+  "p": "jìngzi",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "她在照镜子。(Tā zài zhào jìngzi.)",
+   "U ko'zguga qarayapti."
+  ]
+ },
+ {
+  "w": "钥匙",
+  "uz": "kalit",
+  "ru": "ключ",
+  "p": "yàoshi",
+  "t": "uy",
+  "lv": 4,
+  "e": [
+   "我找不到钥匙了。(Wǒ zhǎo bu dào yàoshi le.)",
+   "Kalitimni topa olmayapman."
+  ]
+ },
+ {
+  "w": "住",
+  "uz": "yashamoq",
+  "ru": "жить",
+  "p": "zhù",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "你住在哪儿？(Nǐ zhù zài nǎr?)",
+   "Qayerda yashaysiz?"
+  ]
+ },
+ {
+  "w": "衣服",
+  "uz": "kiyim",
+  "ru": "одежда",
+  "p": "yīfu",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "我想买新衣服。(Wǒ xiǎng mǎi xīn yīfu.)",
+   "Yangi kiyim olmoqchiman."
+  ]
+ },
+ {
+  "w": "穿",
+  "uz": "kiymoq",
+  "ru": "надевать, носить",
+  "p": "chuān",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "今天很冷，多穿点儿。(Jīntiān hěn lěng, duō chuān diǎnr.)",
+   "Bugun sovuq, qalinroq kiyining."
+  ]
+ },
+ {
+  "w": "件",
+  "uz": "dona (kiyim uchun)",
+  "ru": "сч. слово (одежда, дела)",
+  "p": "jiàn",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "我买了一件衬衫。(Wǒ mǎi le yí jiàn chènshān.)",
+   "Men bitta ko'ylak oldim."
+  ]
+ },
+ {
+  "w": "衬衫",
+  "uz": "ko'ylak",
+  "ru": "рубашка",
+  "p": "chènshān",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "这件衬衫太小了。(Zhè jiàn chènshān tài xiǎo le.)",
+   "Bu ko'ylak juda kichik."
+  ]
+ },
+ {
+  "w": "裤子",
+  "uz": "shim",
+  "ru": "брюки",
+  "p": "kùzi",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "我要买一条裤子。(Wǒ yào mǎi yì tiáo kùzi.)",
+   "Men bitta shim olmoqchiman."
+  ]
+ },
+ {
+  "w": "裙子",
+  "uz": "yubka",
+  "ru": "юбка",
+  "p": "qúnzi",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "她的裙子很漂亮。(Tā de qúnzi hěn piàoliang.)",
+   "Uning yubkasi juda chiroyli."
+  ]
+ },
+ {
+  "w": "帽子",
+  "uz": "shapka, bosh kiyim",
+  "ru": "шапка, шляпа",
+  "p": "màozi",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "外面冷，戴上帽子。(Wàimiàn lěng, dài shang màozi.)",
+   "Tashqarida sovuq, shapka kiying."
+  ]
+ },
+ {
+  "w": "袜子",
+  "uz": "paypoq",
+  "ru": "носки",
+  "p": "wàzi",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "我买了三双袜子。(Wǒ mǎi le sān shuāng wàzi.)",
+   "Men uch juft paypoq oldim."
+  ]
+ },
+ {
+  "w": "眼镜",
+  "uz": "ko'zoynak",
+  "ru": "очки",
+  "p": "yǎnjìng",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "我的眼镜在哪儿？(Wǒ de yǎnjìng zài nǎr?)",
+   "Ko'zoynagim qayerda?"
+  ]
+ },
+ {
+  "w": "围巾",
+  "uz": "sharf",
+  "ru": "шарф",
+  "p": "wéijīn",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "这条围巾是妈妈送的。(Zhè tiáo wéijīn shì māma sòng de.)",
+   "Bu sharfni oyim sovg'a qilgan."
+  ]
+ },
+ {
+  "w": "手套",
+  "uz": "qo'lqop",
+  "ru": "перчатки",
+  "p": "shǒutào",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "冬天要戴手套。(Dōngtiān yào dài shǒutào.)",
+   "Qishda qo'lqop kiyish kerak."
+  ]
+ },
+ {
+  "w": "包",
+  "uz": "sumka",
+  "ru": "сумка",
+  "p": "bāo",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "你的包真漂亮！(Nǐ de bāo zhēn piàoliang!)",
+   "Sumkangiz juda chiroyli!"
+  ]
+ },
+ {
+  "w": "手表",
+  "uz": "qo'l soat",
+  "ru": "наручные часы",
+  "p": "shǒubiǎo",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "这块手表很贵。(Zhè kuài shǒubiǎo hěn guì.)",
+   "Bu qo'l soat juda qimmat."
+  ]
+ },
+ {
+  "w": "双",
+  "uz": "juft",
+  "ru": "пара",
+  "p": "shuāng",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "我想买一双鞋。(Wǒ xiǎng mǎi yì shuāng xié.)",
+   "Men bir juft poyabzal olmoqchiman."
+  ]
+ },
+ {
+  "w": "条",
+  "uz": "dona (uzun narsalar)",
+  "ru": "сч. слово (длинные предметы)",
+  "p": "tiáo",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "这条裤子多少钱？(Zhè tiáo kùzi duōshao qián?)",
+   "Bu shim qancha turadi?"
+  ]
+ },
+ {
+  "w": "换",
+  "uz": "almashtirmoq",
+  "ru": "менять",
+  "p": "huàn",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "我想换一件大的。(Wǒ xiǎng huàn yí jiàn dà de.)",
+   "Kattarog'iga almashtirmoqchiman."
+  ]
+ },
+ {
+  "w": "戴",
+  "uz": "taqmoq (ko'zoynak, shapka)",
+  "ru": "носить (очки, шапку)",
+  "p": "dài",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "他戴着眼镜。(Tā dài zhe yǎnjìng.)",
+   "U ko'zoynak taqqan."
+  ]
+ },
+ {
+  "w": "脱",
+  "uz": "yechmoq",
+  "ru": "снимать (одежду)",
+  "p": "tuō",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "进门请脱鞋。(Jìn mén qǐng tuō xié.)",
+   "Kirganda poyabzalni yeching."
+  ]
+ },
+ {
+  "w": "试",
+  "uz": "sinab ko'rmoq, kiyib ko'rmoq",
+  "ru": "пробовать, примерять",
+  "p": "shì",
+  "t": "kiyim",
+  "lv": 3,
+  "e": [
+   "我可以试一下吗？(Wǒ kěyǐ shì yíxià ma?)",
+   "Kiyib ko'rsam bo'ladimi?"
+  ]
+ },
+ {
+  "w": "合适",
+  "uz": "mos",
+  "ru": "подходящий",
+  "p": "héshì",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "这件衣服很合适。(Zhè jiàn yīfu hěn héshì.)",
+   "Bu kiyim juda mos."
+  ]
+ },
+ {
+  "w": "流行",
+  "uz": "urf, mashhur",
+  "ru": "модный, популярный",
+  "p": "liúxíng",
+  "t": "kiyim",
+  "lv": 4,
+  "e": [
+   "今年流行这种颜色。(Jīnnián liúxíng zhè zhǒng yánsè.)",
+   "Bu yil shu rang urfda."
+  ]
+ },
+ {
+  "w": "北京",
+  "uz": "Pekin",
+  "ru": "Пекин",
+  "p": "Běijīng",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "北京是中国的首都。(Běijīng shì Zhōngguó de shǒudū.)",
+   "Pekin Xitoyning poytaxti."
+  ]
+ },
+ {
+  "w": "中国",
+  "uz": "Xitoy",
+  "ru": "Китай",
+  "p": "Zhōngguó",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "我在中国学习。(Wǒ zài Zhōngguó xuéxí.)",
+   "Men Xitoyda o'qiyman."
+  ]
+ },
+ {
+  "w": "商店",
+  "uz": "do'kon",
+  "ru": "магазин",
+  "p": "shāngdiàn",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "商店几点开门？(Shāngdiàn jǐ diǎn kāi mén?)",
+   "Do'kon soat nechada ochiladi?"
+  ]
+ },
+ {
+  "w": "饭店",
+  "uz": "restoran; mehmonxona",
+  "ru": "ресторан; гостиница",
+  "p": "fàndiàn",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "我们去饭店吃饭吧。(Wǒmen qù fàndiàn chī fàn ba.)",
+   "Restoranga borib ovqatlanaylik."
+  ]
+ },
+ {
+  "w": "宾馆",
+  "uz": "mehmonxona",
+  "ru": "гостиница",
+  "p": "bīnguǎn",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "这个宾馆很干净。(Zhège bīnguǎn hěn gānjìng.)",
+   "Bu mehmonxona juda toza."
+  ]
+ },
+ {
+  "w": "银行",
+  "uz": "bank",
+  "ru": "банк",
+  "p": "yínháng",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "我去银行换钱。(Wǒ qù yínháng huàn qián.)",
+   "Men bankka pul almashtirgani boraman."
+  ]
+ },
+ {
+  "w": "超市",
+  "uz": "supermarket",
+  "ru": "супермаркет",
+  "p": "chāoshì",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "超市就在学校旁边。(Chāoshì jiù zài xuéxiào pángbiān.)",
+   "Supermarket maktabning yonginasida."
+  ]
+ },
+ {
+  "w": "公园",
+  "uz": "bog', park",
+  "ru": "парк",
+  "p": "gōngyuán",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "周末我们去公园吧。(Zhōumò wǒmen qù gōngyuán ba.)",
+   "Dam olish kuni parkka boraylik."
+  ]
+ },
+ {
+  "w": "街道",
+  "uz": "ko'cha",
+  "ru": "улица",
+  "p": "jiēdào",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "这条街道很热闹。(Zhè tiáo jiēdào hěn rènao.)",
+   "Bu ko'cha juda gavjum."
+  ]
+ },
+ {
+  "w": "城市",
+  "uz": "shahar",
+  "ru": "город",
+  "p": "chéngshì",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "上海是一个大城市。(Shànghǎi shì yí ge dà chéngshì.)",
+   "Shanxay katta shahar."
+  ]
+ },
+ {
+  "w": "地方",
+  "uz": "joy",
+  "ru": "место",
+  "p": "dìfang",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "这个地方很安静。(Zhège dìfang hěn ānjìng.)",
+   "Bu joy juda tinch."
+  ]
+ },
+ {
+  "w": "附近",
+  "uz": "yaqin atrof",
+  "ru": "поблизости",
+  "p": "fùjìn",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "附近有银行吗？(Fùjìn yǒu yínháng ma?)",
+   "Yaqin atrofda bank bormi?"
+  ]
+ },
+ {
+  "w": "国家",
+  "uz": "davlat, mamlakat",
+  "ru": "страна, государство",
+  "p": "guójiā",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "你去过几个国家？(Nǐ qù guo jǐ ge guójiā?)",
+   "Nechta davlatda bo'lgansiz?"
+  ]
+ },
+ {
+  "w": "世界",
+  "uz": "dunyo",
+  "ru": "мир",
+  "p": "shìjiè",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "世界很大。(Shìjiè hěn dà.)",
+   "Dunyo juda katta."
+  ]
+ },
+ {
+  "w": "东",
+  "uz": "sharq",
+  "ru": "восток",
+  "p": "dōng",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "太阳从东边出来。(Tàiyáng cóng dōngbian chūlai.)",
+   "Quyosh sharqdan chiqadi."
+  ]
+ },
+ {
+  "w": "西",
+  "uz": "g'arb",
+  "ru": "запад",
+  "p": "xī",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "银行在学校西边。(Yínháng zài xuéxiào xībian.)",
+   "Bank maktabning g'arb tomonida."
+  ]
+ },
+ {
+  "w": "南",
+  "uz": "janub",
+  "ru": "юг",
+  "p": "nán",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "广州在中国南方。(Guǎngzhōu zài Zhōngguó nánfāng.)",
+   "Guanchjou Xitoyning janubida."
+  ]
+ },
+ {
+  "w": "北方",
+  "uz": "shimol",
+  "ru": "север",
+  "p": "běifāng",
+  "t": "shahar",
+  "lv": 3,
+  "e": [
+   "北方的冬天很冷。(Běifāng de dōngtiān hěn lěng.)",
+   "Shimolda qish juda sovuq."
+  ]
+ },
+ {
+  "w": "旁边",
+  "uz": "yonida",
+  "ru": "рядом",
+  "p": "pángbiān",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "我家旁边有一个公园。(Wǒ jiā pángbiān yǒu yí ge gōngyuán.)",
+   "Uyimiz yonida park bor."
+  ]
+ },
+ {
+  "w": "左边",
+  "uz": "chap tomon",
+  "ru": "слева",
+  "p": "zuǒbian",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "银行在左边。(Yínháng zài zuǒbian.)",
+   "Bank chap tomonda."
+  ]
+ },
+ {
+  "w": "右边",
+  "uz": "o'ng tomon",
+  "ru": "справа",
+  "p": "yòubian",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "医院在超市右边。(Yīyuàn zài chāoshì yòubian.)",
+   "Kasalxona supermarketning o'ng tomonida."
+  ]
+ },
+ {
+  "w": "邮局",
+  "uz": "pochta",
+  "ru": "почта",
+  "p": "yóujú",
+  "t": "shahar",
+  "lv": 4,
+  "e": [
+   "我要去邮局寄信。(Wǒ yào qù yóujú jì xìn.)",
+   "Men xat jo'natish uchun pochtaga boraman."
+  ]
+ },
+ {
+  "w": "飞机",
+  "uz": "samolyot",
+  "ru": "самолёт",
+  "p": "fēijī",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "我坐飞机去上海。(Wǒ zuò fēijī qù Shànghǎi.)",
+   "Men Shanxayga samolyotda boraman."
+  ]
+ },
+ {
+  "w": "出租车",
+  "uz": "taksi",
+  "ru": "такси",
+  "p": "chūzūchē",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "我们坐出租车吧。(Wǒmen zuò chūzūchē ba.)",
+   "Taksida boraylik."
+  ]
+ },
+ {
+  "w": "火车站",
+  "uz": "vokzal",
+  "ru": "вокзал",
+  "p": "huǒchēzhàn",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "火车站离这儿远吗？(Huǒchēzhàn lí zhèr yuǎn ma?)",
+   "Vokzal bu yerdan uzoqmi?"
+  ]
+ },
+ {
+  "w": "公共汽车",
+  "uz": "avtobus",
+  "ru": "автобус",
+  "p": "gōnggòng qìchē",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "我每天坐公共汽车上班。(Wǒ měi tiān zuò gōnggòng qìchē shàngbān.)",
+   "Men har kuni ishga avtobusda boraman."
+  ]
+ },
+ {
+  "w": "机场",
+  "uz": "aeroport",
+  "ru": "аэропорт",
+  "p": "jīchǎng",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "我去机场接朋友。(Wǒ qù jīchǎng jiē péngyou.)",
+   "Do'stimni kutib olgani aeroportga boraman."
+  ]
+ },
+ {
+  "w": "票",
+  "uz": "chipta",
+  "ru": "билет",
+  "p": "piào",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "我买了两张火车票。(Wǒ mǎi le liǎng zhāng huǒchē piào.)",
+   "Men ikkita poyezd chiptasi oldim."
+  ]
+ },
+ {
+  "w": "路",
+  "uz": "yo'l",
+  "ru": "дорога",
+  "p": "lù",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "这条路很长。(Zhè tiáo lù hěn cháng.)",
+   "Bu yo'l juda uzun."
+  ]
+ },
+ {
+  "w": "旅游",
+  "uz": "sayohat qilmoq",
+  "ru": "путешествовать",
+  "p": "lǚyóu",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "我想去中国旅游。(Wǒ xiǎng qù Zhōngguó lǚyóu.)",
+   "Xitoyga sayohat qilmoqchiman."
+  ]
+ },
+ {
+  "w": "船",
+  "uz": "kema, qayiq",
+  "ru": "корабль, лодка",
+  "p": "chuán",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "我们坐船过河。(Wǒmen zuò chuán guò hé.)",
+   "Biz daryodan qayiqda o'tamiz."
+  ]
+ },
+ {
+  "w": "地铁",
+  "uz": "metro",
+  "ru": "метро",
+  "p": "dìtiě",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "坐地铁很方便。(Zuò dìtiě hěn fāngbiàn.)",
+   "Metroda yurish juda qulay."
+  ]
+ },
+ {
+  "w": "骑",
+  "uz": "minmoq (velosiped, ot)",
+  "ru": "ехать верхом (на велосипеде, лошади)",
+  "p": "qí",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "我骑自行车上学。(Wǒ qí zìxíngchē shàngxué.)",
+   "Men o'qishga velosipedda boraman."
+  ]
+ },
+ {
+  "w": "司机",
+  "uz": "haydovchi",
+  "ru": "водитель",
+  "p": "sījī",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "司机，请开慢一点儿。(Sījī, qǐng kāi màn yìdiǎnr.)",
+   "Haydovchi, iltimos, sekinroq haydang."
+  ]
+ },
+ {
+  "w": "护照",
+  "uz": "pasport",
+  "ru": "паспорт",
+  "p": "hùzhào",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "请给我看一下护照。(Qǐng gěi wǒ kàn yíxià hùzhào.)",
+   "Iltimos, pasportingizni ko'rsating."
+  ]
+ },
+ {
+  "w": "行李箱",
+  "uz": "chamadon",
+  "ru": "чемодан",
+  "p": "xínglixiāng",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "我的行李箱很重。(Wǒ de xínglixiāng hěn zhòng.)",
+   "Mening chamadonim juda og'ir."
+  ]
+ },
+ {
+  "w": "起飞",
+  "uz": "uchib ketmoq (samolyot)",
+  "ru": "взлетать",
+  "p": "qǐfēi",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "飞机几点起飞？(Fēijī jǐ diǎn qǐfēi?)",
+   "Samolyot soat nechada uchadi?"
+  ]
+ },
+ {
+  "w": "辆",
+  "uz": "dona (transport uchun)",
+  "ru": "сч. слово (машины)",
+  "p": "liàng",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "门口有一辆出租车。(Ménkǒu yǒu yí liàng chūzūchē.)",
+   "Eshik oldida bitta taksi bor."
+  ]
+ },
+ {
+  "w": "出发",
+  "uz": "yo'lga chiqmoq",
+  "ru": "отправляться",
+  "p": "chūfā",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "我们明天早上出发。(Wǒmen míngtiān zǎoshang chūfā.)",
+   "Ertaga ertalab yo'lga chiqamiz."
+  ]
+ },
+ {
+  "w": "堵车",
+  "uz": "tirbandlik",
+  "ru": "пробка (на дороге)",
+  "p": "dǔchē",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "今天路上堵车了。(Jīntiān lù shang dǔchē le.)",
+   "Bugun yo'lda tirbandlik bo'ldi."
+  ]
+ },
+ {
+  "w": "航班",
+  "uz": "reys",
+  "ru": "авиарейс",
+  "p": "hángbān",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "我的航班晚点了。(Wǒ de hángbān wǎndiǎn le.)",
+   "Reysim kechikdi."
+  ]
+ },
+ {
+  "w": "签证",
+  "uz": "viza",
+  "ru": "виза",
+  "p": "qiānzhèng",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "去中国要办签证。(Qù Zhōngguó yào bàn qiānzhèng.)",
+   "Xitoyga borish uchun viza olish kerak."
+  ]
+ },
+ {
+  "w": "交通",
+  "uz": "transport, qatnov",
+  "ru": "транспорт, движение",
+  "p": "jiāotōng",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "这里的交通很方便。(Zhèlǐ de jiāotōng hěn fāngbiàn.)",
+   "Bu yerda transport juda qulay."
+  ]
+ },
+ {
+  "w": "地址",
+  "uz": "manzil",
+  "ru": "адрес",
+  "p": "dìzhǐ",
+  "t": "transport",
+  "lv": 4,
+  "e": [
+   "请告诉我你的地址。(Qǐng gàosu wǒ nǐ de dìzhǐ.)",
+   "Iltimos, manzilingizni ayting."
+  ]
+ },
+ {
+  "w": "工作",
+  "uz": "ish; ishlamoq",
+  "ru": "работа; работать",
+  "p": "gōngzuò",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "你在哪儿工作？(Nǐ zài nǎr gōngzuò?)",
+   "Qayerda ishlaysiz?"
+  ]
+ },
+ {
+  "w": "服务员",
+  "uz": "ofitsiant, xizmatchi",
+  "ru": "официант",
+  "p": "fúwùyuán",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "服务员，请给我菜单。(Fúwùyuán, qǐng gěi wǒ càidān.)",
+   "Ofitsiant, menga menyuni bering."
+  ]
+ },
+ {
+  "w": "公司",
+  "uz": "kompaniya",
+  "ru": "компания",
+  "p": "gōngsī",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "他在一家大公司工作。(Tā zài yì jiā dà gōngsī gōngzuò.)",
+   "U katta kompaniyada ishlaydi."
+  ]
+ },
+ {
+  "w": "上班",
+  "uz": "ishga bormoq",
+  "ru": "ходить на работу",
+  "p": "shàngbān",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "我八点上班。(Wǒ bā diǎn shàngbān.)",
+   "Men soat sakkizda ishga boraman."
+  ]
+ },
+ {
+  "w": "经理",
+  "uz": "menejer, rahbar",
+  "ru": "менеджер, директор",
+  "p": "jīnglǐ",
+  "t": "ish",
+  "lv": 3,
+  "e": [
+   "经理在开会。(Jīnglǐ zài kāihuì.)",
+   "Menejer majlisda."
+  ]
+ },
+ {
+  "w": "同事",
+  "uz": "hamkasb",
+  "ru": "коллега",
+  "p": "tóngshì",
+  "t": "ish",
+  "lv": 3,
+  "e": [
+   "我的同事都很热情。(Wǒ de tóngshì dōu hěn rèqíng.)",
+   "Hamkasblarimning hammasi juda samimiy."
+  ]
+ },
+ {
+  "w": "办公室",
+  "uz": "ofis, idora",
+  "ru": "офис, кабинет",
+  "p": "bàngōngshì",
+  "t": "ish",
+  "lv": 3,
+  "e": [
+   "经理在办公室里。(Jīnglǐ zài bàngōngshì li.)",
+   "Menejer ofisda."
+  ]
+ },
+ {
+  "w": "会议",
+  "uz": "majlis, yig'ilish",
+  "ru": "собрание, совещание",
+  "p": "huìyì",
+  "t": "ish",
+  "lv": 3,
+  "e": [
+   "会议下午两点开始。(Huìyì xiàwǔ liǎng diǎn kāishǐ.)",
+   "Majlis soat ikkida boshlanadi."
+  ]
+ },
+ {
+  "w": "警察",
+  "uz": "politsiyachi",
+  "ru": "полицейский",
+  "p": "jǐngchá",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "我哥哥是警察。(Wǒ gēge shì jǐngchá.)",
+   "Akam politsiyachi."
+  ]
+ },
+ {
+  "w": "律师",
+  "uz": "advokat",
+  "ru": "адвокат, юрист",
+  "p": "lǜshī",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "她想当律师。(Tā xiǎng dāng lǜshī.)",
+   "U advokat bo'lmoqchi."
+  ]
+ },
+ {
+  "w": "记者",
+  "uz": "jurnalist, muxbir",
+  "ru": "журналист",
+  "p": "jìzhě",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "那个记者问了很多问题。(Nàge jìzhě wèn le hěn duō wèntí.)",
+   "O'sha jurnalist ko'p savol berdi."
+  ]
+ },
+ {
+  "w": "演员",
+  "uz": "aktyor",
+  "ru": "актёр",
+  "p": "yǎnyuán",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "他是一个有名的演员。(Tā shì yí ge yǒumíng de yǎnyuán.)",
+   "U mashhur aktyor."
+  ]
+ },
+ {
+  "w": "工资",
+  "uz": "maosh",
+  "ru": "зарплата",
+  "p": "gōngzī",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "他的工资很高。(Tā de gōngzī hěn gāo.)",
+   "Uning maoshi juda yuqori."
+  ]
+ },
+ {
+  "w": "职业",
+  "uz": "kasb",
+  "ru": "профессия",
+  "p": "zhíyè",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "你的职业是什么？(Nǐ de zhíyè shì shénme?)",
+   "Kasbingiz nima?"
+  ]
+ },
+ {
+  "w": "加班",
+  "uz": "qo'shimcha ishlamoq",
+  "ru": "работать сверхурочно",
+  "p": "jiābān",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "今天我要加班。(Jīntiān wǒ yào jiābān.)",
+   "Bugun ishda qolib ishlashim kerak."
+  ]
+ },
+ {
+  "w": "面试",
+  "uz": "ish suhbati",
+  "ru": "собеседование",
+  "p": "miànshì",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "明天我有一个面试。(Míngtiān wǒ yǒu yí ge miànshì.)",
+   "Ertaga mening ish suhbatim bor."
+  ]
+ },
+ {
+  "w": "经验",
+  "uz": "tajriba",
+  "ru": "опыт",
+  "p": "jīngyàn",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "他有很多工作经验。(Tā yǒu hěn duō gōngzuò jīngyàn.)",
+   "Uning ish tajribasi katta."
+  ]
+ },
+ {
+  "w": "工程师",
+  "uz": "muhandis",
+  "ru": "инженер",
+  "p": "gōngchéngshī",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "我爸爸是工程师。(Wǒ bàba shì gōngchéngshī.)",
+   "Dadam muhandis."
+  ]
+ },
+ {
+  "w": "任务",
+  "uz": "vazifa, topshiriq",
+  "ru": "задание, задача",
+  "p": "rènwu",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "这个任务很重要。(Zhège rènwu hěn zhòngyào.)",
+   "Bu vazifa juda muhim."
+  ]
+ },
+ {
+  "w": "请假",
+  "uz": "javob so'ramoq (ishdan)",
+  "ru": "отпрашиваться",
+  "p": "qǐngjià",
+  "t": "ish",
+  "lv": 3,
+  "e": [
+   "我生病了，想请假。(Wǒ shēngbìng le, xiǎng qǐngjià.)",
+   "Kasal bo'lib qoldim, javob so'ramoqchiman."
+  ]
+ },
+ {
+  "w": "计划",
+  "uz": "reja",
+  "ru": "план",
+  "p": "jìhuà",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "你有什么计划？(Nǐ yǒu shénme jìhuà?)",
+   "Qanday rejalaringiz bor?"
+  ]
+ },
+ {
+  "w": "售货员",
+  "uz": "sotuvchi",
+  "ru": "продавец",
+  "p": "shòuhuòyuán",
+  "t": "ish",
+  "lv": 4,
+  "e": [
+   "售货员很热情。(Shòuhuòyuán hěn rèqíng.)",
+   "Sotuvchi juda xushmuomala."
+  ]
+ },
+ {
+  "w": "学生",
+  "uz": "o'quvchi, talaba",
+  "ru": "ученик, студент",
+  "p": "xuésheng",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "他是我的学生。(Tā shì wǒ de xuésheng.)",
+   "U mening o'quvchim."
+  ]
+ },
+ {
+  "w": "学习",
+  "uz": "o'qimoq, o'rganmoq",
+  "ru": "учиться",
+  "p": "xuéxí",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "我在学习汉语。(Wǒ zài xuéxí Hànyǔ.)",
+   "Men xitoy tilini o'rganyapman."
+  ]
+ },
+ {
+  "w": "学校",
+  "uz": "maktab, o'quv yurti",
+  "ru": "школа",
+  "p": "xuéxiào",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "我们学校很大。(Wǒmen xuéxiào hěn dà.)",
+   "Bizning maktabimiz juda katta."
+  ]
+ },
+ {
+  "w": "老师",
+  "uz": "o'qituvchi, ustoz",
+  "ru": "учитель",
+  "p": "lǎoshī",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "我们的老师很好。(Wǒmen de lǎoshī hěn hǎo.)",
+   "Ustozimiz juda yaxshi."
+  ]
+ },
+ {
+  "w": "同学",
+  "uz": "sinfdosh, kursdosh",
+  "ru": "одноклассник",
+  "p": "tóngxué",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "他是我的同学。(Tā shì wǒ de tóngxué.)",
+   "U mening kursdoshim."
+  ]
+ },
+ {
+  "w": "汉语",
+  "uz": "xitoy tili",
+  "ru": "китайский язык",
+  "p": "Hànyǔ",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "汉语难吗？(Hànyǔ nán ma?)",
+   "Xitoy tili qiyinmi?"
+  ]
+ },
+ {
+  "w": "书",
+  "uz": "kitob",
+  "ru": "книга",
+  "p": "shū",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "这本书很有意思。(Zhè běn shū hěn yǒu yìsi.)",
+   "Bu kitob juda qiziq."
+  ]
+ },
+ {
+  "w": "字",
+  "uz": "iyeroglif, harf",
+  "ru": "иероглиф, знак",
+  "p": "zì",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "这个字怎么读？(Zhège zì zěnme dú?)",
+   "Bu iyeroglif qanday o'qiladi?"
+  ]
+ },
+ {
+  "w": "考试",
+  "uz": "imtihon",
+  "ru": "экзамен",
+  "p": "kǎoshì",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "明天有汉语考试。(Míngtiān yǒu Hànyǔ kǎoshì.)",
+   "Ertaga xitoy tili imtihoni bor."
+  ]
+ },
+ {
+  "w": "课",
+  "uz": "dars",
+  "ru": "урок",
+  "p": "kè",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "今天有几节课？(Jīntiān yǒu jǐ jié kè?)",
+   "Bugun nechta dars bor?"
+  ]
+ },
+ {
+  "w": "教室",
+  "uz": "sinfxona, auditoriya",
+  "ru": "аудитория, класс",
+  "p": "jiàoshì",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "学生们在教室里。(Xuéshengmen zài jiàoshì li.)",
+   "O'quvchilar sinfxonada."
+  ]
+ },
+ {
+  "w": "问题",
+  "uz": "savol; muammo",
+  "ru": "вопрос; проблема",
+  "p": "wèntí",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "我有一个问题。(Wǒ yǒu yí ge wèntí.)",
+   "Mening bitta savolim bor."
+  ]
+ },
+ {
+  "w": "铅笔",
+  "uz": "qalam",
+  "ru": "карандаш",
+  "p": "qiānbǐ",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "我可以用你的铅笔吗？(Wǒ kěyǐ yòng nǐ de qiānbǐ ma?)",
+   "Qalamingizdan foydalansam bo'ladimi?"
+  ]
+ },
+ {
+  "w": "黑板",
+  "uz": "doska",
+  "ru": "доска",
+  "p": "hēibǎn",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "老师在黑板上写字。(Lǎoshī zài hēibǎn shang xiě zì.)",
+   "O'qituvchi doskaga yozyapti."
+  ]
+ },
+ {
+  "w": "作业",
+  "uz": "uy vazifasi",
+  "ru": "домашнее задание",
+  "p": "zuòyè",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "我还没做完作业。(Wǒ hái méi zuò wán zuòyè.)",
+   "Men hali uy vazifasini tugatmadim."
+  ]
+ },
+ {
+  "w": "年级",
+  "uz": "sinf, kurs",
+  "ru": "класс, курс",
+  "p": "niánjí",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "你上几年级？(Nǐ shàng jǐ niánjí?)",
+   "Nechanchi sinfda o'qiysiz?"
+  ]
+ },
+ {
+  "w": "成绩",
+  "uz": "baho, natija",
+  "ru": "оценка, результат",
+  "p": "chéngjì",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "他的成绩很好。(Tā de chéngjì hěn hǎo.)",
+   "Uning baholari juda yaxshi."
+  ]
+ },
+ {
+  "w": "数学",
+  "uz": "matematika",
+  "ru": "математика",
+  "p": "shùxué",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "我喜欢数学课。(Wǒ xǐhuan shùxué kè.)",
+   "Men matematika darsini yoqtiraman."
+  ]
+ },
+ {
+  "w": "历史",
+  "uz": "tarix",
+  "ru": "история",
+  "p": "lìshǐ",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "中国的历史很长。(Zhōngguó de lìshǐ hěn cháng.)",
+   "Xitoy tarixi juda uzun."
+  ]
+ },
+ {
+  "w": "复习",
+  "uz": "takrorlamoq",
+  "ru": "повторять (урок)",
+  "p": "fùxí",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "考试前要好好复习。(Kǎoshì qián yào hǎohāo fùxí.)",
+   "Imtihondan oldin yaxshilab takrorlash kerak."
+  ]
+ },
+ {
+  "w": "练习",
+  "uz": "mashq; mashq qilmoq",
+  "ru": "упражнение; упражняться",
+  "p": "liànxí",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "我每天练习说汉语。(Wǒ měi tiān liànxí shuō Hànyǔ.)",
+   "Men har kuni xitoycha gapirishni mashq qilaman."
+  ]
+ },
+ {
+  "w": "图书馆",
+  "uz": "kutubxona",
+  "ru": "библиотека",
+  "p": "túshūguǎn",
+  "t": "maktab",
+  "lv": 3,
+  "e": [
+   "我在图书馆看书。(Wǒ zài túshūguǎn kàn shū.)",
+   "Men kutubxonada kitob o'qiyman."
+  ]
+ },
+ {
+  "w": "毕业",
+  "uz": "o'qishni bitirmoq",
+  "ru": "окончить учёбу",
+  "p": "bìyè",
+  "t": "maktab",
+  "lv": 4,
+  "e": [
+   "我明年大学毕业。(Wǒ míngnián dàxué bìyè.)",
+   "Men kelasi yili universitetni bitiraman."
+  ]
+ },
+ {
+  "w": "狗",
+  "uz": "it",
+  "ru": "собака",
+  "p": "gǒu",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "我家有一只狗。(Wǒ jiā yǒu yì zhī gǒu.)",
+   "Uyimizda bitta it bor."
+  ]
+ },
+ {
+  "w": "猫",
+  "uz": "mushuk",
+  "ru": "кошка",
+  "p": "māo",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "小猫在睡觉。(Xiǎo māo zài shuìjiào.)",
+   "Mushukcha uxlayapti."
+  ]
+ },
+ {
+  "w": "动物",
+  "uz": "hayvon",
+  "ru": "животное",
+  "p": "dòngwù",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "你喜欢什么动物？(Nǐ xǐhuan shénme dòngwù?)",
+   "Qaysi hayvonni yoqtirasiz?"
+  ]
+ },
+ {
+  "w": "熊猫",
+  "uz": "panda",
+  "ru": "панда",
+  "p": "xióngmāo",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "熊猫是中国的国宝。(Xióngmāo shì Zhōngguó de guóbǎo.)",
+   "Panda Xitoyning milliy boyligi."
+  ]
+ },
+ {
+  "w": "鸟",
+  "uz": "qush",
+  "ru": "птица",
+  "p": "niǎo",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "树上有一只鸟。(Shù shang yǒu yì zhī niǎo.)",
+   "Daraxtda bitta qush bor."
+  ]
+ },
+ {
+  "w": "马",
+  "uz": "ot",
+  "ru": "лошадь",
+  "p": "mǎ",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "他会骑马。(Tā huì qí mǎ.)",
+   "U ot minishni biladi."
+  ]
+ },
+ {
+  "w": "树",
+  "uz": "daraxt",
+  "ru": "дерево",
+  "p": "shù",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "公园里有很多树。(Gōngyuán li yǒu hěn duō shù.)",
+   "Parkda daraxtlar ko'p."
+  ]
+ },
+ {
+  "w": "草",
+  "uz": "o't, maysa",
+  "ru": "трава",
+  "p": "cǎo",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "春天草绿了。(Chūntiān cǎo lǜ le.)",
+   "Bahorda maysalar ko'kardi."
+  ]
+ },
+ {
+  "w": "花",
+  "uz": "gul",
+  "ru": "цветок",
+  "p": "huā",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "这些花很香。(Zhèxiē huā hěn xiāng.)",
+   "Bu gullar juda xushbo'y."
+  ]
+ },
+ {
+  "w": "太阳",
+  "uz": "quyosh",
+  "ru": "солнце",
+  "p": "tàiyáng",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "今天太阳很大。(Jīntiān tàiyáng hěn dà.)",
+   "Bugun quyosh juda kuchli."
+  ]
+ },
+ {
+  "w": "月亮",
+  "uz": "oy (osmondagi)",
+  "ru": "луна",
+  "p": "yuèliang",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "今晚的月亮很圆。(Jīnwǎn de yuèliang hěn yuán.)",
+   "Bugun kechasi oy to'lin."
+  ]
+ },
+ {
+  "w": "环境",
+  "uz": "atrof-muhit",
+  "ru": "окружающая среда",
+  "p": "huánjìng",
+  "t": "tabiat",
+  "lv": 3,
+  "e": [
+   "我们要保护环境。(Wǒmen yào bǎohù huánjìng.)",
+   "Biz atrof-muhitni asrashimiz kerak."
+  ]
+ },
+ {
+  "w": "老虎",
+  "uz": "yo'lbars",
+  "ru": "тигр",
+  "p": "lǎohǔ",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "老虎是很危险的动物。(Lǎohǔ shì hěn wēixiǎn de dòngwù.)",
+   "Yo'lbars juda xavfli hayvon."
+  ]
+ },
+ {
+  "w": "猴子",
+  "uz": "maymun",
+  "ru": "обезьяна",
+  "p": "hóuzi",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "动物园里有很多猴子。(Dòngwùyuán li yǒu hěn duō hóuzi.)",
+   "Hayvonot bog'ida maymunlar ko'p."
+  ]
+ },
+ {
+  "w": "森林",
+  "uz": "o'rmon",
+  "ru": "лес",
+  "p": "sēnlín",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "森林里有很多动物。(Sēnlín li yǒu hěn duō dòngwù.)",
+   "O'rmonda hayvonlar ko'p."
+  ]
+ },
+ {
+  "w": "海洋",
+  "uz": "okean, dengiz",
+  "ru": "океан, море",
+  "p": "hǎiyáng",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "海洋里有很多鱼。(Hǎiyáng li yǒu hěn duō yú.)",
+   "Okeanda baliqlar ko'p."
+  ]
+ },
+ {
+  "w": "叶子",
+  "uz": "barg",
+  "ru": "лист (дерева)",
+  "p": "yèzi",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "秋天叶子变黄了。(Qiūtiān yèzi biàn huáng le.)",
+   "Kuzda barglar sarg'aydi."
+  ]
+ },
+ {
+  "w": "自然",
+  "uz": "tabiat",
+  "ru": "природа",
+  "p": "zìrán",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "我喜欢大自然。(Wǒ xǐhuan dà zìrán.)",
+   "Men tabiatni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "地球",
+  "uz": "Yer (sayyora)",
+  "ru": "Земля (планета)",
+  "p": "dìqiú",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "地球是我们的家。(Dìqiú shì wǒmen de jiā.)",
+   "Yer bizning uyimiz."
+  ]
+ },
+ {
+  "w": "江",
+  "uz": "daryo",
+  "ru": "река",
+  "p": "jiāng",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "长江很长，也很美。(Chángjiāng hěn cháng, yě hěn měi.)",
+   "Yanszi daryosi juda uzun va go'zal."
+  ]
+ },
+ {
+  "w": "污染",
+  "uz": "ifloslanish",
+  "ru": "загрязнение",
+  "p": "wūrǎn",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "这里的空气污染很严重。(Zhèlǐ de kōngqì wūrǎn hěn yánzhòng.)",
+   "Bu yerda havo ifloslanishi juda jiddiy."
+  ]
+ },
+ {
+  "w": "保护",
+  "uz": "himoya qilmoq, asramoq",
+  "ru": "защищать",
+  "p": "bǎohù",
+  "t": "tabiat",
+  "lv": 4,
+  "e": [
+   "我们要保护动物。(Wǒmen yào bǎohù dòngwù.)",
+   "Biz hayvonlarni himoya qilishimiz kerak."
+  ]
+ },
+ {
+  "w": "天气",
+  "uz": "ob-havo",
+  "ru": "погода",
+  "p": "tiānqì",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "今天天气怎么样？(Jīntiān tiānqì zěnmeyàng?)",
+   "Bugun havo qanday?"
+  ]
+ },
+ {
+  "w": "冷",
+  "uz": "sovuq",
+  "ru": "холодный",
+  "p": "lěng",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "今天很冷。(Jīntiān hěn lěng.)",
+   "Bugun juda sovuq."
+  ]
+ },
+ {
+  "w": "热",
+  "uz": "issiq",
+  "ru": "жаркий",
+  "p": "rè",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "夏天很热。(Xiàtiān hěn rè.)",
+   "Yozda juda issiq."
+  ]
+ },
+ {
+  "w": "下雨",
+  "uz": "yomg'ir yog'moq",
+  "ru": "идёт дождь",
+  "p": "xià yǔ",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "外面在下雨。(Wàimiàn zài xià yǔ.)",
+   "Tashqarida yomg'ir yog'yapti."
+  ]
+ },
+ {
+  "w": "晴",
+  "uz": "ochiq (havo)",
+  "ru": "ясный",
+  "p": "qíng",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "明天是晴天。(Míngtiān shì qíngtiān.)",
+   "Ertaga havo ochiq bo'ladi."
+  ]
+ },
+ {
+  "w": "阴",
+  "uz": "bulutli",
+  "ru": "пасмурный",
+  "p": "yīn",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "今天是阴天。(Jīntiān shì yīntiān.)",
+   "Bugun havo bulutli."
+  ]
+ },
+ {
+  "w": "雪",
+  "uz": "qor",
+  "ru": "снег",
+  "p": "xuě",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "昨天下雪了。(Zuótiān xià xuě le.)",
+   "Kecha qor yog'di."
+  ]
+ },
+ {
+  "w": "刮风",
+  "uz": "shamol esmoq",
+  "ru": "дует ветер",
+  "p": "guā fēng",
+  "t": "havo",
+  "lv": 3,
+  "e": [
+   "今天刮大风。(Jīntiān guā dà fēng.)",
+   "Bugun kuchli shamol esyapti."
+  ]
+ },
+ {
+  "w": "温度",
+  "uz": "harorat",
+  "ru": "температура",
+  "p": "wēndù",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "今天的温度很高。(Jīntiān de wēndù hěn gāo.)",
+   "Bugun harorat juda yuqori."
+  ]
+ },
+ {
+  "w": "气候",
+  "uz": "iqlim",
+  "ru": "климат",
+  "p": "qìhòu",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "这里的气候很好。(Zhèlǐ de qìhòu hěn hǎo.)",
+   "Bu yerning iqlimi juda yaxshi."
+  ]
+ },
+ {
+  "w": "暖和",
+  "uz": "iliq",
+  "ru": "тёплый",
+  "p": "nuǎnhuo",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "春天很暖和。(Chūntiān hěn nuǎnhuo.)",
+   "Bahorda havo iliq."
+  ]
+ },
+ {
+  "w": "凉快",
+  "uz": "salqin",
+  "ru": "прохладный",
+  "p": "liángkuai",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "秋天很凉快。(Qiūtiān hěn liángkuai.)",
+   "Kuzda havo salqin."
+  ]
+ },
+ {
+  "w": "阳光",
+  "uz": "quyosh nuri",
+  "ru": "солнечный свет",
+  "p": "yángguāng",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "今天阳光很好。(Jīntiān yángguāng hěn hǎo.)",
+   "Bugun quyosh charaqlab turibdi."
+  ]
+ },
+ {
+  "w": "空气",
+  "uz": "havo (nafas olinadigan)",
+  "ru": "воздух",
+  "p": "kōngqì",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "山上的空气很新鲜。(Shān shang de kōngqì hěn xīnxiān.)",
+   "Tog'da havo juda toza."
+  ]
+ },
+ {
+  "w": "干燥",
+  "uz": "quruq",
+  "ru": "сухой",
+  "p": "gānzào",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "北京的冬天很干燥。(Běijīng de dōngtiān hěn gānzào.)",
+   "Pekinda qish juda quruq."
+  ]
+ },
+ {
+  "w": "湿润",
+  "uz": "nam, rutubatli",
+  "ru": "влажный",
+  "p": "shīrùn",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "南方的空气很湿润。(Nánfāng de kōngqì hěn shīrùn.)",
+   "Janubda havo nam bo'ladi."
+  ]
+ },
+ {
+  "w": "度",
+  "uz": "daraja",
+  "ru": "градус",
+  "p": "dù",
+  "t": "havo",
+  "lv": 4,
+  "e": [
+   "今天三十度。(Jīntiān sānshí dù.)",
+   "Bugun o'ttiz daraja."
+  ]
+ },
+ {
+  "w": "伞",
+  "uz": "soyabon",
+  "ru": "зонт",
+  "p": "sǎn",
+  "t": "havo",
+  "lv": 3,
+  "e": [
+   "下雨了，带伞吧。(Xià yǔ le, dài sǎn ba.)",
+   "Yomg'ir yog'yapti, soyabon oling."
+  ]
+ },
+ {
+  "w": "变化",
+  "uz": "o'zgarish; o'zgarmoq",
+  "ru": "изменение; меняться",
+  "p": "biànhuà",
+  "t": "havo",
+  "lv": 3,
+  "e": [
+   "这里的天气变化很大。(Zhèlǐ de tiānqì biànhuà hěn dà.)",
+   "Bu yerda ob-havo juda o'zgaruvchan."
+  ]
+ },
+ {
+  "w": "买",
+  "uz": "sotib olmoq",
+  "ru": "покупать",
+  "p": "mǎi",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "我想买一个手机。(Wǒ xiǎng mǎi yí ge shǒujī.)",
+   "Men telefon sotib olmoqchiman."
+  ]
+ },
+ {
+  "w": "卖",
+  "uz": "sotmoq",
+  "ru": "продавать",
+  "p": "mài",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "这里卖水果吗？(Zhèlǐ mài shuǐguǒ ma?)",
+   "Bu yerda meva sotiladimi?"
+  ]
+ },
+ {
+  "w": "钱",
+  "uz": "pul",
+  "ru": "деньги",
+  "p": "qián",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "这个多少钱？(Zhège duōshao qián?)",
+   "Bu qancha turadi?"
+  ]
+ },
+ {
+  "w": "块",
+  "uz": "yuan (og'zaki)",
+  "ru": "юань (разг.)",
+  "p": "kuài",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "这个苹果三块钱。(Zhège píngguǒ sān kuài qián.)",
+   "Bu olma uch yuan."
+  ]
+ },
+ {
+  "w": "东西",
+  "uz": "narsa, buyum",
+  "ru": "вещь",
+  "p": "dōngxi",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "我去超市买东西。(Wǒ qù chāoshì mǎi dōngxi.)",
+   "Men supermarketga xarid qilgani boraman."
+  ]
+ },
+ {
+  "w": "贵",
+  "uz": "qimmat",
+  "ru": "дорогой",
+  "p": "guì",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "这件衣服太贵了。(Zhè jiàn yīfu tài guì le.)",
+   "Bu kiyim juda qimmat."
+  ]
+ },
+ {
+  "w": "便宜",
+  "uz": "arzon",
+  "ru": "дешёвый",
+  "p": "piányi",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "能便宜一点儿吗？(Néng piányi yìdiǎnr ma?)",
+   "Arzonroq qilsangiz bo'ladimi?"
+  ]
+ },
+ {
+  "w": "元",
+  "uz": "yuan",
+  "ru": "юань",
+  "p": "yuán",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "这本书二十元。(Zhè běn shū èrshí yuán.)",
+   "Bu kitob yigirma yuan."
+  ]
+ },
+ {
+  "w": "角",
+  "uz": "jiao (yuanning o'ndan biri)",
+  "ru": "цзяо (1/10 юаня)",
+  "p": "jiǎo",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "一块等于十角。(Yí kuài děngyú shí jiǎo.)",
+   "Bir yuan o'n jiaoga teng."
+  ]
+ },
+ {
+  "w": "一共",
+  "uz": "jami",
+  "ru": "всего",
+  "p": "yígòng",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "一共多少钱？(Yígòng duōshao qián?)",
+   "Jami qancha bo'ldi?"
+  ]
+ },
+ {
+  "w": "信用卡",
+  "uz": "kredit karta",
+  "ru": "кредитная карта",
+  "p": "xìnyòngkǎ",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "可以用信用卡吗？(Kěyǐ yòng xìnyòngkǎ ma?)",
+   "Kredit karta bilan to'lasa bo'ladimi?"
+  ]
+ },
+ {
+  "w": "价格",
+  "uz": "narx",
+  "ru": "цена",
+  "p": "jiàgé",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "这里的价格很便宜。(Zhèlǐ de jiàgé hěn piányi.)",
+   "Bu yerda narxlar juda arzon."
+  ]
+ },
+ {
+  "w": "打折",
+  "uz": "chegirma qilmoq",
+  "ru": "делать скидку",
+  "p": "dǎzhé",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "这些衣服打八折。(Zhèxiē yīfu dǎ bā zhé.)",
+   "Bu kiyimlarga 20% chegirma bor."
+  ]
+ },
+ {
+  "w": "购物",
+  "uz": "xarid qilmoq",
+  "ru": "делать покупки",
+  "p": "gòuwù",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "她很喜欢购物。(Tā hěn xǐhuan gòuwù.)",
+   "U xarid qilishni juda yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "付款",
+  "uz": "to'lov qilmoq",
+  "ru": "платить",
+  "p": "fùkuǎn",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "请在这儿付款。(Qǐng zài zhèr fùkuǎn.)",
+   "Iltimos, shu yerda to'lang."
+  ]
+ },
+ {
+  "w": "现金",
+  "uz": "naqd pul",
+  "ru": "наличные",
+  "p": "xiànjīn",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "我没带现金。(Wǒ méi dài xiànjīn.)",
+   "Yonimda naqd pul yo'q."
+  ]
+ },
+ {
+  "w": "免费",
+  "uz": "bepul",
+  "ru": "бесплатный",
+  "p": "miǎnfèi",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "这个公园是免费的。(Zhège gōngyuán shì miǎnfèi de.)",
+   "Bu park bepul."
+  ]
+ },
+ {
+  "w": "零钱",
+  "uz": "mayda pul",
+  "ru": "мелочь",
+  "p": "língqián",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "你有零钱吗？(Nǐ yǒu língqián ma?)",
+   "Mayda pulingiz bormi?"
+  ]
+ },
+ {
+  "w": "质量",
+  "uz": "sifat",
+  "ru": "качество",
+  "p": "zhìliàng",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "这个手机质量很好。(Zhège shǒujī zhìliàng hěn hǎo.)",
+   "Bu telefonning sifati juda yaxshi."
+  ]
+ },
+ {
+  "w": "礼物",
+  "uz": "sovg'a",
+  "ru": "подарок",
+  "p": "lǐwù",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "这是给你的礼物。(Zhè shì gěi nǐ de lǐwù.)",
+   "Bu sizga sovg'a."
+  ]
+ },
+ {
+  "w": "多少",
+  "uz": "qancha, nechta",
+  "ru": "сколько",
+  "p": "duōshao",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "你要多少？(Nǐ yào duōshao?)",
+   "Sizga qancha kerak?"
+  ]
+ },
+ {
+  "w": "排队",
+  "uz": "navbatda turmoq",
+  "ru": "стоять в очереди",
+  "p": "páiduì",
+  "t": "xarid",
+  "lv": 4,
+  "e": [
+   "买票要排队。(Mǎi piào yào páiduì.)",
+   "Chipta olish uchun navbatda turish kerak."
+  ]
+ },
+ {
+  "w": "喜欢",
+  "uz": "yoqtirmoq",
+  "ru": "нравиться, любить",
+  "p": "xǐhuan",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "我喜欢看书。(Wǒ xǐhuan kàn shū.)",
+   "Men kitob o'qishni yoqtiraman."
+  ]
+ },
+ {
+  "w": "爱",
+  "uz": "sevmoq",
+  "ru": "любить",
+  "p": "ài",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "我爱我的家。(Wǒ ài wǒ de jiā.)",
+   "Men oilamni sevaman."
+  ]
+ },
+ {
+  "w": "高兴",
+  "uz": "xursand",
+  "ru": "радостный",
+  "p": "gāoxìng",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "今天我很高兴。(Jīntiān wǒ hěn gāoxìng.)",
+   "Bugun men juda xursandman."
+  ]
+ },
+ {
+  "w": "快乐",
+  "uz": "baxtli, quvnoq",
+  "ru": "счастливый, весёлый",
+  "p": "kuàilè",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "祝你新年快乐！(Zhù nǐ xīnnián kuàilè!)",
+   "Yangi yilingiz bilan!"
+  ]
+ },
+ {
+  "w": "笑",
+  "uz": "kulmoq",
+  "ru": "смеяться, улыбаться",
+  "p": "xiào",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "她笑得很开心。(Tā xiào de hěn kāixīn.)",
+   "U juda xursand kuldi."
+  ]
+ },
+ {
+  "w": "哭",
+  "uz": "yig'lamoq",
+  "ru": "плакать",
+  "p": "kū",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "孩子为什么哭？(Háizi wèishénme kū?)",
+   "Bola nega yig'layapti?"
+  ]
+ },
+ {
+  "w": "生气",
+  "uz": "jahli chiqmoq",
+  "ru": "сердиться",
+  "p": "shēngqì",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "别生气了。(Bié shēngqì le.)",
+   "Jahlingiz chiqmasin."
+  ]
+ },
+ {
+  "w": "难过",
+  "uz": "xafa, g'amgin",
+  "ru": "грустный",
+  "p": "nánguò",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "听到这个消息，我很难过。(Tīng dào zhège xiāoxi, wǒ hěn nánguò.)",
+   "Bu xabarni eshitib, juda xafa bo'ldim."
+  ]
+ },
+ {
+  "w": "害怕",
+  "uz": "qo'rqmoq",
+  "ru": "бояться",
+  "p": "hàipà",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "我害怕狗。(Wǒ hàipà gǒu.)",
+   "Men itdan qo'rqaman."
+  ]
+ },
+ {
+  "w": "担心",
+  "uz": "xavotirlanmoq",
+  "ru": "беспокоиться",
+  "p": "dānxīn",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "妈妈很担心我。(Māma hěn dānxīn wǒ.)",
+   "Oyim men uchun juda xavotirlanadi."
+  ]
+ },
+ {
+  "w": "着急",
+  "uz": "shoshilmoq, xavotirlanmoq",
+  "ru": "волноваться, торопиться",
+  "p": "zháojí",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "别着急，慢慢来。(Bié zháojí, mànmàn lái.)",
+   "Shoshilmang, sekin-asta."
+  ]
+ },
+ {
+  "w": "满意",
+  "uz": "mamnun",
+  "ru": "довольный",
+  "p": "mǎnyì",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "我对这个房间很满意。(Wǒ duì zhège fángjiān hěn mǎnyì.)",
+   "Men bu xonadan juda mamnunman."
+  ]
+ },
+ {
+  "w": "放心",
+  "uz": "xotirjam bo'lmoq",
+  "ru": "не волноваться",
+  "p": "fàngxīn",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "放心吧，我没事。(Fàngxīn ba, wǒ méi shì.)",
+   "Xotirjam bo'ling, menga hech narsa qilmadi."
+  ]
+ },
+ {
+  "w": "伤心",
+  "uz": "qayg'uli, xafa",
+  "ru": "огорчённый",
+  "p": "shāngxīn",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "她伤心地哭了。(Tā shāngxīn de kū le.)",
+   "U qayg'urib yig'ladi."
+  ]
+ },
+ {
+  "w": "激动",
+  "uz": "hayajonlangan",
+  "ru": "взволнованный",
+  "p": "jīdòng",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "我激动得说不出话。(Wǒ jīdòng de shuō bu chū huà.)",
+   "Hayajondan gapira olmay qoldim."
+  ]
+ },
+ {
+  "w": "紧张",
+  "uz": "asabiy, hayajonli",
+  "ru": "нервный, напряжённый",
+  "p": "jǐnzhāng",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "考试前我很紧张。(Kǎoshì qián wǒ hěn jǐnzhāng.)",
+   "Imtihondan oldin juda hayajonlanaman."
+  ]
+ },
+ {
+  "w": "失望",
+  "uz": "hafsalasi pir bo'lgan",
+  "ru": "разочарованный",
+  "p": "shīwàng",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "别让父母失望。(Bié ràng fùmǔ shīwàng.)",
+   "Ota-onangizning hafsalasini pir qilmang."
+  ]
+ },
+ {
+  "w": "性格",
+  "uz": "xarakter, fe'l",
+  "ru": "характер",
+  "p": "xìnggé",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "他的性格很好。(Tā de xìnggé hěn hǎo.)",
+   "Uning fe'li juda yaxshi."
+  ]
+ },
+ {
+  "w": "心情",
+  "uz": "kayfiyat",
+  "ru": "настроение",
+  "p": "xīnqíng",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "今天我心情很好。(Jīntiān wǒ xīnqíng hěn hǎo.)",
+   "Bugun kayfiyatim juda yaxshi."
+  ]
+ },
+ {
+  "w": "感动",
+  "uz": "ta'sirlanmoq",
+  "ru": "быть тронутым",
+  "p": "gǎndòng",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "这个故事让我很感动。(Zhège gùshi ràng wǒ hěn gǎndòng.)",
+   "Bu hikoya meni juda ta'sirlantirdi."
+  ]
+ },
+ {
+  "w": "害羞",
+  "uz": "uyatchan",
+  "ru": "стеснительный",
+  "p": "hàixiū",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "这个孩子很害羞。(Zhège háizi hěn hàixiū.)",
+   "Bu bola juda uyatchan."
+  ]
+ },
+ {
+  "w": "骄傲",
+  "uz": "mag'rur; faxrlanmoq",
+  "ru": "гордый; гордиться",
+  "p": "jiāo'ào",
+  "t": "his",
+  "lv": 4,
+  "e": [
+   "我为你骄傲！(Wǒ wèi nǐ jiāo'ào!)",
+   "Men siz bilan faxrlanaman!"
+  ]
+ },
+ {
+  "w": "运动",
+  "uz": "sport, harakat",
+  "ru": "спорт, движение",
+  "p": "yùndòng",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "你喜欢什么运动？(Nǐ xǐhuan shénme yùndòng?)",
+   "Qaysi sport turini yoqtirasiz?"
+  ]
+ },
+ {
+  "w": "打篮球",
+  "uz": "basketbol o'ynamoq",
+  "ru": "играть в баскетбол",
+  "p": "dǎ lánqiú",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "我们下午去打篮球。(Wǒmen xiàwǔ qù dǎ lánqiú.)",
+   "Tushdan keyin basketbol o'ynagani boramiz."
+  ]
+ },
+ {
+  "w": "踢足球",
+  "uz": "futbol o'ynamoq",
+  "ru": "играть в футбол",
+  "p": "tī zúqiú",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "他每天踢足球。(Tā měi tiān tī zúqiú.)",
+   "U har kuni futbol o'ynaydi."
+  ]
+ },
+ {
+  "w": "跑步",
+  "uz": "yugurmoq",
+  "ru": "бегать",
+  "p": "pǎobù",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "我每天早上跑步。(Wǒ měi tiān zǎoshang pǎobù.)",
+   "Men har kuni ertalab yuguraman."
+  ]
+ },
+ {
+  "w": "游泳",
+  "uz": "suzmoq",
+  "ru": "плавать",
+  "p": "yóuyǒng",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "你会游泳吗？(Nǐ huì yóuyǒng ma?)",
+   "Suzishni bilasizmi?"
+  ]
+ },
+ {
+  "w": "跳舞",
+  "uz": "raqsga tushmoq",
+  "ru": "танцевать",
+  "p": "tiàowǔ",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "她跳舞跳得很好。(Tā tiàowǔ tiào de hěn hǎo.)",
+   "U juda yaxshi raqs tushadi."
+  ]
+ },
+ {
+  "w": "唱歌",
+  "uz": "qo'shiq aytmoq",
+  "ru": "петь",
+  "p": "chàng gē",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "我们一起唱歌吧。(Wǒmen yìqǐ chàng gē ba.)",
+   "Keling, birga qo'shiq aytaylik."
+  ]
+ },
+ {
+  "w": "玩",
+  "uz": "o'ynamoq, dam olmoq",
+  "ru": "играть, развлекаться",
+  "p": "wán",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "孩子们在外面玩。(Háizimen zài wàimiàn wán.)",
+   "Bolalar tashqarida o'ynayapti."
+  ]
+ },
+ {
+  "w": "比赛",
+  "uz": "musobaqa, o'yin",
+  "ru": "соревнование, матч",
+  "p": "bǐsài",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "今天晚上有足球比赛。(Jīntiān wǎnshang yǒu zúqiú bǐsài.)",
+   "Bugun kechqurun futbol o'yini bor."
+  ]
+ },
+ {
+  "w": "锻炼",
+  "uz": "mashq qilmoq, chiniqmoq",
+  "ru": "тренироваться",
+  "p": "duànliàn",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "我每天锻炼身体。(Wǒ měi tiān duànliàn shēntǐ.)",
+   "Men har kuni badantarbiya qilaman."
+  ]
+ },
+ {
+  "w": "爬山",
+  "uz": "tog'ga chiqmoq",
+  "ru": "подниматься в горы",
+  "p": "pá shān",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "周末我们去爬山吧。(Zhōumò wǒmen qù pá shān ba.)",
+   "Dam olish kuni tog'ga chiqaylik."
+  ]
+ },
+ {
+  "w": "体育",
+  "uz": "jismoniy tarbiya, sport",
+  "ru": "физкультура, спорт",
+  "p": "tǐyù",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "我最喜欢体育课。(Wǒ zuì xǐhuan tǐyù kè.)",
+   "Men jismoniy tarbiya darsini eng yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "爱好",
+  "uz": "qiziqish, sevimli mashg'ulot",
+  "ru": "хобби",
+  "p": "àihào",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "你的爱好是什么？(Nǐ de àihào shì shénme?)",
+   "Sevimli mashg'ulotingiz nima?"
+  ]
+ },
+ {
+  "w": "游戏",
+  "uz": "o'yin",
+  "ru": "игра",
+  "p": "yóuxì",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "弟弟喜欢玩电脑游戏。(Dìdi xǐhuan wán diànnǎo yóuxì.)",
+   "Ukam kompyuter o'yinlarini yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "音乐",
+  "uz": "musiqa",
+  "ru": "музыка",
+  "p": "yīnyuè",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "我喜欢听音乐。(Wǒ xǐhuan tīng yīnyuè.)",
+   "Men musiqa tinglashni yoqtiraman."
+  ]
+ },
+ {
+  "w": "电影",
+  "uz": "kino, film",
+  "ru": "фильм, кино",
+  "p": "diànyǐng",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "我们去看电影吧。(Wǒmen qù kàn diànyǐng ba.)",
+   "Keling, kino ko'rgani boraylik."
+  ]
+ },
+ {
+  "w": "节目",
+  "uz": "ko'rsatuv, dastur",
+  "ru": "программа, передача",
+  "p": "jiémù",
+  "t": "sport",
+  "lv": 3,
+  "e": [
+   "这个电视节目很有意思。(Zhège diànshì jiémù hěn yǒu yìsi.)",
+   "Bu teleko'rsatuv juda qiziq."
+  ]
+ },
+ {
+  "w": "网球",
+  "uz": "tennis",
+  "ru": "теннис",
+  "p": "wǎngqiú",
+  "t": "sport",
+  "lv": 4,
+  "e": [
+   "他网球打得很好。(Tā wǎngqiú dǎ de hěn hǎo.)",
+   "U tennisni juda yaxshi o'ynaydi."
+  ]
+ },
+ {
+  "w": "乒乓球",
+  "uz": "stol tennisi",
+  "ru": "настольный теннис",
+  "p": "pīngpāngqiú",
+  "t": "sport",
+  "lv": 4,
+  "e": [
+   "中国人很喜欢打乒乓球。(Zhōngguó rén hěn xǐhuan dǎ pīngpāngqiú.)",
+   "Xitoyliklar stol tennisini juda yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "散步",
+  "uz": "sayr qilmoq",
+  "ru": "гулять",
+  "p": "sànbù",
+  "t": "sport",
+  "lv": 4,
+  "e": [
+   "晚饭后我们去散步。(Wǎnfàn hòu wǒmen qù sànbù.)",
+   "Kechki ovqatdan keyin sayrga chiqamiz."
+  ]
+ },
+ {
+  "w": "赢",
+  "uz": "yutmoq, g'alaba qilmoq",
+  "ru": "выигрывать",
+  "p": "yíng",
+  "t": "sport",
+  "lv": 4,
+  "e": [
+   "我们队赢了！(Wǒmen duì yíng le!)",
+   "Jamoamiz yutdi!"
+  ]
+ },
+ {
+  "w": "输",
+  "uz": "yutqazmoq",
+  "ru": "проигрывать",
+  "p": "shū",
+  "t": "sport",
+  "lv": 4,
+  "e": [
+   "他们输了比赛。(Tāmen shū le bǐsài.)",
+   "Ular o'yinda yutqazishdi."
+  ]
+ },
+ {
+  "w": "电脑",
+  "uz": "kompyuter",
+  "ru": "компьютер",
+  "p": "diànnǎo",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "我用电脑工作。(Wǒ yòng diànnǎo gōngzuò.)",
+   "Men kompyuterda ishlayman."
+  ]
+ },
+ {
+  "w": "手机",
+  "uz": "mobil telefon",
+  "ru": "мобильный телефон",
+  "p": "shǒujī",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "我的手机没电了。(Wǒ de shǒujī méi diàn le.)",
+   "Telefonimning quvvati tugadi."
+  ]
+ },
+ {
+  "w": "上网",
+  "uz": "internetga kirmoq",
+  "ru": "выходить в интернет",
+  "p": "shàngwǎng",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "我每天晚上上网。(Wǒ měi tiān wǎnshang shàngwǎng.)",
+   "Men har kuni kechqurun internetga kiraman."
+  ]
+ },
+ {
+  "w": "电子邮件",
+  "uz": "elektron pochta",
+  "ru": "электронная почта",
+  "p": "diànzǐ yóujiàn",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "请给我发电子邮件。(Qǐng gěi wǒ fā diànzǐ yóujiàn.)",
+   "Iltimos, menga elektron xat yuboring."
+  ]
+ },
+ {
+  "w": "新闻",
+  "uz": "yangiliklar",
+  "ru": "новости",
+  "p": "xīnwén",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "爸爸每天看新闻。(Bàba měi tiān kàn xīnwén.)",
+   "Dadam har kuni yangiliklarni ko'radi."
+  ]
+ },
+ {
+  "w": "照片",
+  "uz": "surat, foto",
+  "ru": "фотография",
+  "p": "zhàopiàn",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "这是我家人的照片。(Zhè shì wǒ jiārén de zhàopiàn.)",
+   "Bu oilamning surati."
+  ]
+ },
+ {
+  "w": "网站",
+  "uz": "veb-sayt",
+  "ru": "веб-сайт",
+  "p": "wǎngzhàn",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "这个网站很有用。(Zhège wǎngzhàn hěn yǒuyòng.)",
+   "Bu sayt juda foydali."
+  ]
+ },
+ {
+  "w": "密码",
+  "uz": "parol",
+  "ru": "пароль",
+  "p": "mìmǎ",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "我忘了密码。(Wǒ wàng le mìmǎ.)",
+   "Parolimni unutib qo'ydim."
+  ]
+ },
+ {
+  "w": "互联网",
+  "uz": "internet",
+  "ru": "интернет",
+  "p": "hùliánwǎng",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "互联网改变了世界。(Hùliánwǎng gǎibiàn le shìjiè.)",
+   "Internet dunyoni o'zgartirdi."
+  ]
+ },
+ {
+  "w": "信息",
+  "uz": "ma'lumot, axborot",
+  "ru": "информация",
+  "p": "xìnxī",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "网上有很多信息。(Wǎng shang yǒu hěn duō xìnxī.)",
+   "Internetda ma'lumot juda ko'p."
+  ]
+ },
+ {
+  "w": "短信",
+  "uz": "SMS xabar",
+  "ru": "SMS-сообщение",
+  "p": "duǎnxìn",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "我给你发了短信。(Wǒ gěi nǐ fā le duǎnxìn.)",
+   "Men sizga SMS yubordim."
+  ]
+ },
+ {
+  "w": "号码",
+  "uz": "raqam (telefon)",
+  "ru": "номер",
+  "p": "hàomǎ",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "你的手机号码是多少？(Nǐ de shǒujī hàomǎ shì duōshao?)",
+   "Telefon raqamingiz qanday?"
+  ]
+ },
+ {
+  "w": "打印",
+  "uz": "chop etmoq (printerda)",
+  "ru": "печатать (на принтере)",
+  "p": "dǎyìn",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "请帮我打印这个文件。(Qǐng bāng wǒ dǎyìn zhège wénjiàn.)",
+   "Iltimos, bu faylni chop etib bering."
+  ]
+ },
+ {
+  "w": "复印",
+  "uz": "nusxa ko'chirmoq",
+  "ru": "ксерокопировать",
+  "p": "fùyìn",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "请复印一下护照。(Qǐng fùyìn yíxià hùzhào.)",
+   "Iltimos, pasportdan nusxa oling."
+  ]
+ },
+ {
+  "w": "科学",
+  "uz": "fan",
+  "ru": "наука",
+  "p": "kēxué",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "他对科学很感兴趣。(Tā duì kēxué hěn gǎn xìngqù.)",
+   "U fanga juda qiziqadi."
+  ]
+ },
+ {
+  "w": "技术",
+  "uz": "texnologiya, texnika",
+  "ru": "техника, технология",
+  "p": "jìshù",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "中国的技术发展很快。(Zhōngguó de jìshù fāzhǎn hěn kuài.)",
+   "Xitoyda texnologiya juda tez rivojlanmoqda."
+  ]
+ },
+ {
+  "w": "声音",
+  "uz": "ovoz",
+  "ru": "звук, голос",
+  "p": "shēngyīn",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "请把声音开大一点儿。(Qǐng bǎ shēngyīn kāi dà yìdiǎnr.)",
+   "Iltimos, ovozni balandroq qiling."
+  ]
+ },
+ {
+  "w": "电梯",
+  "uz": "lift",
+  "ru": "лифт",
+  "p": "diàntī",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "我们坐电梯上楼吧。(Wǒmen zuò diàntī shàng lóu ba.)",
+   "Liftda yuqoriga chiqaylik."
+  ]
+ },
+ {
+  "w": "联系",
+  "uz": "bog'lanmoq",
+  "ru": "связываться",
+  "p": "liánxì",
+  "t": "texno",
+  "lv": 4,
+  "e": [
+   "有事请跟我联系。(Yǒu shì qǐng gēn wǒ liánxì.)",
+   "Biror ish bo'lsa, men bilan bog'laning."
+  ]
+ },
+ {
+  "w": "报纸",
+  "uz": "gazeta",
+  "ru": "газета",
+  "p": "bàozhǐ",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "爷爷每天看报纸。(Yéye měi tiān kàn bàozhǐ.)",
+   "Bobom har kuni gazeta o'qiydi."
+  ]
+ },
+ {
+  "w": "发",
+  "uz": "yubormoq",
+  "ru": "отправлять",
+  "p": "fā",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "我给妈妈发了照片。(Wǒ gěi māma fā le zhàopiàn.)",
+   "Men oyimga surat yubordim."
+  ]
+ },
+ {
+  "w": "去",
+  "uz": "bormoq",
+  "ru": "идти, ехать",
+  "p": "qù",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "你去哪儿？(Nǐ qù nǎr?)",
+   "Qayerga ketyapsiz?"
+  ]
+ },
+ {
+  "w": "来",
+  "uz": "kelmoq",
+  "ru": "приходить",
+  "p": "lái",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "请你明天来我家。(Qǐng nǐ míngtiān lái wǒ jiā.)",
+   "Iltimos, ertaga uyimizga keling."
+  ]
+ },
+ {
+  "w": "回",
+  "uz": "qaytmoq",
+  "ru": "возвращаться",
+  "p": "huí",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我晚上回家。(Wǒ wǎnshang huí jiā.)",
+   "Men kechqurun uyga qaytaman."
+  ]
+ },
+ {
+  "w": "看",
+  "uz": "ko'rmoq, qaramoq",
+  "ru": "смотреть",
+  "p": "kàn",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我想看这本书。(Wǒ xiǎng kàn zhè běn shū.)",
+   "Men bu kitobni o'qimoqchiman."
+  ]
+ },
+ {
+  "w": "听",
+  "uz": "tinglamoq",
+  "ru": "слушать",
+  "p": "tīng",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "请听我说。(Qǐng tīng wǒ shuō.)",
+   "Iltimos, meni tinglang."
+  ]
+ },
+ {
+  "w": "说",
+  "uz": "aytmoq, gapirmoq",
+  "ru": "говорить",
+  "p": "shuō",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "你会说汉语吗？(Nǐ huì shuō Hànyǔ ma?)",
+   "Xitoycha gapira olasizmi?"
+  ]
+ },
+ {
+  "w": "读",
+  "uz": "o'qimoq (ovoz chiqarib)",
+  "ru": "читать (вслух)",
+  "p": "dú",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "请读一下这个句子。(Qǐng dú yíxià zhège jùzi.)",
+   "Iltimos, bu gapni o'qib bering."
+  ]
+ },
+ {
+  "w": "写",
+  "uz": "yozmoq",
+  "ru": "писать",
+  "p": "xiě",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我会写汉字。(Wǒ huì xiě Hànzì.)",
+   "Men iyeroglif yozishni bilaman."
+  ]
+ },
+ {
+  "w": "做",
+  "uz": "qilmoq",
+  "ru": "делать",
+  "p": "zuò",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "你在做什么？(Nǐ zài zuò shénme?)",
+   "Nima qilyapsiz?"
+  ]
+ },
+ {
+  "w": "坐",
+  "uz": "o'tirmoq; (transportda) bormoq",
+  "ru": "сидеть; ехать (на транспорте)",
+  "p": "zuò",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "请坐这儿。(Qǐng zuò zhèr.)",
+   "Iltimos, shu yerga o'tiring."
+  ]
+ },
+ {
+  "w": "开",
+  "uz": "ochmoq; haydamoq",
+  "ru": "открывать; водить",
+  "p": "kāi",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我会开车。(Wǒ huì kāi chē.)",
+   "Men mashina haydashni bilaman."
+  ]
+ },
+ {
+  "w": "想",
+  "uz": "o'ylamoq; xohlamoq",
+  "ru": "думать; хотеть",
+  "p": "xiǎng",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我想去中国。(Wǒ xiǎng qù Zhōngguó.)",
+   "Men Xitoyga borishni xohlayman."
+  ]
+ },
+ {
+  "w": "会",
+  "uz": "qila olmoq (bilmoq)",
+  "ru": "уметь",
+  "p": "huì",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我会说一点儿汉语。(Wǒ huì shuō yìdiǎnr Hànyǔ.)",
+   "Men ozgina xitoycha gapira olaman."
+  ]
+ },
+ {
+  "w": "能",
+  "uz": "qila olmoq",
+  "ru": "мочь",
+  "p": "néng",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "你明天能来吗？(Nǐ míngtiān néng lái ma?)",
+   "Ertaga kela olasizmi?"
+  ]
+ },
+ {
+  "w": "睡觉",
+  "uz": "uxlamoq",
+  "ru": "спать",
+  "p": "shuìjiào",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我十一点睡觉。(Wǒ shíyī diǎn shuìjiào.)",
+   "Men soat o'n birda uxlayman."
+  ]
+ },
+ {
+  "w": "有",
+  "uz": "bor, ega bo'lmoq",
+  "ru": "иметь, есть",
+  "p": "yǒu",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我有很多朋友。(Wǒ yǒu hěn duō péngyou.)",
+   "Mening do'stlarim ko'p."
+  ]
+ },
+ {
+  "w": "是",
+  "uz": "bo'lmoq (-dir)",
+  "ru": "быть, являться",
+  "p": "shì",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "我是乌兹别克斯坦人。(Wǒ shì Wūzībiékèsītǎn rén.)",
+   "Men o'zbekistonlikman."
+  ]
+ },
+ {
+  "w": "给",
+  "uz": "bermoq",
+  "ru": "давать",
+  "p": "gěi",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "请给我一杯水。(Qǐng gěi wǒ yì bēi shuǐ.)",
+   "Iltimos, menga bir stakan suv bering."
+  ]
+ },
+ {
+  "w": "找",
+  "uz": "qidirmoq",
+  "ru": "искать",
+  "p": "zhǎo",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "你在找什么？(Nǐ zài zhǎo shénme?)",
+   "Nimani qidiryapsiz?"
+  ]
+ },
+ {
+  "w": "等",
+  "uz": "kutmoq",
+  "ru": "ждать",
+  "p": "děng",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "请等一下。(Qǐng děng yíxià.)",
+   "Iltimos, biroz kuting."
+  ]
+ },
+ {
+  "w": "告诉",
+  "uz": "aytmoq, xabar bermoq",
+  "ru": "сообщать",
+  "p": "gàosu",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "请告诉我你的名字。(Qǐng gàosu wǒ nǐ de míngzi.)",
+   "Iltimos, ismingizni ayting."
+  ]
+ },
+ {
+  "w": "知道",
+  "uz": "bilmoq",
+  "ru": "знать",
+  "p": "zhīdào",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "我不知道他在哪儿。(Wǒ bù zhīdào tā zài nǎr.)",
+   "Uning qayerdaligini bilmayman."
+  ]
+ },
+ {
+  "w": "觉得",
+  "uz": "deb o'ylamoq, his qilmoq",
+  "ru": "считать, чувствовать",
+  "p": "juéde",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "我觉得汉语很有意思。(Wǒ juéde Hànyǔ hěn yǒu yìsi.)",
+   "Menimcha, xitoy tili juda qiziq."
+  ]
+ },
+ {
+  "w": "问",
+  "uz": "so'ramoq",
+  "ru": "спрашивать",
+  "p": "wèn",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "我可以问你一个问题吗？(Wǒ kěyǐ wèn nǐ yí ge wèntí ma?)",
+   "Sizdan bir narsa so'rasam maylimi?"
+  ]
+ },
+ {
+  "w": "帮助",
+  "uz": "yordam bermoq",
+  "ru": "помогать",
+  "p": "bāngzhù",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "谢谢你帮助我。(Xièxie nǐ bāngzhù wǒ.)",
+   "Menga yordam berganingiz uchun rahmat."
+  ]
+ },
+ {
+  "w": "懂",
+  "uz": "tushunmoq",
+  "ru": "понимать",
+  "p": "dǒng",
+  "t": "fel",
+  "lv": 2,
+  "e": [
+   "你懂我的意思吗？(Nǐ dǒng wǒ de yìsi ma?)",
+   "Nima demoqchiligimni tushundingizmi?"
+  ]
+ },
+ {
+  "w": "用",
+  "uz": "ishlatmoq, foydalanmoq",
+  "ru": "использовать",
+  "p": "yòng",
+  "t": "fel",
+  "lv": 3,
+  "e": [
+   "我用手机学汉语。(Wǒ yòng shǒujī xué Hànyǔ.)",
+   "Men telefon orqali xitoy tilini o'rganaman."
+  ]
+ },
+ {
+  "w": "忘记",
+  "uz": "unutmoq",
+  "ru": "забывать",
+  "p": "wàngjì",
+  "t": "fel",
+  "lv": 3,
+  "e": [
+   "别忘记带护照。(Bié wàngjì dài hùzhào.)",
+   "Pasportni olishni unutmang."
+  ]
+ },
+ {
+  "w": "好",
+  "uz": "yaxshi",
+  "ru": "хороший",
+  "p": "hǎo",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "这个主意很好。(Zhège zhǔyi hěn hǎo.)",
+   "Bu fikr juda yaxshi."
+  ]
+ },
+ {
+  "w": "多",
+  "uz": "ko'p",
+  "ru": "много",
+  "p": "duō",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "这里人很多。(Zhèlǐ rén hěn duō.)",
+   "Bu yerda odam juda ko'p."
+  ]
+ },
+ {
+  "w": "少",
+  "uz": "kam",
+  "ru": "мало",
+  "p": "shǎo",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "今天客人很少。(Jīntiān kèrén hěn shǎo.)",
+   "Bugun mehmonlar kam."
+  ]
+ },
+ {
+  "w": "新",
+  "uz": "yangi",
+  "ru": "новый",
+  "p": "xīn",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "这是我的新手机。(Zhè shì wǒ de xīn shǒujī.)",
+   "Bu mening yangi telefonim."
+  ]
+ },
+ {
+  "w": "旧",
+  "uz": "eski",
+  "ru": "старый (о вещах)",
+  "p": "jiù",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这件衣服太旧了。(Zhè jiàn yīfu tài jiù le.)",
+   "Bu kiyim juda eskirib ketgan."
+  ]
+ },
+ {
+  "w": "快",
+  "uz": "tez",
+  "ru": "быстрый",
+  "p": "kuài",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "他跑得很快。(Tā pǎo de hěn kuài.)",
+   "U juda tez yuguradi."
+  ]
+ },
+ {
+  "w": "慢",
+  "uz": "sekin",
+  "ru": "медленный",
+  "p": "màn",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "这个电脑太慢了。(Zhège diànnǎo tài màn le.)",
+   "Bu kompyuter juda sekin."
+  ]
+ },
+ {
+  "w": "忙",
+  "uz": "band",
+  "ru": "занятой",
+  "p": "máng",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "这几天我很忙。(Zhè jǐ tiān wǒ hěn máng.)",
+   "Shu kunlarda juda bandman."
+  ]
+ },
+ {
+  "w": "累",
+  "uz": "charchagan",
+  "ru": "усталый",
+  "p": "lèi",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "工作了一天，我很累。(Gōngzuò le yì tiān, wǒ hěn lèi.)",
+   "Kun bo'yi ishlab, juda charchadim."
+  ]
+ },
+ {
+  "w": "对",
+  "uz": "to'g'ri",
+  "ru": "правильный",
+  "p": "duì",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "你说得很对。(Nǐ shuō de hěn duì.)",
+   "Siz juda to'g'ri aytdingiz."
+  ]
+ },
+ {
+  "w": "错",
+  "uz": "noto'g'ri, xato",
+  "ru": "неправильный; ошибка",
+  "p": "cuò",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "对不起，我写错了。(Duìbuqǐ, wǒ xiě cuò le.)",
+   "Kechirasiz, xato yozibman."
+  ]
+ },
+ {
+  "w": "远",
+  "uz": "uzoq",
+  "ru": "далёкий",
+  "p": "yuǎn",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "学校离我家很远。(Xuéxiào lí wǒ jiā hěn yuǎn.)",
+   "Maktab uyimizdan juda uzoq."
+  ]
+ },
+ {
+  "w": "近",
+  "uz": "yaqin",
+  "ru": "близкий",
+  "p": "jìn",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "超市离这儿很近。(Chāoshì lí zhèr hěn jìn.)",
+   "Supermarket bu yerga juda yaqin."
+  ]
+ },
+ {
+  "w": "难",
+  "uz": "qiyin",
+  "ru": "трудный",
+  "p": "nán",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "汉字很难写。(Hànzì hěn nán xiě.)",
+   "Iyerogliflarni yozish juda qiyin."
+  ]
+ },
+ {
+  "w": "容易",
+  "uz": "oson",
+  "ru": "лёгкий",
+  "p": "róngyì",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这个题很容易。(Zhège tí hěn róngyì.)",
+   "Bu masala juda oson."
+  ]
+ },
+ {
+  "w": "简单",
+  "uz": "oddiy, sodda",
+  "ru": "простой",
+  "p": "jiǎndān",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这个问题很简单。(Zhège wèntí hěn jiǎndān.)",
+   "Bu savol juda oddiy."
+  ]
+ },
+ {
+  "w": "重要",
+  "uz": "muhim",
+  "ru": "важный",
+  "p": "zhòngyào",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "健康最重要。(Jiànkāng zuì zhòngyào.)",
+   "Sog'liq eng muhimi."
+  ]
+ },
+ {
+  "w": "干净",
+  "uz": "toza",
+  "ru": "чистый",
+  "p": "gānjìng",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "房间很干净。(Fángjiān hěn gānjìng.)",
+   "Xona juda toza."
+  ]
+ },
+ {
+  "w": "舒服",
+  "uz": "qulay, rohat",
+  "ru": "удобный, комфортный",
+  "p": "shūfu",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这张床很舒服。(Zhè zhāng chuáng hěn shūfu.)",
+   "Bu karavot juda qulay."
+  ]
+ },
+ {
+  "w": "方便",
+  "uz": "qulay",
+  "ru": "удобный",
+  "p": "fāngbiàn",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "住在这儿很方便。(Zhù zài zhèr hěn fāngbiàn.)",
+   "Bu yerda yashash juda qulay."
+  ]
+ },
+ {
+  "w": "安静",
+  "uz": "tinch, sokin",
+  "ru": "тихий",
+  "p": "ānjìng",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "图书馆里很安静。(Túshūguǎn li hěn ānjìng.)",
+   "Kutubxonada juda jimjit."
+  ]
+ },
+ {
+  "w": "聪明",
+  "uz": "aqlli",
+  "ru": "умный",
+  "p": "cōngming",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这个孩子很聪明。(Zhège háizi hěn cōngming.)",
+   "Bu bola juda aqlli."
+  ]
+ },
+ {
+  "w": "可爱",
+  "uz": "yoqimli, shirin",
+  "ru": "милый",
+  "p": "kě'ài",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这只小狗真可爱！(Zhè zhī xiǎo gǒu zhēn kě'ài!)",
+   "Bu kuchukcha juda yoqimtoy!"
+  ]
+ },
+ {
+  "w": "认真",
+  "uz": "jiddiy, tirishqoq",
+  "ru": "серьёзный, старательный",
+  "p": "rènzhēn",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "他学习很认真。(Tā xuéxí hěn rènzhēn.)",
+   "U juda tirishqoqlik bilan o'qiydi."
+  ]
+ },
+ {
+  "w": "有名",
+  "uz": "mashhur",
+  "ru": "известный",
+  "p": "yǒumíng",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这家饭店很有名。(Zhè jiā fàndiàn hěn yǒumíng.)",
+   "Bu restoran juda mashhur."
+  ]
+ },
+ {
+  "w": "新鲜",
+  "uz": "yangi, toza (mahsulot)",
+  "ru": "свежий",
+  "p": "xīnxiān",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "这些水果很新鲜。(Zhèxiē shuǐguǒ hěn xīnxiān.)",
+   "Bu mevalar juda yangi."
+  ]
+ },
+ {
+  "w": "年轻",
+  "uz": "yosh",
+  "ru": "молодой",
+  "p": "niánqīng",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "我的老师很年轻。(Wǒ de lǎoshī hěn niánqīng.)",
+   "Ustozim juda yosh."
+  ]
+ },
+ {
+  "w": "清楚",
+  "uz": "aniq, ravshan",
+  "ru": "ясный, чёткий",
+  "p": "qīngchu",
+  "t": "sifat",
+  "lv": 3,
+  "e": [
+   "老师讲得很清楚。(Lǎoshī jiǎng de hěn qīngchu.)",
+   "Ustoz juda tushunarli tushuntiradi."
+  ]
+ },
+ {
+  "w": "我",
+  "uz": "men",
+  "ru": "я",
+  "p": "wǒ",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我是学生。(Wǒ shì xuésheng.)",
+   "Men talabaman."
+  ]
+ },
+ {
+  "w": "你",
+  "uz": "sen, siz",
+  "ru": "ты",
+  "p": "nǐ",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "你好吗？(Nǐ hǎo ma?)",
+   "Yaxshimisiz?"
+  ]
+ },
+ {
+  "w": "他",
+  "uz": "u (erkak)",
+  "ru": "он",
+  "p": "tā",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "他是我哥哥。(Tā shì wǒ gēge.)",
+   "U mening akam."
+  ]
+ },
+ {
+  "w": "她",
+  "uz": "u (ayol)",
+  "ru": "она",
+  "p": "tā",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "她是我姐姐。(Tā shì wǒ jiějie.)",
+   "U mening opam."
+  ]
+ },
+ {
+  "w": "我们",
+  "uz": "biz",
+  "ru": "мы",
+  "p": "wǒmen",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我们是好朋友。(Wǒmen shì hǎo péngyou.)",
+   "Biz yaqin do'stlarmiz."
+  ]
+ },
+ {
+  "w": "这",
+  "uz": "bu",
+  "ru": "это, этот",
+  "p": "zhè",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "这是什么？(Zhè shì shénme?)",
+   "Bu nima?"
+  ]
+ },
+ {
+  "w": "那",
+  "uz": "u, anavi",
+  "ru": "то, тот",
+  "p": "nà",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "那是我的书。(Nà shì wǒ de shū.)",
+   "Anavi mening kitobim."
+  ]
+ },
+ {
+  "w": "哪",
+  "uz": "qaysi",
+  "ru": "какой, который",
+  "p": "nǎ",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "你是哪国人？(Nǐ shì nǎ guó rén?)",
+   "Qaysi davlatdansiz?"
+  ]
+ },
+ {
+  "w": "谁",
+  "uz": "kim",
+  "ru": "кто",
+  "p": "shéi",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "他是谁？(Tā shì shéi?)",
+   "U kim?"
+  ]
+ },
+ {
+  "w": "什么",
+  "uz": "nima",
+  "ru": "что",
+  "p": "shénme",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "你想吃什么？(Nǐ xiǎng chī shénme?)",
+   "Nima yegingiz keladi?"
+  ]
+ },
+ {
+  "w": "怎么",
+  "uz": "qanday",
+  "ru": "как",
+  "p": "zěnme",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "去机场怎么走？(Qù jīchǎng zěnme zǒu?)",
+   "Aeroportga qanday boriladi?"
+  ]
+ },
+ {
+  "w": "都",
+  "uz": "hammasi",
+  "ru": "все, всё",
+  "p": "dōu",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我们都是学生。(Wǒmen dōu shì xuésheng.)",
+   "Biz hammamiz talabamiz."
+  ]
+ },
+ {
+  "w": "很",
+  "uz": "juda",
+  "ru": "очень",
+  "p": "hěn",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我很好。(Wǒ hěn hǎo.)",
+   "Men yaxshiman."
+  ]
+ },
+ {
+  "w": "太",
+  "uz": "haddan tashqari, juda",
+  "ru": "слишком",
+  "p": "tài",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "太好了！(Tài hǎo le!)",
+   "Juda zo'r!"
+  ]
+ },
+ {
+  "w": "不",
+  "uz": "yo'q, emas",
+  "ru": "не, нет",
+  "p": "bù",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我不是老师。(Wǒ bú shì lǎoshī.)",
+   "Men o'qituvchi emasman."
+  ]
+ },
+ {
+  "w": "没",
+  "uz": "yo'q, emas (o'tgan)",
+  "ru": "не (было), нет",
+  "p": "méi",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我没去学校。(Wǒ méi qù xuéxiào.)",
+   "Men maktabga bormadim."
+  ]
+ },
+ {
+  "w": "和",
+  "uz": "va, bilan",
+  "ru": "и, с",
+  "p": "hé",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我和妈妈去商店。(Wǒ hé māma qù shāngdiàn.)",
+   "Men oyim bilan do'konga boraman."
+  ]
+ },
+ {
+  "w": "在",
+  "uz": "-da; mavjud bo'lmoq",
+  "ru": "в; находиться",
+  "p": "zài",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "我在家。(Wǒ zài jiā.)",
+   "Men uydaman."
+  ]
+ },
+ {
+  "w": "也",
+  "uz": "ham",
+  "ru": "тоже",
+  "p": "yě",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "我也是学生。(Wǒ yě shì xuésheng.)",
+   "Men ham talabaman."
+  ]
+ },
+ {
+  "w": "还",
+  "uz": "yana; hali",
+  "ru": "ещё",
+  "p": "hái",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "你还要别的吗？(Nǐ hái yào bié de ma?)",
+   "Yana biror narsa kerakmi?"
+  ]
+ },
+ {
+  "w": "因为",
+  "uz": "chunki",
+  "ru": "потому что",
+  "p": "yīnwèi",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "因为下雨，我没去。(Yīnwèi xià yǔ, wǒ méi qù.)",
+   "Yomg'ir yoqqani uchun bormadim."
+  ]
+ },
+ {
+  "w": "但是",
+  "uz": "lekin",
+  "ru": "но",
+  "p": "dànshì",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "汉语很难，但是很有意思。(Hànyǔ hěn nán, dànshì hěn yǒu yìsi.)",
+   "Xitoy tili qiyin, lekin juda qiziq."
+  ]
+ },
+ {
+  "w": "已经",
+  "uz": "allaqachon",
+  "ru": "уже",
+  "p": "yǐjīng",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "我已经吃饭了。(Wǒ yǐjīng chī fàn le.)",
+   "Men allaqachon ovqatlandim."
+  ]
+ },
+ {
+  "w": "一起",
+  "uz": "birga",
+  "ru": "вместе",
+  "p": "yìqǐ",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "我们一起去吧。(Wǒmen yìqǐ qù ba.)",
+   "Birga boraylik."
+  ]
+ },
+ {
+  "w": "非常",
+  "uz": "nihoyatda, juda",
+  "ru": "очень, чрезвычайно",
+  "p": "fēicháng",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "这里非常漂亮。(Zhèlǐ fēicháng piàoliang.)",
+   "Bu yer nihoyatda chiroyli."
+  ]
+ },
+ {
+  "w": "最",
+  "uz": "eng",
+  "ru": "самый",
+  "p": "zuì",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "你最喜欢什么颜色？(Nǐ zuì xǐhuan shénme yánsè?)",
+   "Qaysi rangni eng ko'p yoqtirasiz?"
+  ]
+ },
+ {
+  "w": "为什么",
+  "uz": "nega, nima uchun",
+  "ru": "почему",
+  "p": "wèishénme",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "你为什么不来？(Nǐ wèishénme bù lái?)",
+   "Nega kelmaysiz?"
+  ]
+ },
+ {
+  "w": "如果",
+  "uz": "agar",
+  "ru": "если",
+  "p": "rúguǒ",
+  "t": "soz",
+  "lv": 3,
+  "e": [
+   "如果明天下雨，我就不去了。(Rúguǒ míngtiān xià yǔ, wǒ jiù bú qù le.)",
+   "Agar ertaga yomg'ir yog'sa, bormayman."
+  ]
+ }
+]

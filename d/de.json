@@ -1,0 +1,6002 @@
+[
+ {
+  "w": "Hallo",
+  "uz": "salom",
+  "ru": "привет",
+  "p": "hallo",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Hallo, wie geht's?",
+   "Salom, ishlaring qalay?"
+  ]
+ },
+ {
+  "w": "Guten Morgen",
+  "uz": "xayrli tong",
+  "ru": "доброе утро",
+  "p": "guten morgen",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Guten Morgen, Frau Müller!",
+   "Xayrli tong, Myuller xonim!"
+  ]
+ },
+ {
+  "w": "Guten Tag",
+  "uz": "xayrli kun",
+  "ru": "добрый день",
+  "p": "guten tag",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Guten Tag, ich bin Anna.",
+   "Xayrli kun, men Annaman."
+  ]
+ },
+ {
+  "w": "Guten Abend",
+  "uz": "xayrli kech",
+  "ru": "добрый вечер",
+  "p": "guten abend",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Guten Abend, meine Damen und Herren!",
+   "Xayrli kech, xonimlar va janoblar!"
+  ]
+ },
+ {
+  "w": "Gute Nacht",
+  "uz": "xayrli tun",
+  "ru": "спокойной ночи",
+  "p": "gute naxt",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Gute Nacht und schlaf gut!",
+   "Xayrli tun, yaxshi uxla!"
+  ]
+ },
+ {
+  "w": "Tschüss",
+  "uz": "xayr",
+  "ru": "пока",
+  "p": "chyus",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Tschüss, bis morgen!",
+   "Xayr, ertagacha!"
+  ]
+ },
+ {
+  "w": "Auf Wiedersehen",
+  "uz": "xayr, ko'rishguncha",
+  "ru": "до свидания",
+  "p": "auf viderzeyen",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Auf Wiedersehen, Herr Schmidt!",
+   "Xayr, Shmidt janoblari!"
+  ]
+ },
+ {
+  "w": "Bis bald",
+  "uz": "tez orada ko'rishguncha",
+  "ru": "до скорого",
+  "p": "bis bald",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Ich muss gehen, bis bald!",
+   "Ketishim kerak, tez orada ko'rishamiz!"
+  ]
+ },
+ {
+  "w": "Danke",
+  "uz": "rahmat",
+  "ru": "спасибо",
+  "p": "danke",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Danke für das Geschenk!",
+   "Sovg'a uchun rahmat!"
+  ]
+ },
+ {
+  "w": "Vielen Dank",
+  "uz": "katta rahmat",
+  "ru": "большое спасибо",
+  "p": "filen dank",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Vielen Dank für Ihre Hilfe!",
+   "Yordamingiz uchun katta rahmat!"
+  ]
+ },
+ {
+  "w": "Bitte",
+  "uz": "iltimos, marhamat",
+  "ru": "пожалуйста",
+  "p": "bitte",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Ein Wasser, bitte.",
+   "Bitta suv, iltimos."
+  ]
+ },
+ {
+  "w": "Entschuldigung",
+  "uz": "kechirasiz",
+  "ru": "извините",
+  "p": "entshuldigung",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Entschuldigung, wo ist der Bahnhof?",
+   "Kechirasiz, vokzal qayerda?"
+  ]
+ },
+ {
+  "w": "Ja",
+  "uz": "ha",
+  "ru": "да",
+  "p": "ya",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Ja, ich komme mit.",
+   "Ha, men birga boraman."
+  ]
+ },
+ {
+  "w": "Nein",
+  "uz": "yo'q",
+  "ru": "нет",
+  "p": "nayn",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Nein, das ist nicht richtig.",
+   "Yo'q, bu to'g'ri emas."
+  ]
+ },
+ {
+  "w": "Willkommen",
+  "uz": "xush kelibsiz",
+  "ru": "добро пожаловать",
+  "p": "vilkommen",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Willkommen in Deutschland!",
+   "Germaniyaga xush kelibsiz!"
+  ]
+ },
+ {
+  "w": "Wie geht's?",
+  "uz": "ishlar qalay?",
+  "ru": "как дела?",
+  "p": "vi geyts",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Hallo Tom, wie geht's dir?",
+   "Salom Tom, ishlaring qalay?"
+  ]
+ },
+ {
+  "w": "Wie heißt du?",
+  "uz": "isming nima?",
+  "ru": "как тебя зовут?",
+  "p": "vi hayst du",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Hallo! Wie heißt du?",
+   "Salom! Isming nima?"
+  ]
+ },
+ {
+  "w": "Freut mich",
+  "uz": "tanishganimdan xursandman",
+  "ru": "очень приятно",
+  "p": "froyt mix",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Ich bin Paul. Freut mich!",
+   "Men Paulman. Tanishganimdan xursandman!"
+  ]
+ },
+ {
+  "w": "Herzlichen Glückwunsch",
+  "uz": "tabriklayman",
+  "ru": "поздравляю",
+  "p": "hertslixen glyukvunsh",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "Herzlichen Glückwunsch zum Geburtstag!",
+   "Tug'ilgan kuning bilan tabriklayman!"
+  ]
+ },
+ {
+  "w": "Alles Gute",
+  "uz": "hamma yaxshiliklar",
+  "ru": "всего хорошего",
+  "p": "alles gute",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Alles Gute zum Geburtstag!",
+   "Tug'ilgan kuningda hamma yaxshiliklar tilayman!"
+  ]
+ },
+ {
+  "w": "Gern geschehen",
+  "uz": "arzimaydi",
+  "ru": "не за что",
+  "p": "gern gesheen",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Danke! – Gern geschehen.",
+   "Rahmat! – Arzimaydi."
+  ]
+ },
+ {
+  "w": "der Herr",
+  "uz": "janob",
+  "ru": "господин",
+  "p": "der herr",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Der Herr wartet draußen.",
+   "Janob tashqarida kutyapti."
+  ]
+ },
+ {
+  "w": "die Familie",
+  "uz": "oila",
+  "ru": "семья",
+  "p": "di familiye",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Familie ist groß.",
+   "Mening oilam katta."
+  ]
+ },
+ {
+  "w": "die Mutter",
+  "uz": "ona",
+  "ru": "мать",
+  "p": "di mutter",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Mutter kocht gern.",
+   "Onam ovqat pishirishni yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "der Vater",
+  "uz": "ota",
+  "ru": "отец",
+  "p": "der fater",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Mein Vater arbeitet viel.",
+   "Otam ko'p ishlaydi."
+  ]
+ },
+ {
+  "w": "die Eltern",
+  "uz": "ota-ona",
+  "ru": "родители",
+  "p": "di eltern",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Eltern wohnen in Buchara.",
+   "Ota-onam Buxoroda yashaydi."
+  ]
+ },
+ {
+  "w": "der Bruder",
+  "uz": "aka, uka",
+  "ru": "брат",
+  "p": "der bruder",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Mein Bruder ist zehn Jahre alt.",
+   "Ukam o'n yoshda."
+  ]
+ },
+ {
+  "w": "die Schwester",
+  "uz": "opa, singil",
+  "ru": "сестра",
+  "p": "di shvester",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Schwester studiert Medizin.",
+   "Opam tibbiyotni o'qiydi."
+  ]
+ },
+ {
+  "w": "die Geschwister",
+  "uz": "aka-uka, opa-singillar",
+  "ru": "братья и сёстры",
+  "p": "di geshvister",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Hast du Geschwister?",
+   "Aka-uka yoki opa-singillaring bormi?"
+  ]
+ },
+ {
+  "w": "der Sohn",
+  "uz": "o'g'il",
+  "ru": "сын",
+  "p": "der zon",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Ihr Sohn geht zur Schule.",
+   "Uning o'g'li maktabga boradi."
+  ]
+ },
+ {
+  "w": "die Tochter",
+  "uz": "qiz (farzand)",
+  "ru": "дочь",
+  "p": "di toxter",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Tochter ist sehr klug.",
+   "Qizim juda aqlli."
+  ]
+ },
+ {
+  "w": "das Kind",
+  "uz": "bola",
+  "ru": "ребёнок",
+  "p": "das kind",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Das Kind spielt im Garten.",
+   "Bola bog'da o'ynayapti."
+  ]
+ },
+ {
+  "w": "das Baby",
+  "uz": "chaqaloq",
+  "ru": "младенец",
+  "p": "das bebi",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Das Baby schläft jetzt.",
+   "Chaqaloq hozir uxlayapti."
+  ]
+ },
+ {
+  "w": "die Großmutter",
+  "uz": "buvi",
+  "ru": "бабушка",
+  "p": "di grosmutter",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Großmutter erzählt Geschichten.",
+   "Buvim ertaklar aytib beradi."
+  ]
+ },
+ {
+  "w": "der Großvater",
+  "uz": "bobo",
+  "ru": "дедушка",
+  "p": "der grosfater",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Mein Großvater ist achtzig.",
+   "Bobom sakson yoshda."
+  ]
+ },
+ {
+  "w": "der Onkel",
+  "uz": "amaki, tog'a",
+  "ru": "дядя",
+  "p": "der onkel",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Mein Onkel wohnt in Berlin.",
+   "Amakim Berlinda yashaydi."
+  ]
+ },
+ {
+  "w": "die Tante",
+  "uz": "xola, amma",
+  "ru": "тётя",
+  "p": "di tante",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Meine Tante besucht uns morgen.",
+   "Xolam ertaga bizni ko'rgani keladi."
+  ]
+ },
+ {
+  "w": "der Mann",
+  "uz": "erkak, er",
+  "ru": "мужчина, муж",
+  "p": "der mann",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Der Mann liest eine Zeitung.",
+   "Erkak gazeta o'qiyapti."
+  ]
+ },
+ {
+  "w": "die Frau",
+  "uz": "ayol, xotin",
+  "ru": "женщина, жена",
+  "p": "di frau",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Die Frau trinkt Tee.",
+   "Ayol choy ichyapti."
+  ]
+ },
+ {
+  "w": "der Junge",
+  "uz": "o'g'il bola",
+  "ru": "мальчик",
+  "p": "der yunge",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Der Junge spielt Fußball.",
+   "O'g'il bola futbol o'ynayapti."
+  ]
+ },
+ {
+  "w": "das Mädchen",
+  "uz": "qiz bola",
+  "ru": "девочка",
+  "p": "das medxen",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Das Mädchen singt schön.",
+   "Qiz chiroyli kuylaydi."
+  ]
+ },
+ {
+  "w": "der Freund",
+  "uz": "do'st",
+  "ru": "друг",
+  "p": "der froynd",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Er ist mein bester Freund.",
+   "U mening eng yaqin do'stim."
+  ]
+ },
+ {
+  "w": "die Freundin",
+  "uz": "dugona, do'st (qiz)",
+  "ru": "подруга",
+  "p": "di froyndin",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Meine Freundin heißt Lena.",
+   "Dugonamning ismi Lena."
+  ]
+ },
+ {
+  "w": "der Mensch",
+  "uz": "odam, inson",
+  "ru": "человек",
+  "p": "der mensh",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Jeder Mensch ist wichtig.",
+   "Har bir inson muhim."
+  ]
+ },
+ {
+  "w": "die Leute",
+  "uz": "odamlar",
+  "ru": "люди",
+  "p": "di loyte",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Viele Leute sind hier.",
+   "Bu yerda odamlar ko'p."
+  ]
+ },
+ {
+  "w": "verheiratet",
+  "uz": "uylangan, turmush qurgan",
+  "ru": "женатый, замужем",
+  "p": "ferhayratet",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Mein Bruder ist verheiratet.",
+   "Akam uylangan."
+  ]
+ },
+ {
+  "w": "null",
+  "uz": "nol",
+  "ru": "ноль",
+  "p": "nul",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Das Spiel endet eins zu null.",
+   "O'yin birga nol hisobida tugaydi."
+  ]
+ },
+ {
+  "w": "eins",
+  "uz": "bir",
+  "ru": "один",
+  "p": "ayns",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Eins plus eins ist zwei.",
+   "Birga bir qo'shilsa ikki bo'ladi."
+  ]
+ },
+ {
+  "w": "zwei",
+  "uz": "ikki",
+  "ru": "два",
+  "p": "tsvay",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Ich habe zwei Brüder.",
+   "Mening ikkita akam bor."
+  ]
+ },
+ {
+  "w": "drei",
+  "uz": "uch",
+  "ru": "три",
+  "p": "dray",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Wir haben drei Katzen.",
+   "Bizning uchta mushugimiz bor."
+  ]
+ },
+ {
+  "w": "vier",
+  "uz": "to'rt",
+  "ru": "четыре",
+  "p": "fir",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Der Tisch hat vier Beine.",
+   "Stolning to'rtta oyog'i bor."
+  ]
+ },
+ {
+  "w": "fünf",
+  "uz": "besh",
+  "ru": "пять",
+  "p": "fyunf",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Ich arbeite fünf Tage.",
+   "Men besh kun ishlayman."
+  ]
+ },
+ {
+  "w": "sechs",
+  "uz": "olti",
+  "ru": "шесть",
+  "p": "zeks",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Es ist sechs Uhr.",
+   "Soat olti."
+  ]
+ },
+ {
+  "w": "sieben",
+  "uz": "yetti",
+  "ru": "семь",
+  "p": "ziben",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Die Woche hat sieben Tage.",
+   "Haftada yetti kun bor."
+  ]
+ },
+ {
+  "w": "acht",
+  "uz": "sakkiz",
+  "ru": "восемь",
+  "p": "axt",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Die Schule beginnt um acht.",
+   "Maktab soat sakkizda boshlanadi."
+  ]
+ },
+ {
+  "w": "neun",
+  "uz": "to'qqiz",
+  "ru": "девять",
+  "p": "noyn",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Mein Sohn ist neun.",
+   "O'g'lim to'qqiz yoshda."
+  ]
+ },
+ {
+  "w": "zehn",
+  "uz": "o'n",
+  "ru": "десять",
+  "p": "tseyn",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Ich zähle bis zehn.",
+   "Men o'ngacha sanayman."
+  ]
+ },
+ {
+  "w": "zwanzig",
+  "uz": "yigirma",
+  "ru": "двадцать",
+  "p": "tsvantsix",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Sie ist zwanzig Jahre alt.",
+   "U yigirma yoshda."
+  ]
+ },
+ {
+  "w": "hundert",
+  "uz": "yuz",
+  "ru": "сто",
+  "p": "hundert",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Das kostet hundert Euro.",
+   "Bu yuz yevro turadi."
+  ]
+ },
+ {
+  "w": "tausend",
+  "uz": "ming",
+  "ru": "тысяча",
+  "p": "tauzend",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Tausend Menschen waren dort.",
+   "U yerda ming kishi bor edi."
+  ]
+ },
+ {
+  "w": "die Zahl",
+  "uz": "son, raqam",
+  "ru": "число",
+  "p": "di tsal",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Schreib die Zahl hier.",
+   "Sonni bu yerga yoz."
+  ]
+ },
+ {
+  "w": "die Uhr",
+  "uz": "soat",
+  "ru": "часы",
+  "p": "di ur",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Wie viel Uhr ist es?",
+   "Soat necha bo'ldi?"
+  ]
+ },
+ {
+  "w": "die Stunde",
+  "uz": "soat (vaqt birligi)",
+  "ru": "час",
+  "p": "di shtunde",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Der Film dauert zwei Stunden.",
+   "Film ikki soat davom etadi."
+  ]
+ },
+ {
+  "w": "die Minute",
+  "uz": "daqiqa",
+  "ru": "минута",
+  "p": "di minute",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Warte bitte eine Minute.",
+   "Iltimos, bir daqiqa kut."
+  ]
+ },
+ {
+  "w": "die Sekunde",
+  "uz": "soniya",
+  "ru": "секунда",
+  "p": "di zekunde",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Eine Minute hat sechzig Sekunden.",
+   "Bir daqiqada oltmish soniya bor."
+  ]
+ },
+ {
+  "w": "die Zeit",
+  "uz": "vaqt",
+  "ru": "время",
+  "p": "di tsayt",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Die Zeit vergeht schnell.",
+   "Vaqt tez o'tadi."
+  ]
+ },
+ {
+  "w": "halb",
+  "uz": "yarim",
+  "ru": "половина",
+  "p": "halb",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Es ist halb neun.",
+   "Soat sakkiz yarim."
+  ]
+ },
+ {
+  "w": "das Viertel",
+  "uz": "chorak",
+  "ru": "четверть",
+  "p": "das firtel",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Es ist Viertel nach drei.",
+   "Soat uchdan o'n besh daqiqa o'tdi."
+  ]
+ },
+ {
+  "w": "früh",
+  "uz": "erta",
+  "ru": "рано",
+  "p": "fryu",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Ich stehe früh auf.",
+   "Men erta turaman."
+  ]
+ },
+ {
+  "w": "spät",
+  "uz": "kech",
+  "ru": "поздно",
+  "p": "shpet",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Es ist schon spät.",
+   "Allaqachon kech bo'ldi."
+  ]
+ },
+ {
+  "w": "erste",
+  "uz": "birinchi",
+  "ru": "первый",
+  "p": "erste",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Das ist mein erster Tag.",
+   "Bu mening birinchi kunim."
+  ]
+ },
+ {
+  "w": "die Hälfte",
+  "uz": "yarmi",
+  "ru": "половина",
+  "p": "di helfte",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Ich esse nur die Hälfte.",
+   "Men faqat yarmini yeyman."
+  ]
+ },
+ {
+  "w": "der Tag",
+  "uz": "kun",
+  "ru": "день",
+  "p": "der tag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Heute ist ein schöner Tag.",
+   "Bugun chiroyli kun."
+  ]
+ },
+ {
+  "w": "die Woche",
+  "uz": "hafta",
+  "ru": "неделя",
+  "p": "di voxe",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Nächste Woche habe ich Urlaub.",
+   "Keyingi hafta ta'tildaman."
+  ]
+ },
+ {
+  "w": "der Monat",
+  "uz": "oy",
+  "ru": "месяц",
+  "p": "der monat",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Der Monat hat dreißig Tage.",
+   "Bu oyda o'ttiz kun bor."
+  ]
+ },
+ {
+  "w": "das Jahr",
+  "uz": "yil",
+  "ru": "год",
+  "p": "das yar",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Ein Jahr hat zwölf Monate.",
+   "Bir yilda o'n ikki oy bor."
+  ]
+ },
+ {
+  "w": "der Montag",
+  "uz": "dushanba",
+  "ru": "понедельник",
+  "p": "der montag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Montag arbeite ich.",
+   "Dushanba kuni ishlayman."
+  ]
+ },
+ {
+  "w": "der Dienstag",
+  "uz": "seshanba",
+  "ru": "вторник",
+  "p": "der dinstag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Dienstag habe ich Deutsch.",
+   "Seshanba kuni nemis tili darsim bor."
+  ]
+ },
+ {
+  "w": "der Mittwoch",
+  "uz": "chorshanba",
+  "ru": "среда",
+  "p": "der mitvox",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Der Test ist am Mittwoch.",
+   "Test chorshanba kuni."
+  ]
+ },
+ {
+  "w": "der Donnerstag",
+  "uz": "payshanba",
+  "ru": "четверг",
+  "p": "der donnerstag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Donnerstag gehe ich schwimmen.",
+   "Payshanba kuni suzishga boraman."
+  ]
+ },
+ {
+  "w": "der Freitag",
+  "uz": "juma",
+  "ru": "пятница",
+  "p": "der fraytag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Freitag feiern wir.",
+   "Juma kuni bayram qilamiz."
+  ]
+ },
+ {
+  "w": "der Samstag",
+  "uz": "shanba",
+  "ru": "суббота",
+  "p": "der zamstag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Samstag kaufe ich ein.",
+   "Shanba kuni xarid qilaman."
+  ]
+ },
+ {
+  "w": "der Sonntag",
+  "uz": "yakshanba",
+  "ru": "воскресенье",
+  "p": "der zonntag",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Sonntag schlafe ich lange.",
+   "Yakshanba kuni uzoq uxlayman."
+  ]
+ },
+ {
+  "w": "das Wochenende",
+  "uz": "dam olish kunlari",
+  "ru": "выходные",
+  "p": "das voxenende",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Was machst du am Wochenende?",
+   "Dam olish kunlari nima qilasan?"
+  ]
+ },
+ {
+  "w": "heute",
+  "uz": "bugun",
+  "ru": "сегодня",
+  "p": "hoyte",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Heute ist Montag.",
+   "Bugun dushanba."
+  ]
+ },
+ {
+  "w": "morgen",
+  "uz": "ertaga",
+  "ru": "завтра",
+  "p": "morgen",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Morgen fahre ich nach Hause.",
+   "Ertaga uyga ketaman."
+  ]
+ },
+ {
+  "w": "gestern",
+  "uz": "kecha",
+  "ru": "вчера",
+  "p": "gestern",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Gestern war ich krank.",
+   "Kecha kasal edim."
+  ]
+ },
+ {
+  "w": "der Morgen",
+  "uz": "ertalab, tong",
+  "ru": "утро",
+  "p": "der morgen",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Morgen trinke ich Kaffee.",
+   "Ertalab qahva ichaman."
+  ]
+ },
+ {
+  "w": "der Abend",
+  "uz": "kechqurun",
+  "ru": "вечер",
+  "p": "der abend",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Am Abend lese ich Bücher.",
+   "Kechqurun kitob o'qiyman."
+  ]
+ },
+ {
+  "w": "die Nacht",
+  "uz": "tun",
+  "ru": "ночь",
+  "p": "di naxt",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Die Nacht ist sehr dunkel.",
+   "Tun juda qorong'i."
+  ]
+ },
+ {
+  "w": "der Januar",
+  "uz": "yanvar",
+  "ru": "январь",
+  "p": "der yanuar",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Im Januar ist es kalt.",
+   "Yanvarda sovuq bo'ladi."
+  ]
+ },
+ {
+  "w": "der Mai",
+  "uz": "may",
+  "ru": "май",
+  "p": "der may",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Mein Geburtstag ist im Mai.",
+   "Tug'ilgan kunim mayda."
+  ]
+ },
+ {
+  "w": "der Frühling",
+  "uz": "bahor",
+  "ru": "весна",
+  "p": "der fryuling",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Im Frühling blühen die Blumen.",
+   "Bahorda gullar ochiladi."
+  ]
+ },
+ {
+  "w": "der Sommer",
+  "uz": "yoz",
+  "ru": "лето",
+  "p": "der zommer",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Im Sommer ist es heiß.",
+   "Yozda issiq bo'ladi."
+  ]
+ },
+ {
+  "w": "der Herbst",
+  "uz": "kuz",
+  "ru": "осень",
+  "p": "der herbst",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Im Herbst fallen die Blätter.",
+   "Kuzda barglar to'kiladi."
+  ]
+ },
+ {
+  "w": "der Winter",
+  "uz": "qish",
+  "ru": "зима",
+  "p": "der vinter",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Im Winter schneit es oft.",
+   "Qishda tez-tez qor yog'adi."
+  ]
+ },
+ {
+  "w": "rot",
+  "uz": "qizil",
+  "ru": "красный",
+  "p": "rot",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Die Rose ist rot.",
+   "Atirgul qizil."
+  ]
+ },
+ {
+  "w": "blau",
+  "uz": "ko'k, havorang",
+  "ru": "синий, голубой",
+  "p": "blau",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Der Himmel ist blau.",
+   "Osmon ko'k."
+  ]
+ },
+ {
+  "w": "grün",
+  "uz": "yashil",
+  "ru": "зелёный",
+  "p": "gryun",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Das Gras ist grün.",
+   "O't yashil."
+  ]
+ },
+ {
+  "w": "gelb",
+  "uz": "sariq",
+  "ru": "жёлтый",
+  "p": "gelb",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Die Banane ist gelb.",
+   "Banan sariq."
+  ]
+ },
+ {
+  "w": "schwarz",
+  "uz": "qora",
+  "ru": "чёрный",
+  "p": "shvarts",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Meine Katze ist schwarz.",
+   "Mushugim qora."
+  ]
+ },
+ {
+  "w": "weiß",
+  "uz": "oq",
+  "ru": "белый",
+  "p": "vays",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Der Schnee ist weiß.",
+   "Qor oq."
+  ]
+ },
+ {
+  "w": "braun",
+  "uz": "jigarrang",
+  "ru": "коричневый",
+  "p": "braun",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Er hat braune Augen.",
+   "Uning ko'zlari jigarrang."
+  ]
+ },
+ {
+  "w": "grau",
+  "uz": "kulrang",
+  "ru": "серый",
+  "p": "grau",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Der Himmel ist heute grau.",
+   "Bugun osmon kulrang."
+  ]
+ },
+ {
+  "w": "orange",
+  "uz": "to'q sariq",
+  "ru": "оранжевый",
+  "p": "oranje",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Die Orange ist orange.",
+   "Apelsin to'q sariq rangda."
+  ]
+ },
+ {
+  "w": "rosa",
+  "uz": "pushti",
+  "ru": "розовый",
+  "p": "roza",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Sie trägt ein rosa Kleid.",
+   "U pushti ko'ylak kiygan."
+  ]
+ },
+ {
+  "w": "lila",
+  "uz": "binafsha",
+  "ru": "лиловый, сиреневый",
+  "p": "lila",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Die Blume ist lila.",
+   "Gul binafsha rangda."
+  ]
+ },
+ {
+  "w": "bunt",
+  "uz": "rang-barang",
+  "ru": "разноцветный",
+  "p": "bunt",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Die Kinder malen bunte Bilder.",
+   "Bolalar rang-barang rasmlar chizishadi."
+  ]
+ },
+ {
+  "w": "hell",
+  "uz": "och, yorug'",
+  "ru": "светлый",
+  "p": "hell",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Das Zimmer ist sehr hell.",
+   "Xona juda yorug'."
+  ]
+ },
+ {
+  "w": "dunkel",
+  "uz": "to'q, qorong'i",
+  "ru": "тёмный",
+  "p": "dunkel",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Sie hat dunkle Haare.",
+   "Uning sochlari to'q rangda."
+  ]
+ },
+ {
+  "w": "die Farbe",
+  "uz": "rang",
+  "ru": "цвет",
+  "p": "di farbe",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Welche Farbe magst du?",
+   "Qaysi rangni yoqtirasan?"
+  ]
+ },
+ {
+  "w": "der Kreis",
+  "uz": "doira",
+  "ru": "круг",
+  "p": "der krays",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Zeichne einen Kreis.",
+   "Doira chiz."
+  ]
+ },
+ {
+  "w": "das Quadrat",
+  "uz": "kvadrat",
+  "ru": "квадрат",
+  "p": "das kvadrat",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Das Fenster ist ein Quadrat.",
+   "Deraza kvadrat shaklida."
+  ]
+ },
+ {
+  "w": "das Dreieck",
+  "uz": "uchburchak",
+  "ru": "треугольник",
+  "p": "das drayek",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Ein Dreieck hat drei Ecken.",
+   "Uchburchakning uchta burchagi bor."
+  ]
+ },
+ {
+  "w": "die Form",
+  "uz": "shakl",
+  "ru": "форма",
+  "p": "di form",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Der Tisch hat eine runde Form.",
+   "Stol dumaloq shaklda."
+  ]
+ },
+ {
+  "w": "rund",
+  "uz": "dumaloq",
+  "ru": "круглый",
+  "p": "rund",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Der Ball ist rund.",
+   "To'p dumaloq."
+  ]
+ },
+ {
+  "w": "der Körper",
+  "uz": "tana",
+  "ru": "тело",
+  "p": "der kyorper",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Sport ist gut für den Körper.",
+   "Sport tana uchun foydali."
+  ]
+ },
+ {
+  "w": "der Kopf",
+  "uz": "bosh",
+  "ru": "голова",
+  "p": "der kopf",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Mein Kopf tut weh.",
+   "Boshim og'riyapti."
+  ]
+ },
+ {
+  "w": "das Gesicht",
+  "uz": "yuz",
+  "ru": "лицо",
+  "p": "das gezixt",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Sie hat ein schönes Gesicht.",
+   "Uning yuzi chiroyli."
+  ]
+ },
+ {
+  "w": "das Auge",
+  "uz": "ko'z",
+  "ru": "глаз",
+  "p": "das auge",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Mach die Augen zu.",
+   "Ko'zlaringni yum."
+  ]
+ },
+ {
+  "w": "das Ohr",
+  "uz": "quloq",
+  "ru": "ухо",
+  "p": "das or",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Mein Ohr tut weh.",
+   "Qulog'im og'riyapti."
+  ]
+ },
+ {
+  "w": "die Nase",
+  "uz": "burun",
+  "ru": "нос",
+  "p": "di naze",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Der Clown hat eine rote Nase.",
+   "Masxarabozning burni qizil."
+  ]
+ },
+ {
+  "w": "der Mund",
+  "uz": "og'iz",
+  "ru": "рот",
+  "p": "der mund",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Öffne bitte den Mund.",
+   "Iltimos, og'zingni och."
+  ]
+ },
+ {
+  "w": "der Zahn",
+  "uz": "tish",
+  "ru": "зуб",
+  "p": "der tsan",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ich putze meine Zähne.",
+   "Men tishlarimni tozalayman."
+  ]
+ },
+ {
+  "w": "das Haar",
+  "uz": "soch",
+  "ru": "волосы",
+  "p": "das har",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Sie hat lange Haare.",
+   "Uning sochi uzun."
+  ]
+ },
+ {
+  "w": "der Hals",
+  "uz": "bo'yin, tomoq",
+  "ru": "шея, горло",
+  "p": "der hals",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Mein Hals tut weh.",
+   "Tomog'im og'riyapti."
+  ]
+ },
+ {
+  "w": "die Hand",
+  "uz": "qo'l (kaft)",
+  "ru": "рука, кисть",
+  "p": "di hand",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Gib mir deine Hand.",
+   "Qo'lingni ber."
+  ]
+ },
+ {
+  "w": "der Arm",
+  "uz": "qo'l (bilak)",
+  "ru": "рука",
+  "p": "der arm",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Mein Arm ist gebrochen.",
+   "Qo'lim singan."
+  ]
+ },
+ {
+  "w": "das Bein",
+  "uz": "oyoq",
+  "ru": "нога",
+  "p": "das bayn",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Er hat lange Beine.",
+   "Uning oyoqlari uzun."
+  ]
+ },
+ {
+  "w": "der Fuß",
+  "uz": "oyoq (panja)",
+  "ru": "ступня, нога",
+  "p": "der fus",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ich gehe zu Fuß.",
+   "Men piyoda boraman."
+  ]
+ },
+ {
+  "w": "der Finger",
+  "uz": "barmoq",
+  "ru": "палец",
+  "p": "der finger",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ich habe zehn Finger.",
+   "Mening o'nta barmog'im bor."
+  ]
+ },
+ {
+  "w": "der Rücken",
+  "uz": "orqa, bel",
+  "ru": "спина",
+  "p": "der ryuken",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Mein Rücken tut weh.",
+   "Belim og'riyapti."
+  ]
+ },
+ {
+  "w": "der Bauch",
+  "uz": "qorin",
+  "ru": "живот",
+  "p": "der baux",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Nach dem Essen ist mein Bauch voll.",
+   "Ovqatdan keyin qornim to'q."
+  ]
+ },
+ {
+  "w": "das Herz",
+  "uz": "yurak",
+  "ru": "сердце",
+  "p": "das herts",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Mein Herz schlägt schnell.",
+   "Yuragim tez uryapti."
+  ]
+ },
+ {
+  "w": "der Arzt",
+  "uz": "shifokor",
+  "ru": "врач",
+  "p": "der artst",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ich gehe zum Arzt.",
+   "Men shifokorga boraman."
+  ]
+ },
+ {
+  "w": "das Krankenhaus",
+  "uz": "kasalxona",
+  "ru": "больница",
+  "p": "das krankenhaus",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Er liegt im Krankenhaus.",
+   "U kasalxonada yotibdi."
+  ]
+ },
+ {
+  "w": "die Apotheke",
+  "uz": "dorixona",
+  "ru": "аптека",
+  "p": "di apoteke",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Die Apotheke ist geschlossen.",
+   "Dorixona yopiq."
+  ]
+ },
+ {
+  "w": "das Medikament",
+  "uz": "dori",
+  "ru": "лекарство",
+  "p": "das medikament",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Nimm das Medikament dreimal täglich.",
+   "Dorini kuniga uch marta ich."
+  ]
+ },
+ {
+  "w": "krank",
+  "uz": "kasal",
+  "ru": "больной",
+  "p": "krank",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ich bin heute krank.",
+   "Men bugun kasalman."
+  ]
+ },
+ {
+  "w": "gesund",
+  "uz": "sog'lom",
+  "ru": "здоровый",
+  "p": "gezund",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Obst ist sehr gesund.",
+   "Meva sog'liq uchun juda foydali."
+  ]
+ },
+ {
+  "w": "das Essen",
+  "uz": "ovqat",
+  "ru": "еда",
+  "p": "das essen",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Das Essen ist sehr lecker.",
+   "Ovqat juda mazali."
+  ]
+ },
+ {
+  "w": "das Brot",
+  "uz": "non",
+  "ru": "хлеб",
+  "p": "das brot",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich kaufe frisches Brot.",
+   "Men yangi non sotib olaman."
+  ]
+ },
+ {
+  "w": "das Wasser",
+  "uz": "suv",
+  "ru": "вода",
+  "p": "das vasser",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich trinke viel Wasser.",
+   "Men ko'p suv ichaman."
+  ]
+ },
+ {
+  "w": "die Milch",
+  "uz": "sut",
+  "ru": "молоко",
+  "p": "di milx",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Das Kind trinkt Milch.",
+   "Bola sut ichyapti."
+  ]
+ },
+ {
+  "w": "der Tee",
+  "uz": "choy",
+  "ru": "чай",
+  "p": "der tey",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Möchtest du Tee?",
+   "Choy ichasanmi?"
+  ]
+ },
+ {
+  "w": "der Kaffee",
+  "uz": "qahva",
+  "ru": "кофе",
+  "p": "der kafe",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Der Kaffee ist zu heiß.",
+   "Qahva juda issiq."
+  ]
+ },
+ {
+  "w": "der Saft",
+  "uz": "sharbat",
+  "ru": "сок",
+  "p": "der zaft",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich trinke gern Apfelsaft.",
+   "Men olma sharbatini yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "das Fleisch",
+  "uz": "go'sht",
+  "ru": "мясо",
+  "p": "das flaysh",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Das Fleisch ist frisch.",
+   "Go'sht yangi."
+  ]
+ },
+ {
+  "w": "das Huhn",
+  "uz": "tovuq",
+  "ru": "курица",
+  "p": "das hun",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Wir kochen heute Huhn mit Reis.",
+   "Bugun guruch bilan tovuq pishiramiz."
+  ]
+ },
+ {
+  "w": "der Fisch",
+  "uz": "baliq",
+  "ru": "рыба",
+  "p": "der fish",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Fisch ist sehr gesund.",
+   "Baliq juda foydali."
+  ]
+ },
+ {
+  "w": "der Reis",
+  "uz": "guruch",
+  "ru": "рис",
+  "p": "der rays",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Plov macht man mit Reis.",
+   "Palov guruchdan tayyorlanadi."
+  ]
+ },
+ {
+  "w": "das Ei",
+  "uz": "tuxum",
+  "ru": "яйцо",
+  "p": "das ay",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich esse ein Ei zum Frühstück.",
+   "Nonushtaga bitta tuxum yeyman."
+  ]
+ },
+ {
+  "w": "der Käse",
+  "uz": "pishloq",
+  "ru": "сыр",
+  "p": "der keze",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Der Käse kommt aus der Schweiz.",
+   "Pishloq Shveytsariyadan keltirilgan."
+  ]
+ },
+ {
+  "w": "die Butter",
+  "uz": "sariyog'",
+  "ru": "сливочное масло",
+  "p": "di butter",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich esse Brot mit Butter.",
+   "Men nonni sariyog' bilan yeyman."
+  ]
+ },
+ {
+  "w": "der Zucker",
+  "uz": "shakar",
+  "ru": "сахар",
+  "p": "der tsuker",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich trinke Tee ohne Zucker.",
+   "Men choyni shakarsiz ichaman."
+  ]
+ },
+ {
+  "w": "das Salz",
+  "uz": "tuz",
+  "ru": "соль",
+  "p": "das zalts",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Die Suppe braucht mehr Salz.",
+   "Sho'rvaga ko'proq tuz kerak."
+  ]
+ },
+ {
+  "w": "die Suppe",
+  "uz": "sho'rva",
+  "ru": "суп",
+  "p": "di zuppe",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Die Suppe ist noch heiß.",
+   "Sho'rva hali issiq."
+  ]
+ },
+ {
+  "w": "der Apfel",
+  "uz": "olma",
+  "ru": "яблоко",
+  "p": "der apfel",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ein Apfel am Tag ist gesund.",
+   "Kuniga bitta olma foydali."
+  ]
+ },
+ {
+  "w": "die Kartoffel",
+  "uz": "kartoshka",
+  "ru": "картофель",
+  "p": "di kartoffel",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Wir essen Kartoffeln mit Fleisch.",
+   "Biz kartoshkani go'sht bilan yeymiz."
+  ]
+ },
+ {
+  "w": "das Gemüse",
+  "uz": "sabzavot",
+  "ru": "овощи",
+  "p": "das gemyuze",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Kinder sollen viel Gemüse essen.",
+   "Bolalar ko'p sabzavot yeyishi kerak."
+  ]
+ },
+ {
+  "w": "das Obst",
+  "uz": "meva",
+  "ru": "фрукты",
+  "p": "das obst",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich kaufe Obst auf dem Markt.",
+   "Bozordan meva sotib olaman."
+  ]
+ },
+ {
+  "w": "das Frühstück",
+  "uz": "nonushta",
+  "ru": "завтрак",
+  "p": "das fryushtyuk",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Das Frühstück ist fertig.",
+   "Nonushta tayyor."
+  ]
+ },
+ {
+  "w": "das Mittagessen",
+  "uz": "tushlik",
+  "ru": "обед",
+  "p": "das mittagessen",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Wir haben um eins Mittagessen.",
+   "Soat birda tushlik qilamiz."
+  ]
+ },
+ {
+  "w": "das Abendessen",
+  "uz": "kechki ovqat",
+  "ru": "ужин",
+  "p": "das abendessen",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Das Abendessen ist um sieben.",
+   "Kechki ovqat soat yettida."
+  ]
+ },
+ {
+  "w": "lecker",
+  "uz": "mazali",
+  "ru": "вкусный",
+  "p": "leker",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Der Kuchen ist sehr lecker.",
+   "Pirog juda mazali."
+  ]
+ },
+ {
+  "w": "der Hunger",
+  "uz": "ochlik",
+  "ru": "голод",
+  "p": "der hunger",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Ich habe großen Hunger.",
+   "Men juda ochman."
+  ]
+ },
+ {
+  "w": "das Haus",
+  "uz": "uy",
+  "ru": "дом",
+  "p": "das haus",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Unser Haus ist groß.",
+   "Bizning uyimiz katta."
+  ]
+ },
+ {
+  "w": "die Wohnung",
+  "uz": "kvartira",
+  "ru": "квартира",
+  "p": "di vonung",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Die Wohnung hat drei Zimmer.",
+   "Kvartirada uchta xona bor."
+  ]
+ },
+ {
+  "w": "das Zimmer",
+  "uz": "xona",
+  "ru": "комната",
+  "p": "das tsimmer",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Mein Zimmer ist klein.",
+   "Mening xonam kichkina."
+  ]
+ },
+ {
+  "w": "die Küche",
+  "uz": "oshxona",
+  "ru": "кухня",
+  "p": "di kyuxe",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Mama ist in der Küche.",
+   "Onam oshxonada."
+  ]
+ },
+ {
+  "w": "das Bad",
+  "uz": "vannaxona",
+  "ru": "ванная",
+  "p": "das bad",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Das Bad ist oben.",
+   "Vannaxona yuqorida."
+  ]
+ },
+ {
+  "w": "das Schlafzimmer",
+  "uz": "yotoqxona",
+  "ru": "спальня",
+  "p": "das shlaftsimmer",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Das Schlafzimmer ist sehr ruhig.",
+   "Yotoqxona juda tinch."
+  ]
+ },
+ {
+  "w": "die Tür",
+  "uz": "eshik",
+  "ru": "дверь",
+  "p": "di tyur",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Mach bitte die Tür zu.",
+   "Iltimos, eshikni yop."
+  ]
+ },
+ {
+  "w": "das Fenster",
+  "uz": "deraza",
+  "ru": "окно",
+  "p": "das fenster",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Ich putze das Fenster.",
+   "Men derazani tozalayapman."
+  ]
+ },
+ {
+  "w": "der Tisch",
+  "uz": "stol",
+  "ru": "стол",
+  "p": "der tish",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Das Buch liegt auf dem Tisch.",
+   "Kitob stol ustida turibdi."
+  ]
+ },
+ {
+  "w": "der Stuhl",
+  "uz": "stul",
+  "ru": "стул",
+  "p": "der shtul",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Setz dich auf den Stuhl.",
+   "Stulga o'tir."
+  ]
+ },
+ {
+  "w": "das Bett",
+  "uz": "karavot",
+  "ru": "кровать",
+  "p": "das bett",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Ich gehe früh ins Bett.",
+   "Men erta yotaman."
+  ]
+ },
+ {
+  "w": "das Sofa",
+  "uz": "divan",
+  "ru": "диван",
+  "p": "das zofa",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Wir sitzen auf dem Sofa.",
+   "Biz divanda o'tiribmiz."
+  ]
+ },
+ {
+  "w": "der Schrank",
+  "uz": "shkaf",
+  "ru": "шкаф",
+  "p": "der shrank",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Die Kleider sind im Schrank.",
+   "Kiyimlar shkafda."
+  ]
+ },
+ {
+  "w": "die Lampe",
+  "uz": "chiroq",
+  "ru": "лампа",
+  "p": "di lampe",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Die Lampe ist kaputt.",
+   "Chiroq buzilgan."
+  ]
+ },
+ {
+  "w": "der Kühlschrank",
+  "uz": "muzlatgich",
+  "ru": "холодильник",
+  "p": "der kyulshrank",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Die Milch ist im Kühlschrank.",
+   "Sut muzlatgichda."
+  ]
+ },
+ {
+  "w": "der Schlüssel",
+  "uz": "kalit",
+  "ru": "ключ",
+  "p": "der shlyussel",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Wo ist mein Schlüssel?",
+   "Kalitim qayerda?"
+  ]
+ },
+ {
+  "w": "die Wand",
+  "uz": "devor",
+  "ru": "стена",
+  "p": "di vand",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Das Bild hängt an der Wand.",
+   "Rasm devorda osilib turibdi."
+  ]
+ },
+ {
+  "w": "der Boden",
+  "uz": "pol, yer",
+  "ru": "пол",
+  "p": "der boden",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Die Tasche liegt auf dem Boden.",
+   "Sumka polda yotibdi."
+  ]
+ },
+ {
+  "w": "die Treppe",
+  "uz": "zinapoya",
+  "ru": "лестница",
+  "p": "di treppe",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Die Treppe ist sehr steil.",
+   "Zinapoya juda tik."
+  ]
+ },
+ {
+  "w": "der Garten",
+  "uz": "bog'",
+  "ru": "сад",
+  "p": "der garten",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Im Garten wachsen Rosen.",
+   "Bog'da atirgullar o'sadi."
+  ]
+ },
+ {
+  "w": "der Teller",
+  "uz": "tarelka, likopcha",
+  "ru": "тарелка",
+  "p": "der teller",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Stell den Teller auf den Tisch.",
+   "Tarelkani stolga qo'y."
+  ]
+ },
+ {
+  "w": "das Glas",
+  "uz": "stakan, shisha",
+  "ru": "стакан, стекло",
+  "p": "das glas",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Ein Glas Wasser, bitte.",
+   "Bir stakan suv, iltimos."
+  ]
+ },
+ {
+  "w": "die Tasse",
+  "uz": "piyola, chashka",
+  "ru": "чашка",
+  "p": "di tasse",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Ich trinke eine Tasse Tee.",
+   "Bir piyola choy ichaman."
+  ]
+ },
+ {
+  "w": "der Spiegel",
+  "uz": "ko'zgu",
+  "ru": "зеркало",
+  "p": "der shpigel",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Sie schaut in den Spiegel.",
+   "U ko'zguga qarayapti."
+  ]
+ },
+ {
+  "w": "die Kleidung",
+  "uz": "kiyim-kechak",
+  "ru": "одежда",
+  "p": "di klaydung",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Ich kaufe neue Kleidung.",
+   "Men yangi kiyim sotib olaman."
+  ]
+ },
+ {
+  "w": "das Hemd",
+  "uz": "ko'ylak (erkaklar)",
+  "ru": "рубашка",
+  "p": "das hemd",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Er trägt ein weißes Hemd.",
+   "U oq ko'ylak kiygan."
+  ]
+ },
+ {
+  "w": "die Hose",
+  "uz": "shim",
+  "ru": "брюки",
+  "p": "di hoze",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Die Hose ist zu lang.",
+   "Shim juda uzun."
+  ]
+ },
+ {
+  "w": "das Kleid",
+  "uz": "ko'ylak (ayollar)",
+  "ru": "платье",
+  "p": "das klayd",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Das Kleid ist sehr schön.",
+   "Ko'ylak juda chiroyli."
+  ]
+ },
+ {
+  "w": "der Rock",
+  "uz": "yubka",
+  "ru": "юбка",
+  "p": "der rok",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Sie trägt einen kurzen Rock.",
+   "U kalta yubka kiygan."
+  ]
+ },
+ {
+  "w": "die Jacke",
+  "uz": "kurtka",
+  "ru": "куртка",
+  "p": "di yake",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Nimm eine Jacke mit!",
+   "Kurtka olib ol!"
+  ]
+ },
+ {
+  "w": "der Mantel",
+  "uz": "palto",
+  "ru": "пальто",
+  "p": "der mantel",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Im Winter trage ich einen Mantel.",
+   "Qishda palto kiyaman."
+  ]
+ },
+ {
+  "w": "der Schuh",
+  "uz": "poyabzal, tufli",
+  "ru": "ботинок, туфля",
+  "p": "der shu",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Meine Schuhe sind neu.",
+   "Tuflilarim yangi."
+  ]
+ },
+ {
+  "w": "die Socke",
+  "uz": "paypoq",
+  "ru": "носок",
+  "p": "di zoke",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Wo sind meine Socken?",
+   "Paypoqlarim qayerda?"
+  ]
+ },
+ {
+  "w": "die Mütze",
+  "uz": "shapka",
+  "ru": "шапка",
+  "p": "di myutse",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Die Mütze ist sehr warm.",
+   "Shapka juda issiq."
+  ]
+ },
+ {
+  "w": "der Hut",
+  "uz": "shlyapa",
+  "ru": "шляпа",
+  "p": "der hut",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Der alte Mann trägt einen Hut.",
+   "Keksa odam shlyapa kiygan."
+  ]
+ },
+ {
+  "w": "das T-Shirt",
+  "uz": "futbolka",
+  "ru": "футболка",
+  "p": "das ti-shyort",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Im Sommer trage ich T-Shirts.",
+   "Yozda futbolka kiyaman."
+  ]
+ },
+ {
+  "w": "der Pullover",
+  "uz": "sviter",
+  "ru": "свитер",
+  "p": "der pulover",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Der Pullover ist warm.",
+   "Sviter issiq."
+  ]
+ },
+ {
+  "w": "die Brille",
+  "uz": "ko'zoynak",
+  "ru": "очки",
+  "p": "di brille",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Ohne Brille sehe ich nichts.",
+   "Ko'zoynaksiz hech narsani ko'rmayman."
+  ]
+ },
+ {
+  "w": "die Tasche",
+  "uz": "sumka",
+  "ru": "сумка",
+  "p": "di tashe",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Meine Tasche ist schwer.",
+   "Sumkam og'ir."
+  ]
+ },
+ {
+  "w": "der Gürtel",
+  "uz": "kamar",
+  "ru": "ремень",
+  "p": "der gyurtel",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Der Gürtel ist aus Leder.",
+   "Kamar charmdan qilingan."
+  ]
+ },
+ {
+  "w": "der Schal",
+  "uz": "sharf",
+  "ru": "шарф",
+  "p": "der shal",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Es ist kalt, nimm deinen Schal.",
+   "Sovuq, sharfingni ol."
+  ]
+ },
+ {
+  "w": "der Handschuh",
+  "uz": "qo'lqop",
+  "ru": "перчатка",
+  "p": "der handshu",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Ich habe meine Handschuhe verloren.",
+   "Qo'lqoplarimni yo'qotib qo'ydim."
+  ]
+ },
+ {
+  "w": "tragen",
+  "uz": "kiymoq, ko'tarmoq",
+  "ru": "носить",
+  "p": "tragen",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Was trägst du heute?",
+   "Bugun nima kiyasan?"
+  ]
+ },
+ {
+  "w": "anziehen",
+  "uz": "kiyinmoq, kiymoq",
+  "ru": "одевать(ся)",
+  "p": "antsien",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Zieh dich schnell an!",
+   "Tezroq kiyin!"
+  ]
+ },
+ {
+  "w": "die Stadt",
+  "uz": "shahar",
+  "ru": "город",
+  "p": "di shtadt",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Buchara ist eine alte Stadt.",
+   "Buxoro qadimiy shahar."
+  ]
+ },
+ {
+  "w": "das Dorf",
+  "uz": "qishloq",
+  "ru": "деревня",
+  "p": "das dorf",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Meine Oma wohnt im Dorf.",
+   "Buvim qishloqda yashaydi."
+  ]
+ },
+ {
+  "w": "die Straße",
+  "uz": "ko'cha",
+  "ru": "улица",
+  "p": "di shtrase",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Die Straße ist sehr lang.",
+   "Ko'cha juda uzun."
+  ]
+ },
+ {
+  "w": "der Platz",
+  "uz": "maydon, joy",
+  "ru": "площадь, место",
+  "p": "der plats",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Der Markt ist auf dem Platz.",
+   "Bozor maydonda joylashgan."
+  ]
+ },
+ {
+  "w": "der Markt",
+  "uz": "bozor",
+  "ru": "рынок",
+  "p": "der markt",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Ich gehe auf den Markt.",
+   "Men bozorga boraman."
+  ]
+ },
+ {
+  "w": "das Geschäft",
+  "uz": "do'kon",
+  "ru": "магазин",
+  "p": "das gesheft",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Das Geschäft öffnet um neun.",
+   "Do'kon soat to'qqizda ochiladi."
+  ]
+ },
+ {
+  "w": "der Supermarkt",
+  "uz": "supermarket",
+  "ru": "супермаркет",
+  "p": "der zupermarkt",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Der Supermarkt ist neben der Bank.",
+   "Supermarket bankning yonida."
+  ]
+ },
+ {
+  "w": "die Bank",
+  "uz": "bank, o'rindiq",
+  "ru": "банк, скамейка",
+  "p": "di bank",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Ich gehe zur Bank.",
+   "Men bankka boraman."
+  ]
+ },
+ {
+  "w": "die Post",
+  "uz": "pochta",
+  "ru": "почта",
+  "p": "di post",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Die Post ist heute zu.",
+   "Pochta bugun yopiq."
+  ]
+ },
+ {
+  "w": "das Restaurant",
+  "uz": "restoran",
+  "ru": "ресторан",
+  "p": "das restoran",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Wir essen im Restaurant.",
+   "Biz restoranda ovqatlanamiz."
+  ]
+ },
+ {
+  "w": "das Café",
+  "uz": "kafe",
+  "ru": "кафе",
+  "p": "das kafe",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Treffen wir uns im Café?",
+   "Kafeda uchrashamizmi?"
+  ]
+ },
+ {
+  "w": "das Hotel",
+  "uz": "mehmonxona",
+  "ru": "гостиница",
+  "p": "das hotel",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Das Hotel ist sehr teuer.",
+   "Mehmonxona juda qimmat."
+  ]
+ },
+ {
+  "w": "die Kirche",
+  "uz": "cherkov",
+  "ru": "церковь",
+  "p": "di kirxe",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Die Kirche ist sehr alt.",
+   "Cherkov juda qadimiy."
+  ]
+ },
+ {
+  "w": "die Moschee",
+  "uz": "masjid",
+  "ru": "мечеть",
+  "p": "di moshe",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Die Moschee ist in der Altstadt.",
+   "Masjid eski shaharda."
+  ]
+ },
+ {
+  "w": "das Museum",
+  "uz": "muzey",
+  "ru": "музей",
+  "p": "das muzeum",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Das Museum ist am Montag geschlossen.",
+   "Muzey dushanba kuni yopiq."
+  ]
+ },
+ {
+  "w": "der Park",
+  "uz": "park, bog'",
+  "ru": "парк",
+  "p": "der park",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Wir spazieren im Park.",
+   "Biz parkda sayr qilamiz."
+  ]
+ },
+ {
+  "w": "das Kino",
+  "uz": "kinoteatr",
+  "ru": "кинотеатр",
+  "p": "das kino",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Gehen wir heute ins Kino?",
+   "Bugun kinoga boramizmi?"
+  ]
+ },
+ {
+  "w": "die Bibliothek",
+  "uz": "kutubxona",
+  "ru": "библиотека",
+  "p": "di bibliotek",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Ich lerne in der Bibliothek.",
+   "Men kutubxonada o'qiyman."
+  ]
+ },
+ {
+  "w": "die Polizei",
+  "uz": "politsiya",
+  "ru": "полиция",
+  "p": "di politsay",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Ruf sofort die Polizei!",
+   "Darhol politsiya chaqir!"
+  ]
+ },
+ {
+  "w": "das Gebäude",
+  "uz": "bino",
+  "ru": "здание",
+  "p": "das geboyde",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Das Gebäude ist sehr hoch.",
+   "Bino juda baland."
+  ]
+ },
+ {
+  "w": "die Brücke",
+  "uz": "ko'prik",
+  "ru": "мост",
+  "p": "di bryuke",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Die Brücke ist über dem Fluss.",
+   "Ko'prik daryo ustida."
+  ]
+ },
+ {
+  "w": "die Ecke",
+  "uz": "burchak, muyulish",
+  "ru": "угол",
+  "p": "di eke",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Die Apotheke ist an der Ecke.",
+   "Dorixona muyulishda."
+  ]
+ },
+ {
+  "w": "links",
+  "uz": "chapga, chapda",
+  "ru": "налево, слева",
+  "p": "links",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Gehen Sie hier links.",
+   "Bu yerdan chapga yuring."
+  ]
+ },
+ {
+  "w": "rechts",
+  "uz": "o'ngga, o'ngda",
+  "ru": "направо, справа",
+  "p": "rexts",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Das Hotel ist rechts.",
+   "Mehmonxona o'ng tomonda."
+  ]
+ },
+ {
+  "w": "das Auto",
+  "uz": "mashina, avtomobil",
+  "ru": "машина",
+  "p": "das auto",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Mein Vater fährt ein neues Auto.",
+   "Otam yangi mashina haydaydi."
+  ]
+ },
+ {
+  "w": "der Bus",
+  "uz": "avtobus",
+  "ru": "автобус",
+  "p": "der bus",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Der Bus kommt um acht.",
+   "Avtobus soat sakkizda keladi."
+  ]
+ },
+ {
+  "w": "der Zug",
+  "uz": "poyezd",
+  "ru": "поезд",
+  "p": "der tsug",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Der Zug hat Verspätung.",
+   "Poyezd kechikyapti."
+  ]
+ },
+ {
+  "w": "das Flugzeug",
+  "uz": "samolyot",
+  "ru": "самолёт",
+  "p": "das flugtsoyg",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Das Flugzeug landet in Berlin.",
+   "Samolyot Berlinga qo'nadi."
+  ]
+ },
+ {
+  "w": "das Fahrrad",
+  "uz": "velosiped",
+  "ru": "велосипед",
+  "p": "das farrad",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Ich fahre mit dem Fahrrad.",
+   "Men velosipedda yuraman."
+  ]
+ },
+ {
+  "w": "das Taxi",
+  "uz": "taksi",
+  "ru": "такси",
+  "p": "das taksi",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Wir nehmen ein Taxi.",
+   "Biz taksiga o'tiramiz."
+  ]
+ },
+ {
+  "w": "die U-Bahn",
+  "uz": "metro",
+  "ru": "метро",
+  "p": "di u-ban",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Die U-Bahn ist sehr schnell.",
+   "Metro juda tez."
+  ]
+ },
+ {
+  "w": "das Schiff",
+  "uz": "kema",
+  "ru": "корабль",
+  "p": "das shif",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Das Schiff fährt nach Hamburg.",
+   "Kema Gamburgga boradi."
+  ]
+ },
+ {
+  "w": "der Bahnhof",
+  "uz": "vokzal",
+  "ru": "вокзал",
+  "p": "der banhof",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Der Bahnhof ist nicht weit.",
+   "Vokzal uzoq emas."
+  ]
+ },
+ {
+  "w": "der Flughafen",
+  "uz": "aeroport",
+  "ru": "аэропорт",
+  "p": "der flughafen",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Ich fahre zum Flughafen.",
+   "Men aeroportga ketyapman."
+  ]
+ },
+ {
+  "w": "die Haltestelle",
+  "uz": "bekat",
+  "ru": "остановка",
+  "p": "di haltestelle",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Die Haltestelle ist dort drüben.",
+   "Bekat ana u yerda."
+  ]
+ },
+ {
+  "w": "die Fahrkarte",
+  "uz": "chipta",
+  "ru": "билет",
+  "p": "di farkarte",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Ich brauche eine Fahrkarte.",
+   "Menga chipta kerak."
+  ]
+ },
+ {
+  "w": "die Reise",
+  "uz": "sayohat",
+  "ru": "путешествие",
+  "p": "di rayze",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Die Reise war sehr schön.",
+   "Sayohat juda ajoyib bo'ldi."
+  ]
+ },
+ {
+  "w": "der Urlaub",
+  "uz": "ta'til",
+  "ru": "отпуск",
+  "p": "der urlaub",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Im Sommer machen wir Urlaub.",
+   "Yozda ta'tilga chiqamiz."
+  ]
+ },
+ {
+  "w": "der Koffer",
+  "uz": "chamadon",
+  "ru": "чемодан",
+  "p": "der koffer",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Mein Koffer ist sehr schwer.",
+   "Chamadonim juda og'ir."
+  ]
+ },
+ {
+  "w": "der Pass",
+  "uz": "pasport",
+  "ru": "паспорт",
+  "p": "der pass",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Zeigen Sie bitte Ihren Pass.",
+   "Iltimos, pasportingizni ko'rsating."
+  ]
+ },
+ {
+  "w": "die Karte",
+  "uz": "xarita, karta",
+  "ru": "карта",
+  "p": "di karte",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Hast du eine Karte von Berlin?",
+   "Senda Berlin xaritasi bormi?"
+  ]
+ },
+ {
+  "w": "der Weg",
+  "uz": "yo'l",
+  "ru": "путь, дорога",
+  "p": "der veg",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Ich kenne den Weg.",
+   "Men yo'lni bilaman."
+  ]
+ },
+ {
+  "w": "fahren",
+  "uz": "(transportda) bormoq, haydamoq",
+  "ru": "ехать",
+  "p": "faren",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Wir fahren nach München.",
+   "Biz Myunxenga boramiz."
+  ]
+ },
+ {
+  "w": "fliegen",
+  "uz": "uchmoq",
+  "ru": "летать",
+  "p": "fligen",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Morgen fliege ich nach Taschkent.",
+   "Ertaga Toshkentga uchaman."
+  ]
+ },
+ {
+  "w": "abfahren",
+  "uz": "jo'nab ketmoq",
+  "ru": "отправляться",
+  "p": "abfaren",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Der Zug fährt um zehn ab.",
+   "Poyezd soat o'nda jo'naydi."
+  ]
+ },
+ {
+  "w": "die Ankunft",
+  "uz": "yetib kelish",
+  "ru": "прибытие",
+  "p": "di ankunft",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Die Ankunft ist um drei Uhr.",
+   "Yetib kelish soat uchda."
+  ]
+ },
+ {
+  "w": "die Arbeit",
+  "uz": "ish",
+  "ru": "работа",
+  "p": "di arbayt",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Die Arbeit beginnt um neun.",
+   "Ish soat to'qqizda boshlanadi."
+  ]
+ },
+ {
+  "w": "der Beruf",
+  "uz": "kasb",
+  "ru": "профессия",
+  "p": "der beruf",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Was ist Ihr Beruf?",
+   "Kasbingiz nima?"
+  ]
+ },
+ {
+  "w": "der Lehrer",
+  "uz": "o'qituvchi",
+  "ru": "учитель",
+  "p": "der lerer",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Lehrer erklärt die Aufgabe.",
+   "O'qituvchi topshiriqni tushuntiradi."
+  ]
+ },
+ {
+  "w": "die Lehrerin",
+  "uz": "o'qituvchi (ayol)",
+  "ru": "учительница",
+  "p": "di lererin",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Meine Lehrerin ist sehr nett.",
+   "O'qituvchim juda mehribon."
+  ]
+ },
+ {
+  "w": "der Koch",
+  "uz": "oshpaz",
+  "ru": "повар",
+  "p": "der kox",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Koch macht leckere Suppe.",
+   "Oshpaz mazali sho'rva tayyorlaydi."
+  ]
+ },
+ {
+  "w": "der Fahrer",
+  "uz": "haydovchi",
+  "ru": "водитель",
+  "p": "der farer",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Fahrer wartet vor dem Haus.",
+   "Haydovchi uy oldida kutyapti."
+  ]
+ },
+ {
+  "w": "der Verkäufer",
+  "uz": "sotuvchi",
+  "ru": "продавец",
+  "p": "der ferkoyfer",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Verkäufer ist sehr freundlich.",
+   "Sotuvchi juda xushmuomala."
+  ]
+ },
+ {
+  "w": "der Polizist",
+  "uz": "politsiyachi",
+  "ru": "полицейский",
+  "p": "der politsist",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Polizist hilft den Kindern.",
+   "Politsiyachi bolalarga yordam beradi."
+  ]
+ },
+ {
+  "w": "der Ingenieur",
+  "uz": "muhandis",
+  "ru": "инженер",
+  "p": "der injenyor",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Mein Bruder ist Ingenieur.",
+   "Akam muhandis."
+  ]
+ },
+ {
+  "w": "der Programmierer",
+  "uz": "dasturchi",
+  "ru": "программист",
+  "p": "der programmirer",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Ich möchte Programmierer werden.",
+   "Men dasturchi bo'lmoqchiman."
+  ]
+ },
+ {
+  "w": "die Krankenschwester",
+  "uz": "hamshira",
+  "ru": "медсестра",
+  "p": "di krankenshvester",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Die Krankenschwester misst das Fieber.",
+   "Hamshira isitmani o'lchaydi."
+  ]
+ },
+ {
+  "w": "der Bauer",
+  "uz": "dehqon",
+  "ru": "крестьянин, фермер",
+  "p": "der bauer",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Der Bauer arbeitet auf dem Feld.",
+   "Dehqon dalada ishlaydi."
+  ]
+ },
+ {
+  "w": "der Kellner",
+  "uz": "ofitsiant",
+  "ru": "официант",
+  "p": "der kellner",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Der Kellner bringt die Rechnung.",
+   "Ofitsiant hisobni olib keladi."
+  ]
+ },
+ {
+  "w": "das Büro",
+  "uz": "ofis, idora",
+  "ru": "офис",
+  "p": "das byuro",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Ich arbeite in einem Büro.",
+   "Men ofisda ishlayman."
+  ]
+ },
+ {
+  "w": "die Firma",
+  "uz": "firma, kompaniya",
+  "ru": "фирма",
+  "p": "di firma",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Die Firma ist in Hamburg.",
+   "Firma Gamburgda joylashgan."
+  ]
+ },
+ {
+  "w": "der Chef",
+  "uz": "boshliq",
+  "ru": "начальник",
+  "p": "der shef",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Mein Chef ist heute nicht da.",
+   "Boshlig'im bugun yo'q."
+  ]
+ },
+ {
+  "w": "der Kollege",
+  "uz": "hamkasb",
+  "ru": "коллега",
+  "p": "der kollege",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Mein Kollege hilft mir oft.",
+   "Hamkasbim menga tez-tez yordam beradi."
+  ]
+ },
+ {
+  "w": "das Gehalt",
+  "uz": "maosh",
+  "ru": "зарплата",
+  "p": "das gehalt",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Das Gehalt ist nicht schlecht.",
+   "Maosh yomon emas."
+  ]
+ },
+ {
+  "w": "arbeiten",
+  "uz": "ishlamoq",
+  "ru": "работать",
+  "p": "arbayten",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Ich arbeite von acht bis fünf.",
+   "Men sakkizdan beshgacha ishlayman."
+  ]
+ },
+ {
+  "w": "der Termin",
+  "uz": "uchrashuv vaqti",
+  "ru": "встреча, приём",
+  "p": "der termin",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Ich habe morgen einen Termin.",
+   "Ertaga uchrashuvim bor."
+  ]
+ },
+ {
+  "w": "die Pause",
+  "uz": "tanaffus",
+  "ru": "перерыв",
+  "p": "di pauze",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Wir machen eine kurze Pause.",
+   "Biz qisqa tanaffus qilamiz."
+  ]
+ },
+ {
+  "w": "arbeitslos",
+  "uz": "ishsiz",
+  "ru": "безработный",
+  "p": "arbaytslos",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Er ist seit Mai arbeitslos.",
+   "U maydan beri ishsiz."
+  ]
+ },
+ {
+  "w": "die Schule",
+  "uz": "maktab",
+  "ru": "школа",
+  "p": "di shule",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Die Schule beginnt im September.",
+   "Maktab sentabrda boshlanadi."
+  ]
+ },
+ {
+  "w": "der Schüler",
+  "uz": "o'quvchi",
+  "ru": "ученик",
+  "p": "der shyuler",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Der Schüler macht Hausaufgaben.",
+   "O'quvchi uy vazifasini bajaryapti."
+  ]
+ },
+ {
+  "w": "der Student",
+  "uz": "talaba",
+  "ru": "студент",
+  "p": "der shtudent",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich bin Student in China.",
+   "Men Xitoyda talabaman."
+  ]
+ },
+ {
+  "w": "die Universität",
+  "uz": "universitet",
+  "ru": "университет",
+  "p": "di univerzitet",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Die Universität ist sehr groß.",
+   "Universitet juda katta."
+  ]
+ },
+ {
+  "w": "die Klasse",
+  "uz": "sinf",
+  "ru": "класс",
+  "p": "di klasse",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "In meiner Klasse sind zwanzig Schüler.",
+   "Sinfimda yigirmata o'quvchi bor."
+  ]
+ },
+ {
+  "w": "das Buch",
+  "uz": "kitob",
+  "ru": "книга",
+  "p": "das bux",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Das Buch ist sehr spannend.",
+   "Kitob juda qiziqarli."
+  ]
+ },
+ {
+  "w": "das Heft",
+  "uz": "daftar",
+  "ru": "тетрадь",
+  "p": "das heft",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Schreib das in dein Heft.",
+   "Buni daftaringga yoz."
+  ]
+ },
+ {
+  "w": "der Kuli",
+  "uz": "ruchka",
+  "ru": "ручка",
+  "p": "der kuli",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Kann ich deinen Kuli haben?",
+   "Ruchkangni olsam bo'ladimi?"
+  ]
+ },
+ {
+  "w": "der Bleistift",
+  "uz": "qalam",
+  "ru": "карандаш",
+  "p": "der blayshtift",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich schreibe mit dem Bleistift.",
+   "Men qalam bilan yozaman."
+  ]
+ },
+ {
+  "w": "die Hausaufgabe",
+  "uz": "uy vazifasi",
+  "ru": "домашнее задание",
+  "p": "di hausaufgabe",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Die Hausaufgabe ist sehr leicht.",
+   "Uy vazifasi juda oson."
+  ]
+ },
+ {
+  "w": "die Prüfung",
+  "uz": "imtihon",
+  "ru": "экзамен",
+  "p": "di pryufung",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Morgen habe ich eine Prüfung.",
+   "Ertaga imtihonim bor."
+  ]
+ },
+ {
+  "w": "die Frage",
+  "uz": "savol",
+  "ru": "вопрос",
+  "p": "di frage",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich habe eine Frage.",
+   "Mening bitta savolim bor."
+  ]
+ },
+ {
+  "w": "die Antwort",
+  "uz": "javob",
+  "ru": "ответ",
+  "p": "di antvort",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Die Antwort ist richtig.",
+   "Javob to'g'ri."
+  ]
+ },
+ {
+  "w": "die Sprache",
+  "uz": "til",
+  "ru": "язык",
+  "p": "di shpraxe",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Deutsch ist eine schöne Sprache.",
+   "Nemis tili chiroyli til."
+  ]
+ },
+ {
+  "w": "das Wort",
+  "uz": "so'z",
+  "ru": "слово",
+  "p": "das vort",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Was bedeutet dieses Wort?",
+   "Bu so'z nimani anglatadi?"
+  ]
+ },
+ {
+  "w": "der Satz",
+  "uz": "gap",
+  "ru": "предложение",
+  "p": "der zats",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Schreib einen Satz mit diesem Wort.",
+   "Shu so'z bilan gap tuz."
+  ]
+ },
+ {
+  "w": "die Tafel",
+  "uz": "doska",
+  "ru": "доска",
+  "p": "di tafel",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Der Lehrer schreibt an die Tafel.",
+   "O'qituvchi doskaga yozadi."
+  ]
+ },
+ {
+  "w": "lernen",
+  "uz": "o'rganmoq",
+  "ru": "учить",
+  "p": "lernen",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich lerne jeden Tag Deutsch.",
+   "Men har kuni nemis tilini o'rganaman."
+  ]
+ },
+ {
+  "w": "lesen",
+  "uz": "o'qimoq",
+  "ru": "читать",
+  "p": "lezen",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich lese gern Bücher.",
+   "Men kitob o'qishni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "schreiben",
+  "uz": "yozmoq",
+  "ru": "писать",
+  "p": "shrayben",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich schreibe einen Brief.",
+   "Men xat yozyapman."
+  ]
+ },
+ {
+  "w": "studieren",
+  "uz": "(oliygohda) o'qimoq",
+  "ru": "учиться (в вузе)",
+  "p": "shtudiren",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich studiere Informatik.",
+   "Men informatikani o'qiyman."
+  ]
+ },
+ {
+  "w": "der Fehler",
+  "uz": "xato",
+  "ru": "ошибка",
+  "p": "der feler",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ich mache viele Fehler.",
+   "Men ko'p xato qilaman."
+  ]
+ },
+ {
+  "w": "die Natur",
+  "uz": "tabiat",
+  "ru": "природа",
+  "p": "di natur",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Ich liebe die Natur.",
+   "Men tabiatni sevaman."
+  ]
+ },
+ {
+  "w": "der Baum",
+  "uz": "daraxt",
+  "ru": "дерево",
+  "p": "der baum",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Baum ist sehr alt.",
+   "Daraxt juda qari."
+  ]
+ },
+ {
+  "w": "die Blume",
+  "uz": "gul",
+  "ru": "цветок",
+  "p": "di blume",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Ich schenke dir eine Blume.",
+   "Senga gul sovg'a qilaman."
+  ]
+ },
+ {
+  "w": "das Gras",
+  "uz": "o't",
+  "ru": "трава",
+  "p": "das gras",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Die Kinder sitzen im Gras.",
+   "Bolalar o't ustida o'tirishibdi."
+  ]
+ },
+ {
+  "w": "der Berg",
+  "uz": "tog'",
+  "ru": "гора",
+  "p": "der berg",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Berg ist sehr hoch.",
+   "Tog' juda baland."
+  ]
+ },
+ {
+  "w": "der Fluss",
+  "uz": "daryo",
+  "ru": "река",
+  "p": "der flus",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Fluss ist sehr breit.",
+   "Daryo juda keng."
+  ]
+ },
+ {
+  "w": "der See",
+  "uz": "ko'l",
+  "ru": "озеро",
+  "p": "der zey",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Wir schwimmen im See.",
+   "Biz ko'lda suzamiz."
+  ]
+ },
+ {
+  "w": "das Meer",
+  "uz": "dengiz",
+  "ru": "море",
+  "p": "das mer",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Im Sommer fahren wir ans Meer.",
+   "Yozda dengizga boramiz."
+  ]
+ },
+ {
+  "w": "der Wald",
+  "uz": "o'rmon",
+  "ru": "лес",
+  "p": "der vald",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Im Wald gibt es viele Bäume.",
+   "O'rmonda daraxtlar ko'p."
+  ]
+ },
+ {
+  "w": "das Feld",
+  "uz": "dala",
+  "ru": "поле",
+  "p": "das feld",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Auf dem Feld wächst Weizen.",
+   "Dalada bug'doy o'sadi."
+  ]
+ },
+ {
+  "w": "die Wüste",
+  "uz": "cho'l",
+  "ru": "пустыня",
+  "p": "di vyuste",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "In der Wüste ist es heiß.",
+   "Cho'lda issiq bo'ladi."
+  ]
+ },
+ {
+  "w": "der Himmel",
+  "uz": "osmon",
+  "ru": "небо",
+  "p": "der himmel",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Am Himmel sind viele Sterne.",
+   "Osmonda yulduzlar ko'p."
+  ]
+ },
+ {
+  "w": "die Erde",
+  "uz": "yer",
+  "ru": "земля",
+  "p": "di erde",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Die Erde ist rund.",
+   "Yer dumaloq."
+  ]
+ },
+ {
+  "w": "das Tier",
+  "uz": "hayvon",
+  "ru": "животное",
+  "p": "das tir",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Welches Tier magst du?",
+   "Qaysi hayvonni yoqtirasan?"
+  ]
+ },
+ {
+  "w": "der Hund",
+  "uz": "it",
+  "ru": "собака",
+  "p": "der hund",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Hund bellt laut.",
+   "It qattiq akillayapti."
+  ]
+ },
+ {
+  "w": "die Katze",
+  "uz": "mushuk",
+  "ru": "кошка",
+  "p": "di katse",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Die Katze schläft auf dem Sofa.",
+   "Mushuk divanda uxlayapti."
+  ]
+ },
+ {
+  "w": "das Pferd",
+  "uz": "ot",
+  "ru": "лошадь",
+  "p": "das pferd",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Das Pferd läuft schnell.",
+   "Ot tez yuguradi."
+  ]
+ },
+ {
+  "w": "die Kuh",
+  "uz": "sigir",
+  "ru": "корова",
+  "p": "di ku",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Die Kuh gibt Milch.",
+   "Sigir sut beradi."
+  ]
+ },
+ {
+  "w": "das Schaf",
+  "uz": "qo'y",
+  "ru": "овца",
+  "p": "das shaf",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Junge hütet die Schafe.",
+   "Bola qo'ylarni boqyapti."
+  ]
+ },
+ {
+  "w": "der Vogel",
+  "uz": "qush",
+  "ru": "птица",
+  "p": "der fogel",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Vogel singt am Morgen.",
+   "Qush ertalab sayraydi."
+  ]
+ },
+ {
+  "w": "der Löwe",
+  "uz": "sher",
+  "ru": "лев",
+  "p": "der lyove",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Der Löwe ist sehr stark.",
+   "Sher juda kuchli."
+  ]
+ },
+ {
+  "w": "die Maus",
+  "uz": "sichqon",
+  "ru": "мышь",
+  "p": "di maus",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Die Katze fängt eine Maus.",
+   "Mushuk sichqon tutadi."
+  ]
+ },
+ {
+  "w": "der Esel",
+  "uz": "eshak",
+  "ru": "осёл",
+  "p": "der ezel",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Der Esel trägt schwere Säcke.",
+   "Eshak og'ir qoplarni tashiydi."
+  ]
+ },
+ {
+  "w": "der Stein",
+  "uz": "tosh",
+  "ru": "камень",
+  "p": "der shtayn",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Der Stein ist sehr schwer.",
+   "Tosh juda og'ir."
+  ]
+ },
+ {
+  "w": "das Blatt",
+  "uz": "barg, varaq",
+  "ru": "лист",
+  "p": "das blatt",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Das Blatt ist gelb.",
+   "Barg sariq."
+  ]
+ },
+ {
+  "w": "der Stern",
+  "uz": "yulduz",
+  "ru": "звезда",
+  "p": "der shtern",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Der Stern leuchtet hell.",
+   "Yulduz yorqin porlayapti."
+  ]
+ },
+ {
+  "w": "das Wetter",
+  "uz": "ob-havo",
+  "ru": "погода",
+  "p": "das vetter",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Wie ist das Wetter heute?",
+   "Bugun ob-havo qanday?"
+  ]
+ },
+ {
+  "w": "die Sonne",
+  "uz": "quyosh",
+  "ru": "солнце",
+  "p": "di zonne",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Die Sonne scheint heute.",
+   "Bugun quyosh charaqlayapti."
+  ]
+ },
+ {
+  "w": "der Regen",
+  "uz": "yomg'ir",
+  "ru": "дождь",
+  "p": "der regen",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Ich mag den Regen nicht.",
+   "Men yomg'irni yoqtirmayman."
+  ]
+ },
+ {
+  "w": "der Schnee",
+  "uz": "qor",
+  "ru": "снег",
+  "p": "der shne",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Die Kinder spielen im Schnee.",
+   "Bolalar qorda o'ynashyapti."
+  ]
+ },
+ {
+  "w": "der Wind",
+  "uz": "shamol",
+  "ru": "ветер",
+  "p": "der vind",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Heute ist der Wind stark.",
+   "Bugun shamol kuchli."
+  ]
+ },
+ {
+  "w": "die Wolke",
+  "uz": "bulut",
+  "ru": "облако",
+  "p": "di volke",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Am Himmel ist keine Wolke.",
+   "Osmonda birorta ham bulut yo'q."
+  ]
+ },
+ {
+  "w": "das Gewitter",
+  "uz": "momaqaldiroq, bo'ron",
+  "ru": "гроза",
+  "p": "das gevitter",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Heute Abend kommt ein Gewitter.",
+   "Bugun kechqurun momaqaldiroq bo'ladi."
+  ]
+ },
+ {
+  "w": "der Nebel",
+  "uz": "tuman",
+  "ru": "туман",
+  "p": "der nebel",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Am Morgen gibt es Nebel.",
+   "Ertalab tuman bo'ladi."
+  ]
+ },
+ {
+  "w": "die Temperatur",
+  "uz": "harorat",
+  "ru": "температура",
+  "p": "di temperatur",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Die Temperatur ist heute hoch.",
+   "Bugun harorat yuqori."
+  ]
+ },
+ {
+  "w": "der Grad",
+  "uz": "daraja (harorat)",
+  "ru": "градус",
+  "p": "der grad",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Heute sind es dreißig Grad.",
+   "Bugun havo o'ttiz daraja."
+  ]
+ },
+ {
+  "w": "warm",
+  "uz": "iliq",
+  "ru": "тёплый",
+  "p": "varm",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Heute ist es warm.",
+   "Bugun havo iliq."
+  ]
+ },
+ {
+  "w": "kalt",
+  "uz": "sovuq",
+  "ru": "холодный",
+  "p": "kalt",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Das Wasser ist zu kalt.",
+   "Suv juda sovuq."
+  ]
+ },
+ {
+  "w": "heiß",
+  "uz": "issiq, qaynoq",
+  "ru": "жаркий, горячий",
+  "p": "hays",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Im Sommer ist es in Buchara heiß.",
+   "Yozda Buxoroda issiq bo'ladi."
+  ]
+ },
+ {
+  "w": "sonnig",
+  "uz": "quyoshli",
+  "ru": "солнечный",
+  "p": "zonnix",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Morgen wird es sonnig.",
+   "Ertaga havo quyoshli bo'ladi."
+  ]
+ },
+ {
+  "w": "regnen",
+  "uz": "yomg'ir yog'moq",
+  "ru": "идти (о дожде)",
+  "p": "regnen",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Es regnet seit Stunden.",
+   "Bir necha soatdan beri yomg'ir yog'yapti."
+  ]
+ },
+ {
+  "w": "schneien",
+  "uz": "qor yog'moq",
+  "ru": "идти (о снеге)",
+  "p": "shnayen",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Es schneit seit gestern.",
+   "Kechadan beri qor yog'yapti."
+  ]
+ },
+ {
+  "w": "kühl",
+  "uz": "salqin",
+  "ru": "прохладный",
+  "p": "kyul",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Der Abend ist kühl.",
+   "Kechqurun salqin."
+  ]
+ },
+ {
+  "w": "das Klima",
+  "uz": "iqlim",
+  "ru": "климат",
+  "p": "das klima",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Das Klima hier ist trocken.",
+   "Bu yerda iqlim quruq."
+  ]
+ },
+ {
+  "w": "das Geld",
+  "uz": "pul",
+  "ru": "деньги",
+  "p": "das geld",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Ich habe kein Geld.",
+   "Pulim yo'q."
+  ]
+ },
+ {
+  "w": "der Preis",
+  "uz": "narx",
+  "ru": "цена",
+  "p": "der prays",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Der Preis ist zu hoch.",
+   "Narx juda baland."
+  ]
+ },
+ {
+  "w": "kosten",
+  "uz": "turmoq (narxi)",
+  "ru": "стоить",
+  "p": "kosten",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Was kostet das?",
+   "Bu qancha turadi?"
+  ]
+ },
+ {
+  "w": "kaufen",
+  "uz": "sotib olmoq",
+  "ru": "покупать",
+  "p": "kaufen",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Ich kaufe ein neues Handy.",
+   "Men yangi telefon sotib olaman."
+  ]
+ },
+ {
+  "w": "verkaufen",
+  "uz": "sotmoq",
+  "ru": "продавать",
+  "p": "ferkaufen",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Er verkauft sein Auto.",
+   "U mashinasini sotyapti."
+  ]
+ },
+ {
+  "w": "bezahlen",
+  "uz": "to'lamoq",
+  "ru": "платить",
+  "p": "betsalen",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Kann ich mit Karte bezahlen?",
+   "Karta bilan to'lasam bo'ladimi?"
+  ]
+ },
+ {
+  "w": "teuer",
+  "uz": "qimmat",
+  "ru": "дорогой",
+  "p": "toyer",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Das Handy ist zu teuer.",
+   "Telefon juda qimmat."
+  ]
+ },
+ {
+  "w": "billig",
+  "uz": "arzon",
+  "ru": "дешёвый",
+  "p": "billix",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Das Obst ist hier billig.",
+   "Bu yerda meva arzon."
+  ]
+ },
+ {
+  "w": "der Euro",
+  "uz": "yevro",
+  "ru": "евро",
+  "p": "der oyro",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Das kostet zehn Euro.",
+   "Bu o'n yevro turadi."
+  ]
+ },
+ {
+  "w": "die Rechnung",
+  "uz": "hisob, chek",
+  "ru": "счёт",
+  "p": "di rexnung",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Die Rechnung, bitte!",
+   "Hisobni keltiring, iltimos!"
+  ]
+ },
+ {
+  "w": "der Kunde",
+  "uz": "mijoz",
+  "ru": "клиент, покупатель",
+  "p": "der kunde",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Der Kunde ist König.",
+   "Mijoz – podshoh."
+  ]
+ },
+ {
+  "w": "das Angebot",
+  "uz": "taklif, aksiya",
+  "ru": "предложение",
+  "p": "das angebot",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Das Angebot gilt nur heute.",
+   "Taklif faqat bugun amal qiladi."
+  ]
+ },
+ {
+  "w": "die Kasse",
+  "uz": "kassa",
+  "ru": "касса",
+  "p": "di kasse",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bitte zahlen Sie an der Kasse.",
+   "Iltimos, kassada to'lang."
+  ]
+ },
+ {
+  "w": "der Laden",
+  "uz": "do'kon",
+  "ru": "магазин, лавка",
+  "p": "der laden",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Der Laden ist um die Ecke.",
+   "Do'kon muyulishda."
+  ]
+ },
+ {
+  "w": "die Größe",
+  "uz": "o'lcham",
+  "ru": "размер",
+  "p": "di gryose",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Welche Größe haben Sie?",
+   "Sizning o'lchamingiz qanday?"
+  ]
+ },
+ {
+  "w": "das Kilo",
+  "uz": "kilogramm",
+  "ru": "килограмм",
+  "p": "das kilo",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Ein Kilo Äpfel, bitte.",
+   "Bir kilo olma, iltimos."
+  ]
+ },
+ {
+  "w": "das Stück",
+  "uz": "dona, bo'lak",
+  "ru": "штука, кусок",
+  "p": "das shtyuk",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Ich nehme drei Stück.",
+   "Men uch dona olaman."
+  ]
+ },
+ {
+  "w": "einkaufen",
+  "uz": "xarid qilmoq",
+  "ru": "делать покупки",
+  "p": "aynkaufen",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Ich gehe heute einkaufen.",
+   "Bugun xaridga boraman."
+  ]
+ },
+ {
+  "w": "das Geschenk",
+  "uz": "sovg'a",
+  "ru": "подарок",
+  "p": "das geshenk",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Das Geschenk ist für dich.",
+   "Sovg'a sen uchun."
+  ]
+ },
+ {
+  "w": "die Kreditkarte",
+  "uz": "kredit karta",
+  "ru": "кредитная карта",
+  "p": "di kreditkarte",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Ich bezahle mit Kreditkarte.",
+   "Kredit karta bilan to'layman."
+  ]
+ },
+ {
+  "w": "glücklich",
+  "uz": "baxtli",
+  "ru": "счастливый",
+  "p": "glyuklix",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Ich bin heute sehr glücklich.",
+   "Bugun men juda baxtliman."
+  ]
+ },
+ {
+  "w": "traurig",
+  "uz": "xafa, g'amgin",
+  "ru": "грустный",
+  "p": "traurix",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Warum bist du traurig?",
+   "Nega xafasan?"
+  ]
+ },
+ {
+  "w": "müde",
+  "uz": "charchagan",
+  "ru": "усталый",
+  "p": "myude",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Nach der Arbeit bin ich müde.",
+   "Ishdan keyin charchagan bo'laman."
+  ]
+ },
+ {
+  "w": "wütend",
+  "uz": "g'azablangan",
+  "ru": "злой, сердитый",
+  "p": "vyutend",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Der Chef ist sehr wütend.",
+   "Boshliqning jahli juda chiqqan."
+  ]
+ },
+ {
+  "w": "froh",
+  "uz": "xursand",
+  "ru": "радостный",
+  "p": "fro",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Ich bin froh, dich zu sehen.",
+   "Seni ko'rganimdan xursandman."
+  ]
+ },
+ {
+  "w": "die Angst",
+  "uz": "qo'rquv",
+  "ru": "страх",
+  "p": "di angst",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Ich habe Angst vor Hunden.",
+   "Men itlardan qo'rqaman."
+  ]
+ },
+ {
+  "w": "die Liebe",
+  "uz": "sevgi",
+  "ru": "любовь",
+  "p": "di libe",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Liebe ist das Wichtigste.",
+   "Sevgi eng muhim narsa."
+  ]
+ },
+ {
+  "w": "die Freude",
+  "uz": "quvonch",
+  "ru": "радость",
+  "p": "di froyde",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Sie weint vor Freude.",
+   "U xursandchilikdan yig'layapti."
+  ]
+ },
+ {
+  "w": "nett",
+  "uz": "yoqimli, mehribon",
+  "ru": "милый, приятный",
+  "p": "nett",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Deine Schwester ist sehr nett.",
+   "Opang juda yoqimli."
+  ]
+ },
+ {
+  "w": "freundlich",
+  "uz": "xushmuomala",
+  "ru": "дружелюбный",
+  "p": "froyndlix",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Die Leute hier sind freundlich.",
+   "Bu yerdagi odamlar xushmuomala."
+  ]
+ },
+ {
+  "w": "lustig",
+  "uz": "quvnoq, kulgili",
+  "ru": "весёлый, смешной",
+  "p": "lustix",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Der Film ist sehr lustig.",
+   "Film juda kulgili."
+  ]
+ },
+ {
+  "w": "ruhig",
+  "uz": "tinch, sokin",
+  "ru": "спокойный",
+  "p": "ruix",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Mein Bruder ist ein ruhiger Mensch.",
+   "Akam sokin odam."
+  ]
+ },
+ {
+  "w": "faul",
+  "uz": "dangasa",
+  "ru": "ленивый",
+  "p": "faul",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Er ist ein bisschen faul.",
+   "U biroz dangasa."
+  ]
+ },
+ {
+  "w": "fleißig",
+  "uz": "tirishqoq",
+  "ru": "прилежный",
+  "p": "flaysix",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Sie ist eine fleißige Studentin.",
+   "U tirishqoq talaba."
+  ]
+ },
+ {
+  "w": "klug",
+  "uz": "aqlli",
+  "ru": "умный",
+  "p": "klug",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Er gibt immer kluge Antworten.",
+   "U doim aqlli javoblar beradi."
+  ]
+ },
+ {
+  "w": "dumm",
+  "uz": "ahmoq, aqlsiz",
+  "ru": "глупый",
+  "p": "dumm",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Das war eine dumme Idee.",
+   "Bu ahmoqona fikr edi."
+  ]
+ },
+ {
+  "w": "nervös",
+  "uz": "asabiy, hayajonlangan",
+  "ru": "нервный",
+  "p": "nervyos",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Vor der Prüfung bin ich nervös.",
+   "Imtihon oldidan hayajonlanaman."
+  ]
+ },
+ {
+  "w": "mutig",
+  "uz": "jasur",
+  "ru": "смелый",
+  "p": "mutix",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Der Junge ist sehr mutig.",
+   "Bola juda jasur."
+  ]
+ },
+ {
+  "w": "das Gefühl",
+  "uz": "his, tuyg'u",
+  "ru": "чувство",
+  "p": "das gefyul",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Ich habe ein gutes Gefühl.",
+   "Ko'nglimda yaxshi tuyg'u bor."
+  ]
+ },
+ {
+  "w": "lachen",
+  "uz": "kulmoq",
+  "ru": "смеяться",
+  "p": "laxen",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Die Kinder lachen laut.",
+   "Bolalar baland ovozda kulishyapti."
+  ]
+ },
+ {
+  "w": "weinen",
+  "uz": "yig'lamoq",
+  "ru": "плакать",
+  "p": "vaynen",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Warum weint das Baby?",
+   "Chaqaloq nega yig'layapti?"
+  ]
+ },
+ {
+  "w": "lieben",
+  "uz": "sevmoq",
+  "ru": "любить",
+  "p": "liben",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Ich liebe meine Familie.",
+   "Men oilamni sevaman."
+  ]
+ },
+ {
+  "w": "der Sport",
+  "uz": "sport",
+  "ru": "спорт",
+  "p": "der shport",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Ich mache jeden Tag Sport.",
+   "Men har kuni sport bilan shug'ullanaman."
+  ]
+ },
+ {
+  "w": "der Fußball",
+  "uz": "futbol",
+  "ru": "футбол",
+  "p": "der fusbal",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Fußball ist sehr beliebt.",
+   "Futbol juda mashhur."
+  ]
+ },
+ {
+  "w": "spielen",
+  "uz": "o'ynamoq",
+  "ru": "играть",
+  "p": "shpilen",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Wir spielen zusammen Tennis.",
+   "Biz birga tennis o'ynaymiz."
+  ]
+ },
+ {
+  "w": "schwimmen",
+  "uz": "suzmoq",
+  "ru": "плавать",
+  "p": "shvimmen",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Ich schwimme gern im Meer.",
+   "Men dengizda suzishni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "laufen",
+  "uz": "yugurmoq",
+  "ru": "бегать",
+  "p": "laufen",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Er läuft jeden Morgen.",
+   "U har tong yuguradi."
+  ]
+ },
+ {
+  "w": "das Spiel",
+  "uz": "o'yin",
+  "ru": "игра",
+  "p": "das shpil",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Das Spiel war spannend.",
+   "O'yin qiziqarli bo'ldi."
+  ]
+ },
+ {
+  "w": "die Mannschaft",
+  "uz": "jamoa",
+  "ru": "команда",
+  "p": "di mannshaft",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Unsere Mannschaft hat gewonnen.",
+   "Jamoamiz g'alaba qozondi."
+  ]
+ },
+ {
+  "w": "der Ball",
+  "uz": "to'p",
+  "ru": "мяч",
+  "p": "der bal",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Der Hund spielt mit dem Ball.",
+   "It to'p bilan o'ynayapti."
+  ]
+ },
+ {
+  "w": "gewinnen",
+  "uz": "yutmoq",
+  "ru": "выигрывать",
+  "p": "gevinnen",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Wer hat das Spiel gewonnen?",
+   "O'yinda kim yutdi?"
+  ]
+ },
+ {
+  "w": "verlieren",
+  "uz": "yutqazmoq, yo'qotmoq",
+  "ru": "проигрывать, терять",
+  "p": "ferliren",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Wir haben leider verloren.",
+   "Afsuski, biz yutqazdik."
+  ]
+ },
+ {
+  "w": "das Hobby",
+  "uz": "sevimli mashg'ulot",
+  "ru": "хобби",
+  "p": "das hobbi",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Mein Hobby ist Lesen.",
+   "Sevimli mashg'ulotim – kitob o'qish."
+  ]
+ },
+ {
+  "w": "die Freizeit",
+  "uz": "bo'sh vaqt",
+  "ru": "свободное время",
+  "p": "di fraytsayt",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "In der Freizeit male ich.",
+   "Bo'sh vaqtimda rasm chizaman."
+  ]
+ },
+ {
+  "w": "das Tennis",
+  "uz": "tennis",
+  "ru": "теннис",
+  "p": "das tennis",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Spielst du gern Tennis?",
+   "Tennis o'ynashni yoqtirasanmi?"
+  ]
+ },
+ {
+  "w": "die Musik",
+  "uz": "musiqa",
+  "ru": "музыка",
+  "p": "di muzik",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Ich höre gern Musik.",
+   "Men musiqa tinglashni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "tanzen",
+  "uz": "raqsga tushmoq",
+  "ru": "танцевать",
+  "p": "tantsen",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Sie tanzt sehr gut.",
+   "U juda yaxshi raqs tushadi."
+  ]
+ },
+ {
+  "w": "singen",
+  "uz": "kuylamoq",
+  "ru": "петь",
+  "p": "zingen",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Wir singen zusammen ein Lied.",
+   "Biz birga qo'shiq kuylaymiz."
+  ]
+ },
+ {
+  "w": "das Lied",
+  "uz": "qo'shiq",
+  "ru": "песня",
+  "p": "das lid",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Das Lied ist sehr schön.",
+   "Qo'shiq juda chiroyli."
+  ]
+ },
+ {
+  "w": "das Training",
+  "uz": "mashg'ulot",
+  "ru": "тренировка",
+  "p": "das trening",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Das Training beginnt um sechs.",
+   "Mashg'ulot soat oltida boshlanadi."
+  ]
+ },
+ {
+  "w": "das Fitnessstudio",
+  "uz": "sport zali",
+  "ru": "фитнес-зал",
+  "p": "das fitnes-shtudio",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Ich gehe ins Fitnessstudio.",
+   "Men sport zaliga boraman."
+  ]
+ },
+ {
+  "w": "der Spaziergang",
+  "uz": "sayr",
+  "ru": "прогулка",
+  "p": "der shpatsirgang",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Wir machen einen Spaziergang.",
+   "Biz sayr qilamiz."
+  ]
+ },
+ {
+  "w": "der Computer",
+  "uz": "kompyuter",
+  "ru": "компьютер",
+  "p": "der kompyuter",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Mein Computer ist sehr alt.",
+   "Kompyuterim juda eski."
+  ]
+ },
+ {
+  "w": "das Handy",
+  "uz": "mobil telefon",
+  "ru": "мобильный телефон",
+  "p": "das hendi",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Mein Handy ist kaputt.",
+   "Telefonim buzilgan."
+  ]
+ },
+ {
+  "w": "das Internet",
+  "uz": "internet",
+  "ru": "интернет",
+  "p": "das internet",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Das Internet ist heute langsam.",
+   "Bugun internet sekin."
+  ]
+ },
+ {
+  "w": "die E-Mail",
+  "uz": "elektron xat",
+  "ru": "электронное письмо",
+  "p": "di imeyl",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Ich schreibe dir eine E-Mail.",
+   "Senga elektron xat yozaman."
+  ]
+ },
+ {
+  "w": "das Telefon",
+  "uz": "telefon",
+  "ru": "телефон",
+  "p": "das telefon",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Das Telefon klingelt.",
+   "Telefon jiringlayapti."
+  ]
+ },
+ {
+  "w": "der Bildschirm",
+  "uz": "ekran",
+  "ru": "экран",
+  "p": "der bildshirm",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Der Bildschirm ist zu klein.",
+   "Ekran juda kichik."
+  ]
+ },
+ {
+  "w": "die Tastatur",
+  "uz": "klaviatura",
+  "ru": "клавиатура",
+  "p": "di tastatur",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Die Tastatur ist neu.",
+   "Klaviatura yangi."
+  ]
+ },
+ {
+  "w": "das Passwort",
+  "uz": "parol",
+  "ru": "пароль",
+  "p": "das passvort",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Ich habe mein Passwort vergessen.",
+   "Parolimni unutib qo'ydim."
+  ]
+ },
+ {
+  "w": "die Nachricht",
+  "uz": "xabar",
+  "ru": "сообщение",
+  "p": "di naxrixt",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Ich schicke dir eine Nachricht.",
+   "Senga xabar yuboraman."
+  ]
+ },
+ {
+  "w": "das Programm",
+  "uz": "dastur",
+  "ru": "программа",
+  "p": "das programm",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Das Programm ist sehr nützlich.",
+   "Dastur juda foydali."
+  ]
+ },
+ {
+  "w": "die App",
+  "uz": "ilova",
+  "ru": "приложение",
+  "p": "di epp",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Diese App ist kostenlos.",
+   "Bu ilova bepul."
+  ]
+ },
+ {
+  "w": "die Webseite",
+  "uz": "veb-sayt",
+  "ru": "веб-сайт",
+  "p": "di vebzayte",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Ich mache eine Webseite.",
+   "Men veb-sayt yaratyapman."
+  ]
+ },
+ {
+  "w": "das Foto",
+  "uz": "surat",
+  "ru": "фото",
+  "p": "das foto",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Mach ein Foto von uns!",
+   "Bizni suratga ol!"
+  ]
+ },
+ {
+  "w": "das Video",
+  "uz": "video",
+  "ru": "видео",
+  "p": "das video",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Das Video ist sehr lustig.",
+   "Video juda kulgili."
+  ]
+ },
+ {
+  "w": "der Fernseher",
+  "uz": "televizor",
+  "ru": "телевизор",
+  "p": "der fernzeer",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Der Fernseher ist im Wohnzimmer.",
+   "Televizor zalda turibdi."
+  ]
+ },
+ {
+  "w": "die Datei",
+  "uz": "fayl",
+  "ru": "файл",
+  "p": "di datay",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Speichere bitte die Datei.",
+   "Iltimos, faylni saqla."
+  ]
+ },
+ {
+  "w": "herunterladen",
+  "uz": "yuklab olmoq",
+  "ru": "скачивать",
+  "p": "herunterladen",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Ich lade die App herunter.",
+   "Men ilovani yuklab olyapman."
+  ]
+ },
+ {
+  "w": "anrufen",
+  "uz": "qo'ng'iroq qilmoq",
+  "ru": "звонить",
+  "p": "anrufen",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Ich rufe dich morgen an.",
+   "Ertaga senga qo'ng'iroq qilaman."
+  ]
+ },
+ {
+  "w": "online",
+  "uz": "onlayn",
+  "ru": "онлайн",
+  "p": "onlayn",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Ich kaufe oft online.",
+   "Men tez-tez onlayn xarid qilaman."
+  ]
+ },
+ {
+  "w": "das Ladegerät",
+  "uz": "quvvatlagich",
+  "ru": "зарядное устройство",
+  "p": "das ladegeret",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Hast du ein Ladegerät?",
+   "Senda quvvatlagich bormi?"
+  ]
+ },
+ {
+  "w": "sein",
+  "uz": "bo'lmoq",
+  "ru": "быть",
+  "p": "zayn",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Wir sind aus Usbekistan.",
+   "Biz O'zbekistondanmiz."
+  ]
+ },
+ {
+  "w": "haben",
+  "uz": "ega bo'lmoq",
+  "ru": "иметь",
+  "p": "haben",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich habe einen Bruder.",
+   "Mening bitta akam bor."
+  ]
+ },
+ {
+  "w": "werden",
+  "uz": "bo'lmoq (aylanmoq)",
+  "ru": "становиться",
+  "p": "verden",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich will Arzt werden.",
+   "Men shifokor bo'lmoqchiman."
+  ]
+ },
+ {
+  "w": "gehen",
+  "uz": "bormoq, yurmoq",
+  "ru": "идти",
+  "p": "geen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich gehe nach Hause.",
+   "Men uyga ketyapman."
+  ]
+ },
+ {
+  "w": "kommen",
+  "uz": "kelmoq",
+  "ru": "приходить",
+  "p": "kommen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Woher kommst du?",
+   "Qayerdan kelgansan?"
+  ]
+ },
+ {
+  "w": "machen",
+  "uz": "qilmoq",
+  "ru": "делать",
+  "p": "maxen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Was machst du heute?",
+   "Bugun nima qilyapsan?"
+  ]
+ },
+ {
+  "w": "sagen",
+  "uz": "aytmoq",
+  "ru": "сказать",
+  "p": "zagen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Was hat er gesagt?",
+   "U nima dedi?"
+  ]
+ },
+ {
+  "w": "sprechen",
+  "uz": "gapirmoq",
+  "ru": "говорить",
+  "p": "shprexen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Sprechen Sie Deutsch?",
+   "Nemischa gapirasizmi?"
+  ]
+ },
+ {
+  "w": "sehen",
+  "uz": "ko'rmoq",
+  "ru": "видеть",
+  "p": "zeen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich sehe einen Vogel.",
+   "Men qushni ko'ryapman."
+  ]
+ },
+ {
+  "w": "hören",
+  "uz": "eshitmoq",
+  "ru": "слышать",
+  "p": "hyoren",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Hörst du die Musik?",
+   "Musiqani eshityapsanmi?"
+  ]
+ },
+ {
+  "w": "essen",
+  "uz": "yemoq",
+  "ru": "есть (кушать)",
+  "p": "essen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Wir essen um sieben.",
+   "Biz soat yettida ovqatlanamiz."
+  ]
+ },
+ {
+  "w": "trinken",
+  "uz": "ichmoq",
+  "ru": "пить",
+  "p": "trinken",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich trinke grünen Tee.",
+   "Men ko'k choy ichaman."
+  ]
+ },
+ {
+  "w": "schlafen",
+  "uz": "uxlamoq",
+  "ru": "спать",
+  "p": "shlafen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich schlafe acht Stunden.",
+   "Men sakkiz soat uxlayman."
+  ]
+ },
+ {
+  "w": "wohnen",
+  "uz": "yashamoq",
+  "ru": "жить",
+  "p": "vonen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich wohne in Nanjing.",
+   "Men Nankinda yashayman."
+  ]
+ },
+ {
+  "w": "kochen",
+  "uz": "ovqat pishirmoq",
+  "ru": "готовить",
+  "p": "koxen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Mein Vater kocht heute.",
+   "Bugun otam ovqat pishiradi."
+  ]
+ },
+ {
+  "w": "öffnen",
+  "uz": "ochmoq",
+  "ru": "открывать",
+  "p": "yofnen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Öffne bitte das Fenster.",
+   "Iltimos, derazani och."
+  ]
+ },
+ {
+  "w": "geben",
+  "uz": "bermoq",
+  "ru": "давать",
+  "p": "geben",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Gib mir bitte das Salz.",
+   "Iltimos, tuzni menga ber."
+  ]
+ },
+ {
+  "w": "nehmen",
+  "uz": "olmoq",
+  "ru": "брать",
+  "p": "nemen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich nehme den Bus.",
+   "Men avtobusda boraman."
+  ]
+ },
+ {
+  "w": "helfen",
+  "uz": "yordam bermoq",
+  "ru": "помогать",
+  "p": "helfen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Kannst du mir helfen?",
+   "Menga yordam bera olasanmi?"
+  ]
+ },
+ {
+  "w": "fragen",
+  "uz": "so'ramoq",
+  "ru": "спрашивать",
+  "p": "fragen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Darf ich etwas fragen?",
+   "Bir narsa so'rasam maylimi?"
+  ]
+ },
+ {
+  "w": "antworten",
+  "uz": "javob bermoq",
+  "ru": "отвечать",
+  "p": "antvorten",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Bitte antworten Sie schnell.",
+   "Iltimos, tez javob bering."
+  ]
+ },
+ {
+  "w": "verstehen",
+  "uz": "tushunmoq",
+  "ru": "понимать",
+  "p": "fershteen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich verstehe das nicht.",
+   "Men buni tushunmayapman."
+  ]
+ },
+ {
+  "w": "wissen",
+  "uz": "bilmoq",
+  "ru": "знать",
+  "p": "vissen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich weiß es nicht.",
+   "Men buni bilmayman."
+  ]
+ },
+ {
+  "w": "können",
+  "uz": "qila olmoq",
+  "ru": "мочь, уметь",
+  "p": "kyonnen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich kann gut schwimmen.",
+   "Men yaxshi suza olaman."
+  ]
+ },
+ {
+  "w": "wollen",
+  "uz": "xohlamoq",
+  "ru": "хотеть",
+  "p": "vollen",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich will nach Deutschland.",
+   "Men Germaniyaga borishni xohlayman."
+  ]
+ },
+ {
+  "w": "warten",
+  "uz": "kutmoq",
+  "ru": "ждать",
+  "p": "varten",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ich warte auf den Bus.",
+   "Men avtobusni kutyapman."
+  ]
+ },
+ {
+  "w": "gut",
+  "uz": "yaxshi",
+  "ru": "хороший",
+  "p": "gut",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das Essen hier ist gut.",
+   "Bu yerdagi ovqat yaxshi."
+  ]
+ },
+ {
+  "w": "schlecht",
+  "uz": "yomon",
+  "ru": "плохой",
+  "p": "shlext",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das Wetter ist schlecht.",
+   "Ob-havo yomon."
+  ]
+ },
+ {
+  "w": "groß",
+  "uz": "katta, baland bo'yli",
+  "ru": "большой",
+  "p": "gros",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Mein Bruder ist sehr groß.",
+   "Akamning bo'yi juda baland."
+  ]
+ },
+ {
+  "w": "klein",
+  "uz": "kichik",
+  "ru": "маленький",
+  "p": "klayn",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Die Wohnung ist klein.",
+   "Kvartira kichkina."
+  ]
+ },
+ {
+  "w": "neu",
+  "uz": "yangi",
+  "ru": "новый",
+  "p": "noy",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Ich habe ein neues Fahrrad.",
+   "Mening yangi velosipedim bor."
+  ]
+ },
+ {
+  "w": "alt",
+  "uz": "eski, keksa",
+  "ru": "старый",
+  "p": "alt",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Mein Auto ist schon alt.",
+   "Mashinam allaqachon eskirgan."
+  ]
+ },
+ {
+  "w": "jung",
+  "uz": "yosh",
+  "ru": "молодой",
+  "p": "yung",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Meine Mutter ist noch jung.",
+   "Onam hali yosh."
+  ]
+ },
+ {
+  "w": "schön",
+  "uz": "chiroyli",
+  "ru": "красивый",
+  "p": "shyon",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Buchara ist eine schöne Stadt.",
+   "Buxoro chiroyli shahar."
+  ]
+ },
+ {
+  "w": "lang",
+  "uz": "uzun",
+  "ru": "длинный",
+  "p": "lang",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Der Weg ist sehr lang.",
+   "Yo'l juda uzun."
+  ]
+ },
+ {
+  "w": "kurz",
+  "uz": "qisqa, kalta",
+  "ru": "короткий",
+  "p": "kurts",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Der Film ist kurz.",
+   "Film qisqa."
+  ]
+ },
+ {
+  "w": "schnell",
+  "uz": "tez",
+  "ru": "быстрый",
+  "p": "shnell",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das Auto fährt schnell.",
+   "Mashina tez yuradi."
+  ]
+ },
+ {
+  "w": "langsam",
+  "uz": "sekin",
+  "ru": "медленный",
+  "p": "langzam",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Sprich bitte langsam.",
+   "Iltimos, sekin gapir."
+  ]
+ },
+ {
+  "w": "leicht",
+  "uz": "oson, yengil",
+  "ru": "лёгкий",
+  "p": "layxt",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Die Aufgabe ist leicht.",
+   "Topshiriq oson."
+  ]
+ },
+ {
+  "w": "schwer",
+  "uz": "qiyin, og'ir",
+  "ru": "тяжёлый, трудный",
+  "p": "shver",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Deutsch ist nicht so schwer.",
+   "Nemis tili unchalik qiyin emas."
+  ]
+ },
+ {
+  "w": "richtig",
+  "uz": "to'g'ri",
+  "ru": "правильный",
+  "p": "rixtix",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Deine Antwort ist richtig.",
+   "Javobing to'g'ri."
+  ]
+ },
+ {
+  "w": "falsch",
+  "uz": "noto'g'ri",
+  "ru": "неправильный",
+  "p": "falsh",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Die Nummer ist falsch.",
+   "Raqam noto'g'ri."
+  ]
+ },
+ {
+  "w": "wichtig",
+  "uz": "muhim",
+  "ru": "важный",
+  "p": "vixtix",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das ist sehr wichtig.",
+   "Bu juda muhim."
+  ]
+ },
+ {
+  "w": "interessant",
+  "uz": "qiziqarli",
+  "ru": "интересный",
+  "p": "interessant",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das Buch ist sehr interessant.",
+   "Kitob juda qiziqarli."
+  ]
+ },
+ {
+  "w": "voll",
+  "uz": "to'la",
+  "ru": "полный",
+  "p": "fol",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Der Bus ist heute voll.",
+   "Bugun avtobus to'la."
+  ]
+ },
+ {
+  "w": "leer",
+  "uz": "bo'sh",
+  "ru": "пустой",
+  "p": "ler",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Die Flasche ist leer.",
+   "Shisha bo'sh."
+  ]
+ },
+ {
+  "w": "offen",
+  "uz": "ochiq",
+  "ru": "открытый",
+  "p": "offen",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Die Tür ist offen.",
+   "Eshik ochiq."
+  ]
+ },
+ {
+  "w": "geschlossen",
+  "uz": "yopiq",
+  "ru": "закрытый",
+  "p": "geshlossen",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Der Laden ist sonntags geschlossen.",
+   "Do'kon yakshanba kunlari yopiq."
+  ]
+ },
+ {
+  "w": "sauber",
+  "uz": "toza",
+  "ru": "чистый",
+  "p": "zauber",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das Zimmer ist sauber.",
+   "Xona toza."
+  ]
+ },
+ {
+  "w": "schmutzig",
+  "uz": "iflos",
+  "ru": "грязный",
+  "p": "shmutsix",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Meine Schuhe sind schmutzig.",
+   "Tuflilarim iflos."
+  ]
+ },
+ {
+  "w": "einfach",
+  "uz": "oddiy, oson",
+  "ru": "простой",
+  "p": "aynfax",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Das ist ganz einfach.",
+   "Bu juda oddiy."
+  ]
+ },
+ {
+  "w": "möglich",
+  "uz": "mumkin",
+  "ru": "возможный",
+  "p": "myoglix",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Ist das möglich?",
+   "Bu mumkinmi?"
+  ]
+ },
+ {
+  "w": "ich",
+  "uz": "men",
+  "ru": "я",
+  "p": "ix",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich bin aus Usbekistan.",
+   "Men O'zbekistondanman."
+  ]
+ },
+ {
+  "w": "du",
+  "uz": "sen",
+  "ru": "ты",
+  "p": "du",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Du bist mein Freund.",
+   "Sen mening do'stimsan."
+  ]
+ },
+ {
+  "w": "er",
+  "uz": "u (erkak)",
+  "ru": "он",
+  "p": "er",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Er wohnt in Berlin.",
+   "U Berlinda yashaydi."
+  ]
+ },
+ {
+  "w": "sie",
+  "uz": "u (ayol); ular",
+  "ru": "она; они",
+  "p": "zi",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Sie ist meine Schwester.",
+   "U mening opam."
+  ]
+ },
+ {
+  "w": "wir",
+  "uz": "biz",
+  "ru": "мы",
+  "p": "vir",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Wir lernen zusammen Deutsch.",
+   "Biz birga nemis tilini o'rganamiz."
+  ]
+ },
+ {
+  "w": "Sie",
+  "uz": "Siz (hurmat)",
+  "ru": "Вы",
+  "p": "zi",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Wie heißen Sie?",
+   "Ismingiz nima?"
+  ]
+ },
+ {
+  "w": "und",
+  "uz": "va",
+  "ru": "и",
+  "p": "und",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich trinke Tee und Kaffee.",
+   "Men choy va qahva ichaman."
+  ]
+ },
+ {
+  "w": "oder",
+  "uz": "yoki",
+  "ru": "или",
+  "p": "oder",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Möchtest du Tee oder Kaffee?",
+   "Choy ichasanmi yoki qahva?"
+  ]
+ },
+ {
+  "w": "aber",
+  "uz": "lekin",
+  "ru": "но",
+  "p": "aber",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich bin müde, aber glücklich.",
+   "Men charchaganman, lekin baxtliman."
+  ]
+ },
+ {
+  "w": "weil",
+  "uz": "chunki",
+  "ru": "потому что",
+  "p": "vayl",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "Ich bleibe zu Hause, weil ich krank bin.",
+   "Uyda qolaman, chunki kasalman."
+  ]
+ },
+ {
+  "w": "wenn",
+  "uz": "agar, qachonki",
+  "ru": "если, когда",
+  "p": "ven",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "Wenn es regnet, bleibe ich hier.",
+   "Agar yomg'ir yog'sa, shu yerda qolaman."
+  ]
+ },
+ {
+  "w": "hier",
+  "uz": "bu yerda",
+  "ru": "здесь",
+  "p": "hir",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich wohne hier.",
+   "Men shu yerda yashayman."
+  ]
+ },
+ {
+  "w": "dort",
+  "uz": "u yerda",
+  "ru": "там",
+  "p": "dort",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Dort ist mein Haus.",
+   "Ana u yerda mening uyim."
+  ]
+ },
+ {
+  "w": "immer",
+  "uz": "doim",
+  "ru": "всегда",
+  "p": "immer",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Er kommt immer zu spät.",
+   "U doim kechikib keladi."
+  ]
+ },
+ {
+  "w": "nie",
+  "uz": "hech qachon",
+  "ru": "никогда",
+  "p": "ni",
+  "t": "soz",
+  "lv": 2,
+  "e": [
+   "Ich rauche nie.",
+   "Men hech qachon chekmayman."
+  ]
+ },
+ {
+  "w": "oft",
+  "uz": "tez-tez",
+  "ru": "часто",
+  "p": "oft",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich gehe oft ins Kino.",
+   "Men tez-tez kinoga boraman."
+  ]
+ },
+ {
+  "w": "sehr",
+  "uz": "juda",
+  "ru": "очень",
+  "p": "zer",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Danke, das ist sehr nett.",
+   "Rahmat, bu juda yoqimli."
+  ]
+ },
+ {
+  "w": "auch",
+  "uz": "ham",
+  "ru": "тоже",
+  "p": "aux",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich komme auch mit.",
+   "Men ham birga boraman."
+  ]
+ },
+ {
+  "w": "nicht",
+  "uz": "emas, -ma",
+  "ru": "не",
+  "p": "nixt",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich spreche nicht gut Deutsch.",
+   "Men nemischa yaxshi gapirmayman."
+  ]
+ },
+ {
+  "w": "jetzt",
+  "uz": "hozir",
+  "ru": "сейчас",
+  "p": "yetst",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ich habe jetzt keine Zeit.",
+   "Hozir vaqtim yo'q."
+  ]
+ },
+ {
+  "w": "wo",
+  "uz": "qayerda",
+  "ru": "где",
+  "p": "vo",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Wo wohnst du?",
+   "Qayerda yashaysan?"
+  ]
+ },
+ {
+  "w": "was",
+  "uz": "nima",
+  "ru": "что",
+  "p": "vas",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Was ist das?",
+   "Bu nima?"
+  ]
+ }
+]

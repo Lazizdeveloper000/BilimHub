@@ -1,0 +1,6002 @@
+[
+ {
+  "w": "merhaba",
+  "uz": "salom",
+  "ru": "привет",
+  "p": "merhaba",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Merhaba, nasılsın?",
+   "Salom, qalaysan?"
+  ]
+ },
+ {
+  "w": "günaydın",
+  "uz": "xayrli tong",
+  "ru": "доброе утро",
+  "p": "gunaydin",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Günaydın, anne!",
+   "Xayrli tong, oyi!"
+  ]
+ },
+ {
+  "w": "iyi akşamlar",
+  "uz": "xayrli kech",
+  "ru": "добрый вечер",
+  "p": "iyi akshamlar",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "İyi akşamlar, efendim.",
+   "Xayrli kech, janob."
+  ]
+ },
+ {
+  "w": "iyi geceler",
+  "uz": "xayrli tun",
+  "ru": "спокойной ночи",
+  "p": "iyi gejeler",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "İyi geceler, çocuklar.",
+   "Xayrli tun, bolalar."
+  ]
+ },
+ {
+  "w": "hoşça kal",
+  "uz": "xayr",
+  "ru": "до свидания",
+  "p": "hoshcha kal",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Hoşça kal, yarın görüşürüz.",
+   "Xayr, ertaga ko'rishamiz."
+  ]
+ },
+ {
+  "w": "güle güle",
+  "uz": "yaxshi boring",
+  "ru": "счастливо, до свидания",
+  "p": "gule gule",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Güle güle, iyi yolculuklar!",
+   "Yaxshi boring, oq yo'l!"
+  ]
+ },
+ {
+  "w": "görüşürüz",
+  "uz": "ko'rishguncha",
+  "ru": "увидимся",
+  "p": "go'rushuruz",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Akşam görüşürüz.",
+   "Kechqurun ko'rishamiz."
+  ]
+ },
+ {
+  "w": "teşekkür ederim",
+  "uz": "rahmat",
+  "ru": "спасибо",
+  "p": "teshekkur ederim",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Yardımın için teşekkür ederim.",
+   "Yordaming uchun rahmat."
+  ]
+ },
+ {
+  "w": "sağ ol",
+  "uz": "rahmat, sog' bo'l",
+  "ru": "спасибо",
+  "p": "saa ol",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Sağ ol, arkadaşım.",
+   "Rahmat, do'stim."
+  ]
+ },
+ {
+  "w": "lütfen",
+  "uz": "iltimos",
+  "ru": "пожалуйста",
+  "p": "lutfen",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Bir çay, lütfen.",
+   "Bitta choy, iltimos."
+  ]
+ },
+ {
+  "w": "rica ederim",
+  "uz": "arzimaydi",
+  "ru": "не за что",
+  "p": "rija ederim",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Rica ederim, ne demek.",
+   "Arzimaydi, hech gap emas."
+  ]
+ },
+ {
+  "w": "özür dilerim",
+  "uz": "kechirasiz, uzr",
+  "ru": "извините",
+  "p": "o'zur dilerim",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Geç kaldım, özür dilerim.",
+   "Kechikdim, kechirasiz."
+  ]
+ },
+ {
+  "w": "affedersiniz",
+  "uz": "kechirasiz (murojaat)",
+  "ru": "простите",
+  "p": "affedersiniz",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Affedersiniz, saat kaç?",
+   "Kechirasiz, soat necha?"
+  ]
+ },
+ {
+  "w": "evet",
+  "uz": "ha",
+  "ru": "да",
+  "p": "evet",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Evet, ben öğrenciyim.",
+   "Ha, men talabaman."
+  ]
+ },
+ {
+  "w": "hayır",
+  "uz": "yo'q",
+  "ru": "нет",
+  "p": "hayir",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Hayır, aç değilim.",
+   "Yo'q, men och emasman."
+  ]
+ },
+ {
+  "w": "tamam",
+  "uz": "xo'p, mayli",
+  "ru": "хорошо, ладно",
+  "p": "tamam",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Tamam, yarın gelirim.",
+   "Xo'p, ertaga kelaman."
+  ]
+ },
+ {
+  "w": "nasılsın",
+  "uz": "qalaysan",
+  "ru": "как дела",
+  "p": "nasilsin",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Merhaba Ali, nasılsın?",
+   "Salom Ali, qalaysan?"
+  ]
+ },
+ {
+  "w": "iyiyim",
+  "uz": "yaxshiman",
+  "ru": "я в порядке",
+  "p": "iyiyim",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Teşekkürler, ben iyiyim.",
+   "Rahmat, men yaxshiman."
+  ]
+ },
+ {
+  "w": "hoş geldiniz",
+  "uz": "xush kelibsiz",
+  "ru": "добро пожаловать",
+  "p": "hosh geldiniz",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Evimize hoş geldiniz!",
+   "Uyimizga xush kelibsiz!"
+  ]
+ },
+ {
+  "w": "memnun oldum",
+  "uz": "tanishganimdan xursandman",
+  "ru": "приятно познакомиться",
+  "p": "memnun oldum",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Tanıştığımıza memnun oldum.",
+   "Tanishganimizdan xursandman."
+  ]
+ },
+ {
+  "w": "adım",
+  "uz": "mening ismim",
+  "ru": "меня зовут",
+  "p": "adim",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Benim adım Aziz.",
+   "Mening ismim Aziz."
+  ]
+ },
+ {
+  "w": "tebrikler",
+  "uz": "tabriklayman",
+  "ru": "поздравляю",
+  "p": "tebrikler",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "Tebrikler, sınavı geçtin!",
+   "Tabriklayman, imtihondan o'tding!"
+  ]
+ },
+ {
+  "w": "kolay gelsin",
+  "uz": "ishingizga omad",
+  "ru": "бог в помощь",
+  "p": "kolay gelsin",
+  "t": "salom",
+  "lv": 2,
+  "e": [
+   "Kolay gelsin, usta!",
+   "Ishingizga omad, usta!"
+  ]
+ },
+ {
+  "w": "afiyet olsun",
+  "uz": "yoqimli ishtaha",
+  "ru": "приятного аппетита",
+  "p": "afiyet olsun",
+  "t": "salom",
+  "lv": 1,
+  "e": [
+   "Yemek hazır, afiyet olsun!",
+   "Ovqat tayyor, yoqimli ishtaha!"
+  ]
+ },
+ {
+  "w": "aile",
+  "uz": "oila",
+  "ru": "семья",
+  "p": "aile",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Benim ailem büyük.",
+   "Mening oilam katta."
+  ]
+ },
+ {
+  "w": "anne",
+  "uz": "ona",
+  "ru": "мама",
+  "p": "anne",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Annem öğretmen.",
+   "Onam o'qituvchi."
+  ]
+ },
+ {
+  "w": "baba",
+  "uz": "ota",
+  "ru": "папа",
+  "p": "baba",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Babam evde.",
+   "Otam uyda."
+  ]
+ },
+ {
+  "w": "kardeş",
+  "uz": "aka-uka, opa-singil",
+  "ru": "брат, сестра",
+  "p": "kardesh",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Kardeşim okula gidiyor.",
+   "Ukam maktabga ketyapti."
+  ]
+ },
+ {
+  "w": "ağabey",
+  "uz": "aka",
+  "ru": "старший брат",
+  "p": "aabey",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Ağabeyim doktor.",
+   "Akam shifokor."
+  ]
+ },
+ {
+  "w": "abla",
+  "uz": "opa",
+  "ru": "старшая сестра",
+  "p": "abla",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Ablam İstanbul'da yaşıyor.",
+   "Opam Istanbulda yashaydi."
+  ]
+ },
+ {
+  "w": "oğul",
+  "uz": "o'g'il",
+  "ru": "сын",
+  "p": "oul",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Onların bir oğlu var.",
+   "Ularning bitta o'g'li bor."
+  ]
+ },
+ {
+  "w": "kız",
+  "uz": "qiz",
+  "ru": "девочка, дочь",
+  "p": "kiz",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Kızım beş yaşında.",
+   "Qizim besh yoshda."
+  ]
+ },
+ {
+  "w": "çocuk",
+  "uz": "bola",
+  "ru": "ребёнок",
+  "p": "chojuk",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Çocuk parkta oynuyor.",
+   "Bola parkda o'ynayapti."
+  ]
+ },
+ {
+  "w": "dede",
+  "uz": "bobo",
+  "ru": "дедушка",
+  "p": "dede",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Dedem köyde yaşıyor.",
+   "Bobom qishloqda yashaydi."
+  ]
+ },
+ {
+  "w": "nine",
+  "uz": "buvi",
+  "ru": "бабушка",
+  "p": "nine",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Ninem çok güzel yemek yapar.",
+   "Buvim juda mazali ovqat pishiradi."
+  ]
+ },
+ {
+  "w": "amca",
+  "uz": "amaki",
+  "ru": "дядя (по отцу)",
+  "p": "amja",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Amcam bize geldi.",
+   "Amakim bizga keldi."
+  ]
+ },
+ {
+  "w": "teyze",
+  "uz": "xola",
+  "ru": "тётя (по матери)",
+  "p": "teyze",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Teyzem Ankara'da oturuyor.",
+   "Xolam Anqarada yashaydi."
+  ]
+ },
+ {
+  "w": "koca",
+  "uz": "er (turmush o'rtoq)",
+  "ru": "муж",
+  "p": "koja",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Kocası mühendis.",
+   "Uning eri muhandis."
+  ]
+ },
+ {
+  "w": "eş",
+  "uz": "turmush o'rtoq",
+  "ru": "супруг, супруга",
+  "p": "esh",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Eşim çok çalışkan.",
+   "Turmush o'rtog'im juda mehnatkash."
+  ]
+ },
+ {
+  "w": "torun",
+  "uz": "nevara",
+  "ru": "внук, внучка",
+  "p": "torun",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Dedemin üç torunu var.",
+   "Bobomning uchta nevarasi bor."
+  ]
+ },
+ {
+  "w": "bebek",
+  "uz": "chaqaloq",
+  "ru": "младенец",
+  "p": "bebek",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Bebek uyuyor.",
+   "Chaqaloq uxlayapti."
+  ]
+ },
+ {
+  "w": "adam",
+  "uz": "erkak, odam",
+  "ru": "мужчина, человек",
+  "p": "adam",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "O adam kim?",
+   "U erkak kim?"
+  ]
+ },
+ {
+  "w": "kadın",
+  "uz": "ayol",
+  "ru": "женщина",
+  "p": "kadin",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Kadın kitap okuyor.",
+   "Ayol kitob o'qiyapti."
+  ]
+ },
+ {
+  "w": "insan",
+  "uz": "inson, odam",
+  "ru": "человек",
+  "p": "insan",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Her insan farklıdır.",
+   "Har bir inson boshqacha."
+  ]
+ },
+ {
+  "w": "arkadaş",
+  "uz": "do'st, o'rtoq",
+  "ru": "друг",
+  "p": "arkadash",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "O benim en iyi arkadaşım.",
+   "U mening eng yaxshi do'stim."
+  ]
+ },
+ {
+  "w": "komşu",
+  "uz": "qo'shni",
+  "ru": "сосед",
+  "p": "komshu",
+  "t": "oila",
+  "lv": 2,
+  "e": [
+   "Komşumuz çok kibar.",
+   "Qo'shnimiz juda xushmuomala."
+  ]
+ },
+ {
+  "w": "yaş",
+  "uz": "yosh (umr)",
+  "ru": "возраст",
+  "p": "yash",
+  "t": "oila",
+  "lv": 1,
+  "e": [
+   "Kaç yaşındasın?",
+   "Necha yoshdasan?"
+  ]
+ },
+ {
+  "w": "sıfır",
+  "uz": "nol",
+  "ru": "ноль",
+  "p": "sifir",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Sıfırdan başlıyoruz.",
+   "Noldan boshlaymiz."
+  ]
+ },
+ {
+  "w": "bir",
+  "uz": "bir",
+  "ru": "один",
+  "p": "bir",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Bir elma istiyorum.",
+   "Bitta olma istayman."
+  ]
+ },
+ {
+  "w": "iki",
+  "uz": "ikki",
+  "ru": "два",
+  "p": "iki",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "İki kardeşim var.",
+   "Ikkita ukam bor."
+  ]
+ },
+ {
+  "w": "üç",
+  "uz": "uch",
+  "ru": "три",
+  "p": "uch",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Üç kitap aldım.",
+   "Uchta kitob oldim."
+  ]
+ },
+ {
+  "w": "dört",
+  "uz": "to'rt",
+  "ru": "четыре",
+  "p": "do'rt",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Odada dört sandalye var.",
+   "Xonada to'rtta stul bor."
+  ]
+ },
+ {
+  "w": "beş",
+  "uz": "besh",
+  "ru": "пять",
+  "p": "besh",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Beş dakika bekle.",
+   "Besh daqiqa kut."
+  ]
+ },
+ {
+  "w": "altı",
+  "uz": "olti",
+  "ru": "шесть",
+  "p": "alti",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Saat altıda kalkarım.",
+   "Soat oltida turaman."
+  ]
+ },
+ {
+  "w": "yedi",
+  "uz": "yetti",
+  "ru": "семь",
+  "p": "yedi",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Haftada yedi gün var.",
+   "Haftada yetti kun bor."
+  ]
+ },
+ {
+  "w": "sekiz",
+  "uz": "sakkiz",
+  "ru": "восемь",
+  "p": "sekiz",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Sekiz saat uyudum.",
+   "Sakkiz soat uxladim."
+  ]
+ },
+ {
+  "w": "dokuz",
+  "uz": "to'qqiz",
+  "ru": "девять",
+  "p": "dokuz",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Kardeşim dokuz yaşında.",
+   "Ukam to'qqiz yoshda."
+  ]
+ },
+ {
+  "w": "on",
+  "uz": "o'n",
+  "ru": "десять",
+  "p": "on",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "On lira, lütfen.",
+   "O'n lira, iltimos."
+  ]
+ },
+ {
+  "w": "yirmi",
+  "uz": "yigirma",
+  "ru": "двадцать",
+  "p": "yirmi",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Yirmi yaşındayım.",
+   "Yigirma yoshdaman."
+  ]
+ },
+ {
+  "w": "otuz",
+  "uz": "o'ttiz",
+  "ru": "тридцать",
+  "p": "otuz",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Babam otuz beş yaşında.",
+   "Otam o'ttiz besh yoshda."
+  ]
+ },
+ {
+  "w": "elli",
+  "uz": "ellik",
+  "ru": "пятьдесят",
+  "p": "elli",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Bu kitap elli lira.",
+   "Bu kitob ellik lira."
+  ]
+ },
+ {
+  "w": "yüz",
+  "uz": "yuz",
+  "ru": "сто",
+  "p": "yuz",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Yüz metre koştum.",
+   "Yuz metr yugurdim."
+  ]
+ },
+ {
+  "w": "bin",
+  "uz": "ming",
+  "ru": "тысяча",
+  "p": "bin",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Bin kişi geldi.",
+   "Ming kishi keldi."
+  ]
+ },
+ {
+  "w": "saat",
+  "uz": "soat",
+  "ru": "час, часы",
+  "p": "saat",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Saat kaç?",
+   "Soat necha?"
+  ]
+ },
+ {
+  "w": "dakika",
+  "uz": "daqiqa",
+  "ru": "минута",
+  "p": "dakika",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "On dakika sonra gelirim.",
+   "O'n daqiqadan keyin kelaman."
+  ]
+ },
+ {
+  "w": "yarım",
+  "uz": "yarim",
+  "ru": "половина",
+  "p": "yarim",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Yarım ekmek aldım.",
+   "Yarimta non oldim."
+  ]
+ },
+ {
+  "w": "buçuk",
+  "uz": "yarim (vaqtda)",
+  "ru": "с половиной",
+  "p": "buchuk",
+  "t": "raqam",
+  "lv": 2,
+  "e": [
+   "Saat üç buçuk.",
+   "Soat uch yarim."
+  ]
+ },
+ {
+  "w": "zaman",
+  "uz": "vaqt",
+  "ru": "время",
+  "p": "zaman",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Zamanım yok.",
+   "Vaqtim yo'q."
+  ]
+ },
+ {
+  "w": "bugün",
+  "uz": "bugun",
+  "ru": "сегодня",
+  "p": "bugun",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Bugün hava güzel.",
+   "Bugun havo yaxshi."
+  ]
+ },
+ {
+  "w": "yarın",
+  "uz": "ertaga",
+  "ru": "завтра",
+  "p": "yarin",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Yarın okula gideceğim.",
+   "Ertaga maktabga boraman."
+  ]
+ },
+ {
+  "w": "dün",
+  "uz": "kecha",
+  "ru": "вчера",
+  "p": "dun",
+  "t": "raqam",
+  "lv": 1,
+  "e": [
+   "Dün sinemaya gittik.",
+   "Kecha kinoga bordik."
+  ]
+ },
+ {
+  "w": "gün",
+  "uz": "kun",
+  "ru": "день",
+  "p": "gun",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Bugün güzel bir gün.",
+   "Bugun ajoyib kun."
+  ]
+ },
+ {
+  "w": "hafta",
+  "uz": "hafta",
+  "ru": "неделя",
+  "p": "hafta",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Bir hafta tatildeyim.",
+   "Bir hafta ta'tildaman."
+  ]
+ },
+ {
+  "w": "ay",
+  "uz": "oy",
+  "ru": "месяц",
+  "p": "ay",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Gelecek ay İstanbul'a gidiyorum.",
+   "Kelasi oy Istanbulga boraman."
+  ]
+ },
+ {
+  "w": "yıl",
+  "uz": "yil",
+  "ru": "год",
+  "p": "yil",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Bu yıl üniversiteye başladım.",
+   "Bu yil universitetga kirdim."
+  ]
+ },
+ {
+  "w": "pazartesi",
+  "uz": "dushanba",
+  "ru": "понедельник",
+  "p": "pazartesi",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Pazartesi işe giderim.",
+   "Dushanba kuni ishga boraman."
+  ]
+ },
+ {
+  "w": "salı",
+  "uz": "seshanba",
+  "ru": "вторник",
+  "p": "sali",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Salı günü dersim var.",
+   "Seshanba kuni darsim bor."
+  ]
+ },
+ {
+  "w": "çarşamba",
+  "uz": "chorshanba",
+  "ru": "среда",
+  "p": "charshamba",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Çarşamba pazara gideriz.",
+   "Chorshanba kuni bozorga boramiz."
+  ]
+ },
+ {
+  "w": "perşembe",
+  "uz": "payshanba",
+  "ru": "четверг",
+  "p": "pershembe",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Perşembe akşamı boşum.",
+   "Payshanba kechqurun bo'shman."
+  ]
+ },
+ {
+  "w": "cuma",
+  "uz": "juma",
+  "ru": "пятница",
+  "p": "juma",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Cuma günü camiye gideriz.",
+   "Juma kuni masjidga boramiz."
+  ]
+ },
+ {
+  "w": "cumartesi",
+  "uz": "shanba",
+  "ru": "суббота",
+  "p": "jumartesi",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Cumartesi futbol oynarız.",
+   "Shanba kuni futbol o'ynaymiz."
+  ]
+ },
+ {
+  "w": "pazar",
+  "uz": "yakshanba",
+  "ru": "воскресенье",
+  "p": "pazar",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Pazar günü dinleniyorum.",
+   "Yakshanba kuni dam olaman."
+  ]
+ },
+ {
+  "w": "ocak",
+  "uz": "yanvar",
+  "ru": "январь",
+  "p": "ojak",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Ocak çok soğuk geçti.",
+   "Yanvar juda sovuq o'tdi."
+  ]
+ },
+ {
+  "w": "şubat",
+  "uz": "fevral",
+  "ru": "февраль",
+  "p": "shubat",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Doğum günüm şubatta.",
+   "Tug'ilgan kunim fevralda."
+  ]
+ },
+ {
+  "w": "mart",
+  "uz": "mart",
+  "ru": "март",
+  "p": "mart",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Martta bahar başlar.",
+   "Martda bahor boshlanadi."
+  ]
+ },
+ {
+  "w": "nisan",
+  "uz": "aprel",
+  "ru": "апрель",
+  "p": "nisan",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Nisanda çok yağmur yağar.",
+   "Aprelda ko'p yomg'ir yog'adi."
+  ]
+ },
+ {
+  "w": "mayıs",
+  "uz": "may",
+  "ru": "май",
+  "p": "mayis",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Mayıs ayı çok güzel.",
+   "May oyi juda chiroyli."
+  ]
+ },
+ {
+  "w": "haziran",
+  "uz": "iyun",
+  "ru": "июнь",
+  "p": "haziran",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Okul haziranda bitiyor.",
+   "Maktab iyunda tugaydi."
+  ]
+ },
+ {
+  "w": "temmuz",
+  "uz": "iyul",
+  "ru": "июль",
+  "p": "temmuz",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Temmuzda deniz sıcak.",
+   "Iyulda dengiz iliq."
+  ]
+ },
+ {
+  "w": "ağustos",
+  "uz": "avgust",
+  "ru": "август",
+  "p": "austos",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Ağustosta tatile gidiyoruz.",
+   "Avgustda ta'tilga ketamiz."
+  ]
+ },
+ {
+  "w": "eylül",
+  "uz": "sentabr",
+  "ru": "сентябрь",
+  "p": "eylul",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Okullar eylülde açılır.",
+   "Maktablar sentabrda ochiladi."
+  ]
+ },
+ {
+  "w": "ekim",
+  "uz": "oktabr",
+  "ru": "октябрь",
+  "p": "ekim",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Ekimde hava serinler.",
+   "Oktabrda havo salqinlashadi."
+  ]
+ },
+ {
+  "w": "kasım",
+  "uz": "noyabr",
+  "ru": "ноябрь",
+  "p": "kasim",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Kasım ayında doğdum.",
+   "Noyabr oyida tug'ilganman."
+  ]
+ },
+ {
+  "w": "aralık",
+  "uz": "dekabr",
+  "ru": "декабрь",
+  "p": "aralik",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Aralıkta kar yağar.",
+   "Dekabrda qor yog'adi."
+  ]
+ },
+ {
+  "w": "ilkbahar",
+  "uz": "bahor",
+  "ru": "весна",
+  "p": "ilkbahar",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "İlkbaharda çiçekler açar.",
+   "Bahorda gullar ochiladi."
+  ]
+ },
+ {
+  "w": "yaz",
+  "uz": "yoz",
+  "ru": "лето",
+  "p": "yaz",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Yazın denize gideriz.",
+   "Yozda dengizga boramiz."
+  ]
+ },
+ {
+  "w": "sonbahar",
+  "uz": "kuz",
+  "ru": "осень",
+  "p": "sonbahar",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Sonbaharda yapraklar düşer.",
+   "Kuzda barglar to'kiladi."
+  ]
+ },
+ {
+  "w": "kış",
+  "uz": "qish",
+  "ru": "зима",
+  "p": "kish",
+  "t": "kun",
+  "lv": 1,
+  "e": [
+   "Kışın çok kar yağar.",
+   "Qishda ko'p qor yog'adi."
+  ]
+ },
+ {
+  "w": "kırmızı",
+  "uz": "qizil",
+  "ru": "красный",
+  "p": "kirmizi",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Kırmızı elmalar çok tatlı.",
+   "Qizil olmalar juda shirin."
+  ]
+ },
+ {
+  "w": "mavi",
+  "uz": "ko'k, havorang",
+  "ru": "синий, голубой",
+  "p": "mavi",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Gökyüzü mavi.",
+   "Osmon ko'k."
+  ]
+ },
+ {
+  "w": "yeşil",
+  "uz": "yashil",
+  "ru": "зелёный",
+  "p": "yeshil",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Ağaçlar yeşil.",
+   "Daraxtlar yashil."
+  ]
+ },
+ {
+  "w": "sarı",
+  "uz": "sariq",
+  "ru": "жёлтый",
+  "p": "sari",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Muz sarıdır.",
+   "Banan sariq bo'ladi."
+  ]
+ },
+ {
+  "w": "siyah",
+  "uz": "qora",
+  "ru": "чёрный",
+  "p": "siyah",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Siyah bir kedim var.",
+   "Qora mushugim bor."
+  ]
+ },
+ {
+  "w": "beyaz",
+  "uz": "oq",
+  "ru": "белый",
+  "p": "beyaz",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Kar beyazdır.",
+   "Qor oq bo'ladi."
+  ]
+ },
+ {
+  "w": "turuncu",
+  "uz": "to'q sariq",
+  "ru": "оранжевый",
+  "p": "turunju",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Portakal turuncu renkte.",
+   "Apelsin to'q sariq rangda."
+  ]
+ },
+ {
+  "w": "mor",
+  "uz": "binafsha",
+  "ru": "фиолетовый",
+  "p": "mor",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Mor çiçekleri severim.",
+   "Binafsha gullarni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "pembe",
+  "uz": "pushti",
+  "ru": "розовый",
+  "p": "pembe",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Kız pembe bir elbise giydi.",
+   "Qiz pushti ko'ylak kiydi."
+  ]
+ },
+ {
+  "w": "kahverengi",
+  "uz": "jigarrang",
+  "ru": "коричневый",
+  "p": "kahverengi",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Köpeğin gözleri kahverengi.",
+   "Itning ko'zlari jigarrang."
+  ]
+ },
+ {
+  "w": "gri",
+  "uz": "kulrang",
+  "ru": "серый",
+  "p": "gri",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "Bugün gökyüzü gri.",
+   "Bugun osmon kulrang."
+  ]
+ },
+ {
+  "w": "lacivert",
+  "uz": "to'q ko'k",
+  "ru": "тёмно-синий",
+  "p": "lajivert",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Lacivert bir takım elbise aldı.",
+   "U to'q ko'k kostyum oldi."
+  ]
+ },
+ {
+  "w": "renk",
+  "uz": "rang",
+  "ru": "цвет",
+  "p": "renk",
+  "t": "rang",
+  "lv": 1,
+  "e": [
+   "En sevdiğin renk ne?",
+   "Eng yoqtirgan ranging qaysi?"
+  ]
+ },
+ {
+  "w": "koyu",
+  "uz": "to'q (rang)",
+  "ru": "тёмный",
+  "p": "koyu",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Koyu mavi bir ceket aldım.",
+   "To'q ko'k kurtka oldim."
+  ]
+ },
+ {
+  "w": "daire",
+  "uz": "doira",
+  "ru": "круг",
+  "p": "daire",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Kağıda bir daire çiz.",
+   "Qog'ozga doira chiz."
+  ]
+ },
+ {
+  "w": "kare",
+  "uz": "kvadrat",
+  "ru": "квадрат",
+  "p": "kare",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Masa kare şeklinde.",
+   "Stol kvadrat shaklida."
+  ]
+ },
+ {
+  "w": "üçgen",
+  "uz": "uchburchak",
+  "ru": "треугольник",
+  "p": "uchgen",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Üçgenin üç kenarı var.",
+   "Uchburchakning uchta tomoni bor."
+  ]
+ },
+ {
+  "w": "dikdörtgen",
+  "uz": "to'g'ri to'rtburchak",
+  "ru": "прямоугольник",
+  "p": "dikdo'rtgen",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Kapı dikdörtgen şeklinde.",
+   "Eshik to'rtburchak shaklida."
+  ]
+ },
+ {
+  "w": "şekil",
+  "uz": "shakl",
+  "ru": "форма, фигура",
+  "p": "shekil",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Bu şekil ne?",
+   "Bu qanday shakl?"
+  ]
+ },
+ {
+  "w": "yuvarlak",
+  "uz": "dumaloq",
+  "ru": "круглый",
+  "p": "yuvarlak",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Yuvarlak bir masa aldık.",
+   "Dumaloq stol oldik."
+  ]
+ },
+ {
+  "w": "çizgi",
+  "uz": "chiziq",
+  "ru": "линия",
+  "p": "chizgi",
+  "t": "rang",
+  "lv": 2,
+  "e": [
+   "Düz bir çizgi çiz.",
+   "To'g'ri chiziq chiz."
+  ]
+ },
+ {
+  "w": "vücut",
+  "uz": "tana",
+  "ru": "тело",
+  "p": "vujut",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Spor vücut için iyidir.",
+   "Sport tana uchun foydali."
+  ]
+ },
+ {
+  "w": "baş",
+  "uz": "bosh",
+  "ru": "голова",
+  "p": "bash",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Başım ağrıyor.",
+   "Boshim og'riyapti."
+  ]
+ },
+ {
+  "w": "saç",
+  "uz": "soch",
+  "ru": "волосы",
+  "p": "sach",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Onun saçı uzun.",
+   "Uning sochi uzun."
+  ]
+ },
+ {
+  "w": "göz",
+  "uz": "ko'z",
+  "ru": "глаз",
+  "p": "go'z",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Gözlerin çok güzel.",
+   "Ko'zlaring juda chiroyli."
+  ]
+ },
+ {
+  "w": "kulak",
+  "uz": "quloq",
+  "ru": "ухо",
+  "p": "kulak",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Kulağım ağrıyor.",
+   "Qulog'im og'riyapti."
+  ]
+ },
+ {
+  "w": "burun",
+  "uz": "burun",
+  "ru": "нос",
+  "p": "burun",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Burnum akıyor.",
+   "Burnimdan suv oqyapti."
+  ]
+ },
+ {
+  "w": "ağız",
+  "uz": "og'iz",
+  "ru": "рот",
+  "p": "aiz",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ağzını aç, lütfen.",
+   "Og'zingni och, iltimos."
+  ]
+ },
+ {
+  "w": "diş",
+  "uz": "tish",
+  "ru": "зуб",
+  "p": "dish",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Her gün dişlerimi fırçalarım.",
+   "Har kuni tishlarimni yuvaman."
+  ]
+ },
+ {
+  "w": "el",
+  "uz": "qo'l (kaft)",
+  "ru": "рука (кисть)",
+  "p": "el",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Yemekten önce ellerini yıka.",
+   "Ovqatdan oldin qo'llaringni yuv."
+  ]
+ },
+ {
+  "w": "kol",
+  "uz": "qo'l, bilak",
+  "ru": "рука",
+  "p": "kol",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Kolum kırıldı.",
+   "Qo'lim sindi."
+  ]
+ },
+ {
+  "w": "parmak",
+  "uz": "barmoq",
+  "ru": "палец",
+  "p": "parmak",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Elimizde beş parmak var.",
+   "Qo'limizda beshta barmoq bor."
+  ]
+ },
+ {
+  "w": "ayak",
+  "uz": "oyoq (panja)",
+  "ru": "нога (стопа)",
+  "p": "ayak",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Ayağım ağrıyor.",
+   "Oyog'im og'riyapti."
+  ]
+ },
+ {
+  "w": "bacak",
+  "uz": "oyoq",
+  "ru": "нога",
+  "p": "bajak",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Bacaklarım yoruldu.",
+   "Oyoqlarim charchadi."
+  ]
+ },
+ {
+  "w": "kalp",
+  "uz": "yurak",
+  "ru": "сердце",
+  "p": "kalp",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Kalbim hızlı atıyor.",
+   "Yuragim tez uryapti."
+  ]
+ },
+ {
+  "w": "mide",
+  "uz": "oshqozon",
+  "ru": "желудок",
+  "p": "mide",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Midem ağrıyor.",
+   "Oshqozonim og'riyapti."
+  ]
+ },
+ {
+  "w": "hasta",
+  "uz": "kasal, bemor",
+  "ru": "больной",
+  "p": "hasta",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Bugün hastayım.",
+   "Bugun kasalman."
+  ]
+ },
+ {
+  "w": "doktor",
+  "uz": "shifokor",
+  "ru": "врач",
+  "p": "doktor",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Doktora gitmen lazım.",
+   "Shifokorga borishing kerak."
+  ]
+ },
+ {
+  "w": "ilaç",
+  "uz": "dori",
+  "ru": "лекарство",
+  "p": "ilach",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Bu ilacı günde iki kez iç.",
+   "Bu dorini kuniga ikki marta ich."
+  ]
+ },
+ {
+  "w": "ağrı",
+  "uz": "og'riq",
+  "ru": "боль",
+  "p": "aari",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Dişimde ağrı var.",
+   "Tishimda og'riq bor."
+  ]
+ },
+ {
+  "w": "ateş",
+  "uz": "isitma; olov",
+  "ru": "температура; огонь",
+  "p": "atesh",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Çocuğun ateşi var.",
+   "Bolaning isitmasi bor."
+  ]
+ },
+ {
+  "w": "sağlık",
+  "uz": "salomatlik",
+  "ru": "здоровье",
+  "p": "saalik",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Sağlık her şeyden önemli.",
+   "Salomatlik hammasidan muhim."
+  ]
+ },
+ {
+  "w": "hastane",
+  "uz": "kasalxona",
+  "ru": "больница",
+  "p": "hastane",
+  "t": "tana",
+  "lv": 1,
+  "e": [
+   "Annem hastanede çalışıyor.",
+   "Onam kasalxonada ishlaydi."
+  ]
+ },
+ {
+  "w": "eczane",
+  "uz": "dorixona",
+  "ru": "аптека",
+  "p": "ejzane",
+  "t": "tana",
+  "lv": 2,
+  "e": [
+   "Eczane nerede?",
+   "Dorixona qayerda?"
+  ]
+ },
+ {
+  "w": "yemek",
+  "uz": "ovqat",
+  "ru": "еда",
+  "p": "yemek",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Yemek çok lezzetli.",
+   "Ovqat juda mazali."
+  ]
+ },
+ {
+  "w": "ekmek",
+  "uz": "non",
+  "ru": "хлеб",
+  "p": "ekmek",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Fırından ekmek aldım.",
+   "Novvoyxonadan non oldim."
+  ]
+ },
+ {
+  "w": "su",
+  "uz": "suv",
+  "ru": "вода",
+  "p": "su",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Bir bardak su, lütfen.",
+   "Bir stakan suv, iltimos."
+  ]
+ },
+ {
+  "w": "çay",
+  "uz": "choy",
+  "ru": "чай",
+  "p": "chay",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Türkler çok çay içer.",
+   "Turklar ko'p choy ichadi."
+  ]
+ },
+ {
+  "w": "kahve",
+  "uz": "qahva",
+  "ru": "кофе",
+  "p": "kahve",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Sabah kahve içerim.",
+   "Ertalab qahva ichaman."
+  ]
+ },
+ {
+  "w": "süt",
+  "uz": "sut",
+  "ru": "молоко",
+  "p": "sut",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Çocuk süt içiyor.",
+   "Bola sut ichyapti."
+  ]
+ },
+ {
+  "w": "et",
+  "uz": "go'sht",
+  "ru": "мясо",
+  "p": "et",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Annem et pişirdi.",
+   "Onam go'sht pishirdi."
+  ]
+ },
+ {
+  "w": "tavuk",
+  "uz": "tovuq",
+  "ru": "курица",
+  "p": "tavuk",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Tavuk çorbasını severim.",
+   "Tovuq sho'rvasini yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "balık",
+  "uz": "baliq",
+  "ru": "рыба",
+  "p": "balik",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Akşam balık yedik.",
+   "Kechqurun baliq yedik."
+  ]
+ },
+ {
+  "w": "pilav",
+  "uz": "palov (guruch)",
+  "ru": "плов, рис",
+  "p": "pilav",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Pilav çok güzel olmuş.",
+   "Palov juda yaxshi bo'libdi."
+  ]
+ },
+ {
+  "w": "çorba",
+  "uz": "sho'rva",
+  "ru": "суп",
+  "p": "chorba",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Mercimek çorbası içtim.",
+   "Yasmiq sho'rvasi ichdim."
+  ]
+ },
+ {
+  "w": "yumurta",
+  "uz": "tuxum",
+  "ru": "яйцо",
+  "p": "yumurta",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Kahvaltıda yumurta yerim.",
+   "Nonushtada tuxum yeyman."
+  ]
+ },
+ {
+  "w": "peynir",
+  "uz": "pishloq",
+  "ru": "сыр",
+  "p": "peynir",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Peynir ve zeytin aldım.",
+   "Pishloq va zaytun oldim."
+  ]
+ },
+ {
+  "w": "elma",
+  "uz": "olma",
+  "ru": "яблоко",
+  "p": "elma",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Her gün bir elma ye.",
+   "Har kuni bitta olma ye."
+  ]
+ },
+ {
+  "w": "muz",
+  "uz": "banan",
+  "ru": "банан",
+  "p": "muz",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Maymun muz yiyor.",
+   "Maymun banan yeyapti."
+  ]
+ },
+ {
+  "w": "üzüm",
+  "uz": "uzum",
+  "ru": "виноград",
+  "p": "uzum",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Üzüm çok tatlı.",
+   "Uzum juda shirin."
+  ]
+ },
+ {
+  "w": "domates",
+  "uz": "pomidor",
+  "ru": "помидор",
+  "p": "domates",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Salataya domates koy.",
+   "Salatga pomidor qo'sh."
+  ]
+ },
+ {
+  "w": "patates",
+  "uz": "kartoshka",
+  "ru": "картофель",
+  "p": "patates",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Patates kızartması istiyorum.",
+   "Kartoshka fri istayman."
+  ]
+ },
+ {
+  "w": "şeker",
+  "uz": "shakar; konfet",
+  "ru": "сахар; конфета",
+  "p": "sheker",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Çaya şeker koyar mısın?",
+   "Choyga shakar solasanmi?"
+  ]
+ },
+ {
+  "w": "tuz",
+  "uz": "tuz",
+  "ru": "соль",
+  "p": "tuz",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Yemeğe biraz tuz ekle.",
+   "Ovqatga ozgina tuz qo'sh."
+  ]
+ },
+ {
+  "w": "kahvaltı",
+  "uz": "nonushta",
+  "ru": "завтрак",
+  "p": "kahvalti",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Kahvaltı saat sekizde.",
+   "Nonushta soat sakkizda."
+  ]
+ },
+ {
+  "w": "öğle yemeği",
+  "uz": "tushlik",
+  "ru": "обед",
+  "p": "o'le yemeyi",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Öğle yemeğini birlikte yiyelim.",
+   "Tushlikni birga qilaylik."
+  ]
+ },
+ {
+  "w": "akşam yemeği",
+  "uz": "kechki ovqat",
+  "ru": "ужин",
+  "p": "aksham yemeyi",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Akşam yemeği hazır.",
+   "Kechki ovqat tayyor."
+  ]
+ },
+ {
+  "w": "meyve",
+  "uz": "meva",
+  "ru": "фрукты",
+  "p": "meyve",
+  "t": "ovqat",
+  "lv": 1,
+  "e": [
+   "Meyve sağlıklıdır.",
+   "Meva foydali."
+  ]
+ },
+ {
+  "w": "ev",
+  "uz": "uy",
+  "ru": "дом",
+  "p": "ev",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Evimiz çok büyük.",
+   "Uyimiz juda katta."
+  ]
+ },
+ {
+  "w": "oda",
+  "uz": "xona",
+  "ru": "комната",
+  "p": "oda",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Benim odam küçük.",
+   "Mening xonam kichkina."
+  ]
+ },
+ {
+  "w": "mutfak",
+  "uz": "oshxona",
+  "ru": "кухня",
+  "p": "mutfak",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Annem mutfakta.",
+   "Onam oshxonada."
+  ]
+ },
+ {
+  "w": "banyo",
+  "uz": "vannaxona",
+  "ru": "ванная",
+  "p": "banyo",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Banyo nerede?",
+   "Vannaxona qayerda?"
+  ]
+ },
+ {
+  "w": "tuvalet",
+  "uz": "hojatxona",
+  "ru": "туалет",
+  "p": "tuvalet",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Affedersiniz, tuvalet nerede?",
+   "Kechirasiz, hojatxona qayerda?"
+  ]
+ },
+ {
+  "w": "yatak odası",
+  "uz": "yotoqxona",
+  "ru": "спальня",
+  "p": "yatak odasi",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Yatak odası ikinci katta.",
+   "Yotoqxona ikkinchi qavatda."
+  ]
+ },
+ {
+  "w": "salon",
+  "uz": "mehmonxona (xona)",
+  "ru": "гостиная",
+  "p": "salon",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Misafirler salonda oturuyor.",
+   "Mehmonlar mehmonxonada o'tirishibdi."
+  ]
+ },
+ {
+  "w": "kapı",
+  "uz": "eshik",
+  "ru": "дверь",
+  "p": "kapi",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Kapıyı kapat, lütfen.",
+   "Eshikni yop, iltimos."
+  ]
+ },
+ {
+  "w": "pencere",
+  "uz": "deraza",
+  "ru": "окно",
+  "p": "penjere",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Pencereyi aç.",
+   "Derazani och."
+  ]
+ },
+ {
+  "w": "masa",
+  "uz": "stol",
+  "ru": "стол",
+  "p": "masa",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Kitap masanın üstünde.",
+   "Kitob stol ustida."
+  ]
+ },
+ {
+  "w": "sandalye",
+  "uz": "stul",
+  "ru": "стул",
+  "p": "sandalye",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Sandalyeye otur.",
+   "Stulga o'tir."
+  ]
+ },
+ {
+  "w": "yatak",
+  "uz": "karavot, to'shak",
+  "ru": "кровать",
+  "p": "yatak",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Yatak çok rahat.",
+   "Karavot juda qulay."
+  ]
+ },
+ {
+  "w": "dolap",
+  "uz": "shkaf",
+  "ru": "шкаф",
+  "p": "dolap",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Kıyafetler dolapta.",
+   "Kiyimlar shkafda."
+  ]
+ },
+ {
+  "w": "koltuk",
+  "uz": "kreslo",
+  "ru": "кресло",
+  "p": "koltuk",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Babam koltukta uyuyor.",
+   "Otam kresloda uxlayapti."
+  ]
+ },
+ {
+  "w": "lamba",
+  "uz": "chiroq",
+  "ru": "лампа",
+  "p": "lamba",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Lambayı yak.",
+   "Chiroqni yoq."
+  ]
+ },
+ {
+  "w": "anahtar",
+  "uz": "kalit",
+  "ru": "ключ",
+  "p": "anahtar",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Anahtarımı kaybettim.",
+   "Kalitimni yo'qotdim."
+  ]
+ },
+ {
+  "w": "buzdolabı",
+  "uz": "muzlatgich",
+  "ru": "холодильник",
+  "p": "buzdolabi",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Süt buzdolabında.",
+   "Sut muzlatgichda."
+  ]
+ },
+ {
+  "w": "duvar",
+  "uz": "devor",
+  "ru": "стена",
+  "p": "duvar",
+  "t": "uy",
+  "lv": 2,
+  "e": [
+   "Duvarda bir resim var.",
+   "Devorda rasm bor."
+  ]
+ },
+ {
+  "w": "tabak",
+  "uz": "tarelka",
+  "ru": "тарелка",
+  "p": "tabak",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Tabakları masaya koy.",
+   "Tarelkalarni stolga qo'y."
+  ]
+ },
+ {
+  "w": "bardak",
+  "uz": "stakan",
+  "ru": "стакан",
+  "p": "bardak",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Bardak boş.",
+   "Stakan bo'sh."
+  ]
+ },
+ {
+  "w": "kaşık",
+  "uz": "qoshiq",
+  "ru": "ложка",
+  "p": "kashik",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Bana bir kaşık ver.",
+   "Menga bitta qoshiq ber."
+  ]
+ },
+ {
+  "w": "çatal",
+  "uz": "vilka",
+  "ru": "вилка",
+  "p": "chatal",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Çatal ve bıçak nerede?",
+   "Vilka va pichoq qayerda?"
+  ]
+ },
+ {
+  "w": "bıçak",
+  "uz": "pichoq",
+  "ru": "нож",
+  "p": "bichak",
+  "t": "uy",
+  "lv": 1,
+  "e": [
+   "Bıçak çok keskin.",
+   "Pichoq juda o'tkir."
+  ]
+ },
+ {
+  "w": "elbise",
+  "uz": "ko'ylak (ayollar)",
+  "ru": "платье",
+  "p": "elbise",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Bu elbise çok güzel.",
+   "Bu ko'ylak juda chiroyli."
+  ]
+ },
+ {
+  "w": "gömlek",
+  "uz": "ko'ylak (erkaklar)",
+  "ru": "рубашка",
+  "p": "go'mlek",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Beyaz bir gömlek aldım.",
+   "Oq ko'ylak oldim."
+  ]
+ },
+ {
+  "w": "pantolon",
+  "uz": "shim",
+  "ru": "брюки",
+  "p": "pantolon",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Pantolonum çok uzun.",
+   "Shimim juda uzun."
+  ]
+ },
+ {
+  "w": "etek",
+  "uz": "yubka",
+  "ru": "юбка",
+  "p": "etek",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Kız mavi bir etek giydi.",
+   "Qiz ko'k yubka kiydi."
+  ]
+ },
+ {
+  "w": "ceket",
+  "uz": "kurtka, pidjak",
+  "ru": "куртка, пиджак",
+  "p": "jeket",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Ceketini giy, hava soğuk.",
+   "Kurtkangni kiy, havo sovuq."
+  ]
+ },
+ {
+  "w": "mont",
+  "uz": "qishki kurtka",
+  "ru": "куртка (зимняя)",
+  "p": "mont",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Kışın kalın mont giyerim.",
+   "Qishda qalin kurtka kiyaman."
+  ]
+ },
+ {
+  "w": "palto",
+  "uz": "palto",
+  "ru": "пальто",
+  "p": "palto",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Siyah bir palto aldım.",
+   "Qora palto oldim."
+  ]
+ },
+ {
+  "w": "kazak",
+  "uz": "sviter",
+  "ru": "свитер",
+  "p": "kazak",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Annem bana kazak ördü.",
+   "Onam menga sviter to'qidi."
+  ]
+ },
+ {
+  "w": "tişört",
+  "uz": "futbolka",
+  "ru": "футболка",
+  "p": "tisho'rt",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Yazın tişört giyerim.",
+   "Yozda futbolka kiyaman."
+  ]
+ },
+ {
+  "w": "ayakkabı",
+  "uz": "poyabzal, tufli",
+  "ru": "обувь, туфли",
+  "p": "ayakkabi",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Yeni ayakkabılarım var.",
+   "Yangi poyabzallarim bor."
+  ]
+ },
+ {
+  "w": "çorap",
+  "uz": "paypoq",
+  "ru": "носки",
+  "p": "chorap",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Çoraplarım nerede?",
+   "Paypoqlarim qayerda?"
+  ]
+ },
+ {
+  "w": "şapka",
+  "uz": "shlyapa, kepka",
+  "ru": "шапка, шляпа",
+  "p": "shapka",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Güneşte şapka tak.",
+   "Quyoshda shlyapa kiy."
+  ]
+ },
+ {
+  "w": "eldiven",
+  "uz": "qo'lqop",
+  "ru": "перчатки",
+  "p": "eldiven",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Kışın eldiven takarım.",
+   "Qishda qo'lqop kiyaman."
+  ]
+ },
+ {
+  "w": "atkı",
+  "uz": "sharf",
+  "ru": "шарф",
+  "p": "atki",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Boynuna atkı tak.",
+   "Bo'yningga sharf o'ra."
+  ]
+ },
+ {
+  "w": "kemer",
+  "uz": "kamar",
+  "ru": "ремень",
+  "p": "kemer",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Bu kemer çok uzun.",
+   "Bu kamar juda uzun."
+  ]
+ },
+ {
+  "w": "çanta",
+  "uz": "sumka",
+  "ru": "сумка",
+  "p": "chanta",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Çantamda kitaplar var.",
+   "Sumkamda kitoblar bor."
+  ]
+ },
+ {
+  "w": "kıyafet",
+  "uz": "kiyim",
+  "ru": "одежда",
+  "p": "kiyafet",
+  "t": "kiyim",
+  "lv": 1,
+  "e": [
+   "Yeni kıyafetler aldık.",
+   "Yangi kiyimlar oldik."
+  ]
+ },
+ {
+  "w": "gözlük",
+  "uz": "ko'zoynak",
+  "ru": "очки",
+  "p": "go'zluk",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Okumak için gözlük takarım.",
+   "O'qish uchun ko'zoynak taqaman."
+  ]
+ },
+ {
+  "w": "yüzük",
+  "uz": "uzuk",
+  "ru": "кольцо",
+  "p": "yuzuk",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Altın bir yüzük aldı.",
+   "U oltin uzuk oldi."
+  ]
+ },
+ {
+  "w": "cep",
+  "uz": "cho'ntak",
+  "ru": "карман",
+  "p": "jep",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Telefon cebimde.",
+   "Telefon cho'ntagimda."
+  ]
+ },
+ {
+  "w": "kot",
+  "uz": "jinsi shim",
+  "ru": "джинсы",
+  "p": "kot",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Bugün kot giydim.",
+   "Bugun jinsi shim kiydim."
+  ]
+ },
+ {
+  "w": "terlik",
+  "uz": "shippak",
+  "ru": "тапочки",
+  "p": "terlik",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Evde terlik giyerim.",
+   "Uyda shippak kiyaman."
+  ]
+ },
+ {
+  "w": "beden",
+  "uz": "o'lcham (kiyim)",
+  "ru": "размер (одежды)",
+  "p": "beden",
+  "t": "kiyim",
+  "lv": 2,
+  "e": [
+   "Hangi beden giyiyorsunuz?",
+   "Qaysi o'lchamdagi kiyim kiyasiz?"
+  ]
+ },
+ {
+  "w": "şehir",
+  "uz": "shahar",
+  "ru": "город",
+  "p": "shehir",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "İstanbul büyük bir şehir.",
+   "Istanbul katta shahar."
+  ]
+ },
+ {
+  "w": "köy",
+  "uz": "qishloq",
+  "ru": "деревня",
+  "p": "ko'y",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Köyümüz çok güzel.",
+   "Qishlog'imiz juda chiroyli."
+  ]
+ },
+ {
+  "w": "sokak",
+  "uz": "ko'cha",
+  "ru": "улица",
+  "p": "sokak",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Sokakta çocuklar oynuyor.",
+   "Ko'chada bolalar o'ynayapti."
+  ]
+ },
+ {
+  "w": "cadde",
+  "uz": "katta ko'cha, prospekt",
+  "ru": "проспект, улица",
+  "p": "jadde",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Bu cadde çok kalabalık.",
+   "Bu ko'cha juda gavjum."
+  ]
+ },
+ {
+  "w": "cami",
+  "uz": "masjid",
+  "ru": "мечеть",
+  "p": "jami",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Cami evimizin yanında.",
+   "Masjid uyimiz yonida."
+  ]
+ },
+ {
+  "w": "park",
+  "uz": "park, bog'",
+  "ru": "парк",
+  "p": "park",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Parkta yürüyüş yaptık.",
+   "Parkda sayr qildik."
+  ]
+ },
+ {
+  "w": "banka",
+  "uz": "bank",
+  "ru": "банк",
+  "p": "banka",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Banka saat dokuzda açılır.",
+   "Bank soat to'qqizda ochiladi."
+  ]
+ },
+ {
+  "w": "otel",
+  "uz": "mehmonxona",
+  "ru": "гостиница",
+  "p": "otel",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Otelimiz denize yakın.",
+   "Mehmonxonamiz dengizga yaqin."
+  ]
+ },
+ {
+  "w": "restoran",
+  "uz": "restoran",
+  "ru": "ресторан",
+  "p": "restoran",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Akşam restorana gidelim.",
+   "Kechqurun restoranga boraylik."
+  ]
+ },
+ {
+  "w": "müze",
+  "uz": "muzey",
+  "ru": "музей",
+  "p": "muze",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Müzede eski eserler var.",
+   "Muzeyda qadimiy asarlar bor."
+  ]
+ },
+ {
+  "w": "köprü",
+  "uz": "ko'prik",
+  "ru": "мост",
+  "p": "ko'pru",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Boğaz Köprüsü çok uzun.",
+   "Bosfor ko'prigi juda uzun."
+  ]
+ },
+ {
+  "w": "çarşı",
+  "uz": "bozor, savdo rastasi",
+  "ru": "рынок, базар",
+  "p": "charshi",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Kapalı Çarşı çok ünlü.",
+   "Yopiq bozor juda mashhur."
+  ]
+ },
+ {
+  "w": "bina",
+  "uz": "bino",
+  "ru": "здание",
+  "p": "bina",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Bu bina çok yüksek.",
+   "Bu bino juda baland."
+  ]
+ },
+ {
+  "w": "kütüphane",
+  "uz": "kutubxona",
+  "ru": "библиотека",
+  "p": "kutuphane",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Kütüphanede kitap okudum.",
+   "Kutubxonada kitob o'qidim."
+  ]
+ },
+ {
+  "w": "sinema",
+  "uz": "kinoteatr",
+  "ru": "кинотеатр",
+  "p": "sinema",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Bu akşam sinemaya gidelim.",
+   "Bugun kechqurun kinoga boraylik."
+  ]
+ },
+ {
+  "w": "polis",
+  "uz": "politsiya",
+  "ru": "полиция",
+  "p": "polis",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Polis hemen geldi.",
+   "Politsiya darhol keldi."
+  ]
+ },
+ {
+  "w": "mahalle",
+  "uz": "mahalla",
+  "ru": "район, квартал",
+  "p": "mahalle",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Mahallemiz çok sessiz.",
+   "Mahallamiz juda tinch."
+  ]
+ },
+ {
+  "w": "adres",
+  "uz": "manzil",
+  "ru": "адрес",
+  "p": "adres",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Adresini yazar mısın?",
+   "Manzilingni yozib berasanmi?"
+  ]
+ },
+ {
+  "w": "yer",
+  "uz": "joy, yer",
+  "ru": "место",
+  "p": "yer",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Burası çok güzel bir yer.",
+   "Bu juda chiroyli joy."
+  ]
+ },
+ {
+  "w": "merkez",
+  "uz": "markaz",
+  "ru": "центр",
+  "p": "merkez",
+  "t": "shahar",
+  "lv": 2,
+  "e": [
+   "Şehir merkezine gidiyorum.",
+   "Shahar markaziga ketyapman."
+  ]
+ },
+ {
+  "w": "sağ",
+  "uz": "o'ng",
+  "ru": "право, направо",
+  "p": "saa",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Sağa dön.",
+   "O'ngga buril."
+  ]
+ },
+ {
+  "w": "sol",
+  "uz": "chap",
+  "ru": "лево, налево",
+  "p": "sol",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Soldaki bina okul.",
+   "Chapdagi bino maktab."
+  ]
+ },
+ {
+  "w": "düz",
+  "uz": "to'g'ri (yo'nalish)",
+  "ru": "прямо",
+  "p": "duz",
+  "t": "shahar",
+  "lv": 1,
+  "e": [
+   "Düz gidin.",
+   "To'g'ri boring."
+  ]
+ },
+ {
+  "w": "araba",
+  "uz": "mashina",
+  "ru": "машина",
+  "p": "araba",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Babamın arabası yeni.",
+   "Otamning mashinasi yangi."
+  ]
+ },
+ {
+  "w": "otobüs",
+  "uz": "avtobus",
+  "ru": "автобус",
+  "p": "otobus",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Okula otobüsle giderim.",
+   "Maktabga avtobusda boraman."
+  ]
+ },
+ {
+  "w": "tren",
+  "uz": "poyezd",
+  "ru": "поезд",
+  "p": "tren",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Tren saat beşte kalkıyor.",
+   "Poyezd soat beshda jo'naydi."
+  ]
+ },
+ {
+  "w": "uçak",
+  "uz": "samolyot",
+  "ru": "самолёт",
+  "p": "uchak",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Uçakla İstanbul'a gittik.",
+   "Samolyotda Istanbulga bordik."
+  ]
+ },
+ {
+  "w": "gemi",
+  "uz": "kema",
+  "ru": "корабль",
+  "p": "gemi",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Gemi limandan ayrıldı.",
+   "Kema portdan jo'nadi."
+  ]
+ },
+ {
+  "w": "taksi",
+  "uz": "taksi",
+  "ru": "такси",
+  "p": "taksi",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Taksi çağırır mısın?",
+   "Taksi chaqirib berasanmi?"
+  ]
+ },
+ {
+  "w": "metro",
+  "uz": "metro",
+  "ru": "метро",
+  "p": "metro",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Metro çok hızlı.",
+   "Metro juda tez."
+  ]
+ },
+ {
+  "w": "bisiklet",
+  "uz": "velosiped",
+  "ru": "велосипед",
+  "p": "bisiklet",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Bisiklete binmeyi severim.",
+   "Velosiped minishni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "havalimanı",
+  "uz": "aeroport",
+  "ru": "аэропорт",
+  "p": "havalimani",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Havalimanına nasıl giderim?",
+   "Aeroportga qanday boraman?"
+  ]
+ },
+ {
+  "w": "istasyon",
+  "uz": "vokzal, stansiya",
+  "ru": "станция, вокзал",
+  "p": "istasyon",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Tren istasyonu nerede?",
+   "Temir yo'l vokzali qayerda?"
+  ]
+ },
+ {
+  "w": "durak",
+  "uz": "bekat",
+  "ru": "остановка",
+  "p": "durak",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Otobüs durağı burada.",
+   "Avtobus bekati shu yerda."
+  ]
+ },
+ {
+  "w": "bilet",
+  "uz": "chipta",
+  "ru": "билет",
+  "p": "bilet",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "İki bilet, lütfen.",
+   "Ikkita chipta, iltimos."
+  ]
+ },
+ {
+  "w": "yol",
+  "uz": "yo'l",
+  "ru": "дорога",
+  "p": "yol",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Bu yol çok uzun.",
+   "Bu yo'l juda uzun."
+  ]
+ },
+ {
+  "w": "yolculuk",
+  "uz": "safar",
+  "ru": "поездка",
+  "p": "yoljuluk",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Yolculuk beş saat sürdü.",
+   "Safar besh soat davom etdi."
+  ]
+ },
+ {
+  "w": "seyahat",
+  "uz": "sayohat",
+  "ru": "путешествие",
+  "p": "seyahat",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Seyahat etmeyi çok severim.",
+   "Sayohat qilishni juda yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "pasaport",
+  "uz": "pasport",
+  "ru": "паспорт",
+  "p": "pasaport",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Pasaportunu unutma!",
+   "Pasportingni unutma!"
+  ]
+ },
+ {
+  "w": "bavul",
+  "uz": "chamadon",
+  "ru": "чемодан",
+  "p": "bavul",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Bavulum çok ağır.",
+   "Chamadonim juda og'ir."
+  ]
+ },
+ {
+  "w": "tatil",
+  "uz": "ta'til, dam olish",
+  "ru": "отпуск, каникулы",
+  "p": "tatil",
+  "t": "transport",
+  "lv": 1,
+  "e": [
+   "Yazın tatile gidiyoruz.",
+   "Yozda dam olishga ketamiz."
+  ]
+ },
+ {
+  "w": "harita",
+  "uz": "xarita",
+  "ru": "карта",
+  "p": "harita",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Haritaya bakalım.",
+   "Xaritaga qaraylik."
+  ]
+ },
+ {
+  "w": "şoför",
+  "uz": "haydovchi",
+  "ru": "водитель",
+  "p": "shofo'r",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Şoför arabayı durdurdu.",
+   "Haydovchi mashinani to'xtatdi."
+  ]
+ },
+ {
+  "w": "turist",
+  "uz": "turist, sayyoh",
+  "ru": "турист",
+  "p": "turist",
+  "t": "transport",
+  "lv": 2,
+  "e": [
+   "Şehirde çok turist var.",
+   "Shaharda sayyohlar ko'p."
+  ]
+ },
+ {
+  "w": "vize",
+  "uz": "viza",
+  "ru": "виза",
+  "p": "vize",
+  "t": "transport",
+  "lv": 3,
+  "e": [
+   "Türkiye için vize lazım mı?",
+   "Turkiya uchun viza kerakmi?"
+  ]
+ },
+ {
+  "w": "iş",
+  "uz": "ish",
+  "ru": "работа",
+  "p": "ish",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "İşim çok zor.",
+   "Ishim juda qiyin."
+  ]
+ },
+ {
+  "w": "meslek",
+  "uz": "kasb",
+  "ru": "профессия",
+  "p": "meslek",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Mesleğin ne?",
+   "Kasbing nima?"
+  ]
+ },
+ {
+  "w": "öğretmen",
+  "uz": "o'qituvchi",
+  "ru": "учитель",
+  "p": "o'retmen",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Öğretmenimiz çok iyi.",
+   "O'qituvchimiz juda yaxshi."
+  ]
+ },
+ {
+  "w": "mühendis",
+  "uz": "muhandis",
+  "ru": "инженер",
+  "p": "muhendis",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Ağabeyim mühendis.",
+   "Akam muhandis."
+  ]
+ },
+ {
+  "w": "avukat",
+  "uz": "advokat",
+  "ru": "адвокат",
+  "p": "avukat",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Avukat mahkemeye gitti.",
+   "Advokat sudga ketdi."
+  ]
+ },
+ {
+  "w": "hemşire",
+  "uz": "hamshira",
+  "ru": "медсестра",
+  "p": "hemshire",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Hemşire hastaya ilaç verdi.",
+   "Hamshira bemorga dori berdi."
+  ]
+ },
+ {
+  "w": "aşçı",
+  "uz": "oshpaz",
+  "ru": "повар",
+  "p": "ashchi",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Aşçı çok güzel yemek yapıyor.",
+   "Oshpaz juda mazali ovqat pishiradi."
+  ]
+ },
+ {
+  "w": "garson",
+  "uz": "ofitsiant",
+  "ru": "официант",
+  "p": "garson",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Garson, hesap lütfen!",
+   "Ofitsiant, hisob iltimos!"
+  ]
+ },
+ {
+  "w": "satıcı",
+  "uz": "sotuvchi",
+  "ru": "продавец",
+  "p": "satiji",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Satıcı çok kibar.",
+   "Sotuvchi juda xushmuomala."
+  ]
+ },
+ {
+  "w": "çiftçi",
+  "uz": "dehqon, fermer",
+  "ru": "фермер",
+  "p": "chiftchi",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Çiftçi tarlada çalışıyor.",
+   "Dehqon dalada ishlayapti."
+  ]
+ },
+ {
+  "w": "asker",
+  "uz": "askar",
+  "ru": "солдат",
+  "p": "asker",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Ağabeyim asker.",
+   "Akam askar."
+  ]
+ },
+ {
+  "w": "yazılımcı",
+  "uz": "dasturchi",
+  "ru": "программист",
+  "p": "yazilimji",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Yazılımcı yeni bir uygulama yaptı.",
+   "Dasturchi yangi ilova yaratdi."
+  ]
+ },
+ {
+  "w": "şirket",
+  "uz": "kompaniya, firma",
+  "ru": "компания",
+  "p": "shirket",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Büyük bir şirkette çalışıyorum.",
+   "Katta kompaniyada ishlayman."
+  ]
+ },
+ {
+  "w": "ofis",
+  "uz": "ofis",
+  "ru": "офис",
+  "p": "ofis",
+  "t": "ish",
+  "lv": 1,
+  "e": [
+   "Ofisimiz şehir merkezinde.",
+   "Ofisimiz shahar markazida."
+  ]
+ },
+ {
+  "w": "patron",
+  "uz": "boshliq, xo'jayin",
+  "ru": "начальник",
+  "p": "patron",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Patronum çok iyi biri.",
+   "Boshlig'im juda yaxshi odam."
+  ]
+ },
+ {
+  "w": "maaş",
+  "uz": "maosh",
+  "ru": "зарплата",
+  "p": "maash",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Maaşım çok iyi.",
+   "Maoshim juda yaxshi."
+  ]
+ },
+ {
+  "w": "toplantı",
+  "uz": "majlis, yig'ilish",
+  "ru": "собрание",
+  "p": "toplanti",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Toplantı saat ikide.",
+   "Majlis soat ikkida."
+  ]
+ },
+ {
+  "w": "işçi",
+  "uz": "ishchi",
+  "ru": "рабочий",
+  "p": "ishchi",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Fabrikada yüz işçi çalışıyor.",
+   "Fabrikada yuzta ishchi ishlaydi."
+  ]
+ },
+ {
+  "w": "fabrika",
+  "uz": "fabrika, zavod",
+  "ru": "фабрика, завод",
+  "p": "fabrika",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Babam fabrikada çalışıyor.",
+   "Otam fabrikada ishlaydi."
+  ]
+ },
+ {
+  "w": "müdür",
+  "uz": "direktor, mudir",
+  "ru": "директор",
+  "p": "mudur",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Okul müdürü bizi çağırdı.",
+   "Maktab direktori bizni chaqirdi."
+  ]
+ },
+ {
+  "w": "berber",
+  "uz": "sartarosh",
+  "ru": "парикмахер",
+  "p": "berber",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Berberde saçımı kestirdim.",
+   "Sartaroshda sochimni oldirdim."
+  ]
+ },
+ {
+  "w": "pilot",
+  "uz": "uchuvchi",
+  "ru": "пилот",
+  "p": "pilot",
+  "t": "ish",
+  "lv": 2,
+  "e": [
+   "Pilot uçağı indirdi.",
+   "Uchuvchi samolyotni qo'ndirdi."
+  ]
+ },
+ {
+  "w": "okul",
+  "uz": "maktab",
+  "ru": "школа",
+  "p": "okul",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Okul saat sekizde başlıyor.",
+   "Maktab soat sakkizda boshlanadi."
+  ]
+ },
+ {
+  "w": "üniversite",
+  "uz": "universitet",
+  "ru": "университет",
+  "p": "universite",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ablam üniversitede okuyor.",
+   "Opam universitetda o'qiydi."
+  ]
+ },
+ {
+  "w": "öğrenci",
+  "uz": "o'quvchi, talaba",
+  "ru": "ученик, студент",
+  "p": "o'renji",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Sınıfta yirmi öğrenci var.",
+   "Sinfda yigirmata o'quvchi bor."
+  ]
+ },
+ {
+  "w": "sınıf",
+  "uz": "sinf",
+  "ru": "класс",
+  "p": "sinif",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Sınıfımız çok aydınlık.",
+   "Sinfimiz juda yorug'."
+  ]
+ },
+ {
+  "w": "ders",
+  "uz": "dars",
+  "ru": "урок",
+  "p": "ders",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Bugün üç dersimiz var.",
+   "Bugun uchta darsimiz bor."
+  ]
+ },
+ {
+  "w": "kitap",
+  "uz": "kitob",
+  "ru": "книга",
+  "p": "kitap",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Bu kitap çok ilginç.",
+   "Bu kitob juda qiziqarli."
+  ]
+ },
+ {
+  "w": "defter",
+  "uz": "daftar",
+  "ru": "тетрадь",
+  "p": "defter",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Defterime yazdım.",
+   "Daftarimga yozdim."
+  ]
+ },
+ {
+  "w": "kalem",
+  "uz": "ruchka, qalam",
+  "ru": "ручка, карандаш",
+  "p": "kalem",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Kalemin var mı?",
+   "Ruchkang bormi?"
+  ]
+ },
+ {
+  "w": "silgi",
+  "uz": "o'chirg'ich",
+  "ru": "ластик",
+  "p": "silgi",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Silgini verir misin?",
+   "O'chirg'ichingni berib turasanmi?"
+  ]
+ },
+ {
+  "w": "tahta",
+  "uz": "doska",
+  "ru": "доска",
+  "p": "tahta",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Öğretmen tahtaya yazdı.",
+   "O'qituvchi doskaga yozdi."
+  ]
+ },
+ {
+  "w": "sınav",
+  "uz": "imtihon",
+  "ru": "экзамен",
+  "p": "sinav",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Yarın sınavım var.",
+   "Ertaga imtihonim bor."
+  ]
+ },
+ {
+  "w": "soru",
+  "uz": "savol",
+  "ru": "вопрос",
+  "p": "soru",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Bir sorum var.",
+   "Bitta savolim bor."
+  ]
+ },
+ {
+  "w": "cevap",
+  "uz": "javob",
+  "ru": "ответ",
+  "p": "jevap",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Cevabı biliyorum.",
+   "Javobni bilaman."
+  ]
+ },
+ {
+  "w": "ödev",
+  "uz": "uy vazifasi",
+  "ru": "домашнее задание",
+  "p": "o'dev",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Ödevimi bitirdim.",
+   "Uy vazifamni tugatdim."
+  ]
+ },
+ {
+  "w": "not",
+  "uz": "baho; eslatma",
+  "ru": "оценка; заметка",
+  "p": "not",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Matematikten iyi not aldım.",
+   "Matematikadan yaxshi baho oldim."
+  ]
+ },
+ {
+  "w": "dil",
+  "uz": "til",
+  "ru": "язык",
+  "p": "dil",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Türkçe kolay bir dil.",
+   "Turk tili oson til."
+  ]
+ },
+ {
+  "w": "kelime",
+  "uz": "so'z",
+  "ru": "слово",
+  "p": "kelime",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Her gün on kelime öğreniyorum.",
+   "Har kuni o'nta so'z o'rganaman."
+  ]
+ },
+ {
+  "w": "cümle",
+  "uz": "gap, jumla",
+  "ru": "предложение",
+  "p": "jumle",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Bu cümleyi çevir.",
+   "Bu gapni tarjima qil."
+  ]
+ },
+ {
+  "w": "matematik",
+  "uz": "matematika",
+  "ru": "математика",
+  "p": "matematik",
+  "t": "maktab",
+  "lv": 1,
+  "e": [
+   "Matematik dersini seviyorum.",
+   "Matematika darsini yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "tarih",
+  "uz": "tarix; sana",
+  "ru": "история; дата",
+  "p": "tarih",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Tarih dersi çok ilginç.",
+   "Tarix darsi juda qiziq."
+  ]
+ },
+ {
+  "w": "bilgi",
+  "uz": "bilim, ma'lumot",
+  "ru": "знание, информация",
+  "p": "bilgi",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Bu konuda bilgim yok.",
+   "Bu haqda ma'lumotim yo'q."
+  ]
+ },
+ {
+  "w": "sözlük",
+  "uz": "lug'at",
+  "ru": "словарь",
+  "p": "so'zluk",
+  "t": "maktab",
+  "lv": 2,
+  "e": [
+   "Bu kelimeyi sözlükte bul.",
+   "Bu so'zni lug'atdan top."
+  ]
+ },
+ {
+  "w": "doğa",
+  "uz": "tabiat",
+  "ru": "природа",
+  "p": "doa",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Doğayı korumalıyız.",
+   "Tabiatni asrashimiz kerak."
+  ]
+ },
+ {
+  "w": "ağaç",
+  "uz": "daraxt",
+  "ru": "дерево",
+  "p": "aach",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Bahçede büyük bir ağaç var.",
+   "Bog'da katta daraxt bor."
+  ]
+ },
+ {
+  "w": "çiçek",
+  "uz": "gul",
+  "ru": "цветок",
+  "p": "chichek",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Annem çiçekleri çok sever.",
+   "Onam gullarni juda yaxshi ko'radi."
+  ]
+ },
+ {
+  "w": "dağ",
+  "uz": "tog'",
+  "ru": "гора",
+  "p": "daa",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Dağa tırmandık.",
+   "Tog'ga chiqdik."
+  ]
+ },
+ {
+  "w": "deniz",
+  "uz": "dengiz",
+  "ru": "море",
+  "p": "deniz",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Deniz çok mavi.",
+   "Dengiz juda ko'k."
+  ]
+ },
+ {
+  "w": "göl",
+  "uz": "ko'l",
+  "ru": "озеро",
+  "p": "go'l",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Gölde ördekler yüzüyor.",
+   "Ko'lda o'rdaklar suzyapti."
+  ]
+ },
+ {
+  "w": "nehir",
+  "uz": "daryo",
+  "ru": "река",
+  "p": "nehir",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Nehir şehrin ortasından geçiyor.",
+   "Daryo shahar o'rtasidan oqib o'tadi."
+  ]
+ },
+ {
+  "w": "orman",
+  "uz": "o'rmon",
+  "ru": "лес",
+  "p": "orman",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Ormanda yürüdük.",
+   "O'rmonda sayr qildik."
+  ]
+ },
+ {
+  "w": "bahçe",
+  "uz": "bog'",
+  "ru": "сад",
+  "p": "bahche",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Evimizin bahçesi var.",
+   "Uyimizning bog'i bor."
+  ]
+ },
+ {
+  "w": "toprak",
+  "uz": "tuproq",
+  "ru": "земля, почва",
+  "p": "toprak",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Çocuklar toprakta oynuyor.",
+   "Bolalar tuproqda o'ynayapti."
+  ]
+ },
+ {
+  "w": "taş",
+  "uz": "tosh",
+  "ru": "камень",
+  "p": "tash",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Yolda büyük bir taş var.",
+   "Yo'lda katta tosh bor."
+  ]
+ },
+ {
+  "w": "hayvan",
+  "uz": "hayvon",
+  "ru": "животное",
+  "p": "hayvan",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Hayvanları çok seviyorum.",
+   "Hayvonlarni juda yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "kedi",
+  "uz": "mushuk",
+  "ru": "кошка",
+  "p": "kedi",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Kedi süt içiyor.",
+   "Mushuk sut ichyapti."
+  ]
+ },
+ {
+  "w": "köpek",
+  "uz": "it",
+  "ru": "собака",
+  "p": "ko'pek",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Köpek bahçede havlıyor.",
+   "It bog'da hurayapti."
+  ]
+ },
+ {
+  "w": "kuş",
+  "uz": "qush",
+  "ru": "птица",
+  "p": "kush",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Kuşlar şarkı söylüyor.",
+   "Qushlar sayrayapti."
+  ]
+ },
+ {
+  "w": "at",
+  "uz": "ot",
+  "ru": "лошадь",
+  "p": "at",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Dedemin bir atı var.",
+   "Bobomning oti bor."
+  ]
+ },
+ {
+  "w": "inek",
+  "uz": "sigir",
+  "ru": "корова",
+  "p": "inek",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "İnek süt verir.",
+   "Sigir sut beradi."
+  ]
+ },
+ {
+  "w": "koyun",
+  "uz": "qo'y",
+  "ru": "овца",
+  "p": "koyun",
+  "t": "tabiat",
+  "lv": 1,
+  "e": [
+   "Çoban koyunları otlatıyor.",
+   "Cho'pon qo'ylarni boqyapti."
+  ]
+ },
+ {
+  "w": "keçi",
+  "uz": "echki",
+  "ru": "коза",
+  "p": "kechi",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Köyde keçilerimiz var.",
+   "Qishloqda echkilarimiz bor."
+  ]
+ },
+ {
+  "w": "aslan",
+  "uz": "sher",
+  "ru": "лев",
+  "p": "aslan",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Aslan ormanın kralıdır.",
+   "Sher o'rmon shohidir."
+  ]
+ },
+ {
+  "w": "ayı",
+  "uz": "ayiq",
+  "ru": "медведь",
+  "p": "ayi",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Ormanda bir ayı gördük.",
+   "O'rmonda ayiq ko'rdik."
+  ]
+ },
+ {
+  "w": "kelebek",
+  "uz": "kapalak",
+  "ru": "бабочка",
+  "p": "kelebek",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Bahçede bir kelebek uçuyor.",
+   "Bog'da kapalak uchyapti."
+  ]
+ },
+ {
+  "w": "yaprak",
+  "uz": "barg",
+  "ru": "лист",
+  "p": "yaprak",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "Yapraklar sararıyor.",
+   "Barglar sarg'ayyapti."
+  ]
+ },
+ {
+  "w": "ot",
+  "uz": "o't, maysa",
+  "ru": "трава",
+  "p": "ot",
+  "t": "tabiat",
+  "lv": 2,
+  "e": [
+   "İnekler ot yiyor.",
+   "Sigirlar o't yeyapti."
+  ]
+ },
+ {
+  "w": "hava",
+  "uz": "havo, ob-havo",
+  "ru": "погода, воздух",
+  "p": "hava",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Bugün hava çok güzel.",
+   "Bugun havo juda yaxshi."
+  ]
+ },
+ {
+  "w": "güneş",
+  "uz": "quyosh",
+  "ru": "солнце",
+  "p": "gunesh",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Güneş parlıyor.",
+   "Quyosh charaqlayapti."
+  ]
+ },
+ {
+  "w": "yağmur",
+  "uz": "yomg'ir",
+  "ru": "дождь",
+  "p": "yaamur",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Dışarıda yağmur yağıyor.",
+   "Tashqarida yomg'ir yog'yapti."
+  ]
+ },
+ {
+  "w": "kar",
+  "uz": "qor",
+  "ru": "снег",
+  "p": "kar",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Dün çok kar yağdı.",
+   "Kecha ko'p qor yog'di."
+  ]
+ },
+ {
+  "w": "rüzgâr",
+  "uz": "shamol",
+  "ru": "ветер",
+  "p": "ruzgar",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Bugün rüzgâr çok sert.",
+   "Bugun shamol juda kuchli."
+  ]
+ },
+ {
+  "w": "bulut",
+  "uz": "bulut",
+  "ru": "облако",
+  "p": "bulut",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Gökyüzünde hiç bulut yok.",
+   "Osmonda birorta ham bulut yo'q."
+  ]
+ },
+ {
+  "w": "gökyüzü",
+  "uz": "osmon",
+  "ru": "небо",
+  "p": "go'kyuzu",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Gökyüzü masmavi.",
+   "Osmon ko'm-ko'k."
+  ]
+ },
+ {
+  "w": "sıcak",
+  "uz": "issiq",
+  "ru": "жаркий, горячий",
+  "p": "sijak",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Bugün hava çok sıcak.",
+   "Bugun havo juda issiq."
+  ]
+ },
+ {
+  "w": "soğuk",
+  "uz": "sovuq",
+  "ru": "холодный",
+  "p": "souk",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Kışın hava soğuk olur.",
+   "Qishda havo sovuq bo'ladi."
+  ]
+ },
+ {
+  "w": "serin",
+  "uz": "salqin",
+  "ru": "прохладный",
+  "p": "serin",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Akşamları hava serin.",
+   "Kechqurunlari havo salqin."
+  ]
+ },
+ {
+  "w": "güneşli",
+  "uz": "quyoshli",
+  "ru": "солнечный",
+  "p": "guneshli",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Yarın hava güneşli olacak.",
+   "Ertaga havo quyoshli bo'ladi."
+  ]
+ },
+ {
+  "w": "yağmurlu",
+  "uz": "yomg'irli",
+  "ru": "дождливый",
+  "p": "yaamurlu",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Bugün hava yağmurlu.",
+   "Bugun havo yomg'irli."
+  ]
+ },
+ {
+  "w": "bulutlu",
+  "uz": "bulutli",
+  "ru": "облачный",
+  "p": "bulutlu",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Hava bulutlu ama sıcak.",
+   "Havo bulutli, lekin issiq."
+  ]
+ },
+ {
+  "w": "karlı",
+  "uz": "qorli",
+  "ru": "снежный",
+  "p": "karli",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Karlı bir günde doğdum.",
+   "Qorli kunda tug'ilganman."
+  ]
+ },
+ {
+  "w": "fırtına",
+  "uz": "bo'ron",
+  "ru": "буря",
+  "p": "firtina",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Gece büyük bir fırtına oldu.",
+   "Kechasi kuchli bo'ron bo'ldi."
+  ]
+ },
+ {
+  "w": "derece",
+  "uz": "daraja (harorat)",
+  "ru": "градус",
+  "p": "dereje",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Bugün hava otuz derece.",
+   "Bugun havo o'ttiz daraja."
+  ]
+ },
+ {
+  "w": "sis",
+  "uz": "tuman",
+  "ru": "туман",
+  "p": "sis",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Sabah çok sis vardı.",
+   "Ertalab qalin tuman bor edi."
+  ]
+ },
+ {
+  "w": "şemsiye",
+  "uz": "soyabon",
+  "ru": "зонт",
+  "p": "shemsiye",
+  "t": "havo",
+  "lv": 1,
+  "e": [
+   "Şemsiyeni unutma!",
+   "Soyaboningni unutma!"
+  ]
+ },
+ {
+  "w": "gök gürültüsü",
+  "uz": "momaqaldiroq",
+  "ru": "гром",
+  "p": "go'k gurultusu",
+  "t": "havo",
+  "lv": 3,
+  "e": [
+   "Gök gürültüsünden korkuyorum.",
+   "Momaqaldiroqdan qo'rqaman."
+  ]
+ },
+ {
+  "w": "şimşek",
+  "uz": "chaqmoq",
+  "ru": "молния",
+  "p": "shimshek",
+  "t": "havo",
+  "lv": 3,
+  "e": [
+   "Gökyüzünde şimşek çaktı.",
+   "Osmonda chaqmoq chaqdi."
+  ]
+ },
+ {
+  "w": "hava durumu",
+  "uz": "ob-havo ma'lumoti",
+  "ru": "прогноз погоды",
+  "p": "hava durumu",
+  "t": "havo",
+  "lv": 2,
+  "e": [
+   "Hava durumuna baktın mı?",
+   "Ob-havo ma'lumotiga qaradingmi?"
+  ]
+ },
+ {
+  "w": "para",
+  "uz": "pul",
+  "ru": "деньги",
+  "p": "para",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Hiç param yok.",
+   "Umuman pulim yo'q."
+  ]
+ },
+ {
+  "w": "fiyat",
+  "uz": "narx",
+  "ru": "цена",
+  "p": "fiyat",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bunun fiyatı ne kadar?",
+   "Buning narxi qancha?"
+  ]
+ },
+ {
+  "w": "ne kadar",
+  "uz": "qancha",
+  "ru": "сколько",
+  "p": "ne kadar",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bu elbise ne kadar?",
+   "Bu ko'ylak qancha turadi?"
+  ]
+ },
+ {
+  "w": "ucuz",
+  "uz": "arzon",
+  "ru": "дешёвый",
+  "p": "ujuz",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bu ayakkabı çok ucuz.",
+   "Bu poyabzal juda arzon."
+  ]
+ },
+ {
+  "w": "pahalı",
+  "uz": "qimmat",
+  "ru": "дорогой",
+  "p": "pahali",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bu telefon çok pahalı.",
+   "Bu telefon juda qimmat."
+  ]
+ },
+ {
+  "w": "dükkan",
+  "uz": "do'kon",
+  "ru": "магазин, лавка",
+  "p": "dukkan",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Dükkan saat onda açılıyor.",
+   "Do'kon soat o'nda ochiladi."
+  ]
+ },
+ {
+  "w": "mağaza",
+  "uz": "do'kon (katta)",
+  "ru": "магазин",
+  "p": "maaza",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bu mağazada güzel kıyafetler var.",
+   "Bu do'konda chiroyli kiyimlar bor."
+  ]
+ },
+ {
+  "w": "market",
+  "uz": "oziq-ovqat do'koni",
+  "ru": "продуктовый магазин",
+  "p": "market",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Marketten süt aldım.",
+   "Do'kondan sut oldim."
+  ]
+ },
+ {
+  "w": "alışveriş",
+  "uz": "xarid, savdo",
+  "ru": "покупки",
+  "p": "alishverish",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bugün alışverişe gidiyoruz.",
+   "Bugun xarid qilgani ketyapmiz."
+  ]
+ },
+ {
+  "w": "indirim",
+  "uz": "chegirma",
+  "ru": "скидка",
+  "p": "indirim",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Bu mağazada büyük indirim var.",
+   "Bu do'konda katta chegirma bor."
+  ]
+ },
+ {
+  "w": "kasa",
+  "uz": "kassa",
+  "ru": "касса",
+  "p": "kasa",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Lütfen kasaya gelin.",
+   "Iltimos, kassaga keling."
+  ]
+ },
+ {
+  "w": "fiş",
+  "uz": "chek",
+  "ru": "чек",
+  "p": "fish",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Fişinizi unutmayın.",
+   "Chekingizni unutmang."
+  ]
+ },
+ {
+  "w": "hesap",
+  "uz": "hisob",
+  "ru": "счёт",
+  "p": "hesap",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Hesabı ben ödeyeceğim.",
+   "Hisobni men to'layman."
+  ]
+ },
+ {
+  "w": "kredi kartı",
+  "uz": "kredit karta",
+  "ru": "кредитная карта",
+  "p": "kredi karti",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Kredi kartıyla ödeyebilir miyim?",
+   "Kredit karta bilan to'lasam bo'ladimi?"
+  ]
+ },
+ {
+  "w": "nakit",
+  "uz": "naqd pul",
+  "ru": "наличные",
+  "p": "nakit",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Nakit ödeyeceğim.",
+   "Naqd pul bilan to'layman."
+  ]
+ },
+ {
+  "w": "bozuk para",
+  "uz": "mayda pul, tanga",
+  "ru": "мелочь",
+  "p": "bozuk para",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Bozuk paranız var mı?",
+   "Mayda pulingiz bormi?"
+  ]
+ },
+ {
+  "w": "lira",
+  "uz": "lira (Turkiya puli)",
+  "ru": "лира",
+  "p": "lira",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "Bu defter on lira.",
+   "Bu daftar o'n lira."
+  ]
+ },
+ {
+  "w": "kilo",
+  "uz": "kilogramm",
+  "ru": "килограмм",
+  "p": "kilo",
+  "t": "xarid",
+  "lv": 1,
+  "e": [
+   "İki kilo domates istiyorum.",
+   "Ikki kilo pomidor istayman."
+  ]
+ },
+ {
+  "w": "paket",
+  "uz": "paket, quti",
+  "ru": "пакет, упаковка",
+  "p": "paket",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Bir paket süt aldım.",
+   "Bir paket sut oldim."
+  ]
+ },
+ {
+  "w": "poşet",
+  "uz": "selofan paket",
+  "ru": "пакет (пластиковый)",
+  "p": "poshet",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Poşet ister misiniz?",
+   "Paket kerakmi?"
+  ]
+ },
+ {
+  "w": "müşteri",
+  "uz": "xaridor, mijoz",
+  "ru": "покупатель, клиент",
+  "p": "mushteri",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Dükkanda çok müşteri var.",
+   "Do'konda xaridorlar ko'p."
+  ]
+ },
+ {
+  "w": "fatura",
+  "uz": "kommunal to'lov hisobi",
+  "ru": "счёт (за услуги)",
+  "p": "fatura",
+  "t": "xarid",
+  "lv": 3,
+  "e": [
+   "Elektrik faturasını ödedim.",
+   "Elektr uchun to'lovni to'ladim."
+  ]
+ },
+ {
+  "w": "ücret",
+  "uz": "haq, to'lov",
+  "ru": "плата",
+  "p": "ujret",
+  "t": "xarid",
+  "lv": 2,
+  "e": [
+   "Giriş ücreti ne kadar?",
+   "Kirish to'lovi qancha?"
+  ]
+ },
+ {
+  "w": "mutlu",
+  "uz": "baxtli, xursand",
+  "ru": "счастливый",
+  "p": "mutlu",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Bugün çok mutluyum.",
+   "Bugun juda xursandman."
+  ]
+ },
+ {
+  "w": "üzgün",
+  "uz": "xafa, g'amgin",
+  "ru": "грустный",
+  "p": "uzgun",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Neden üzgünsün?",
+   "Nega xafasan?"
+  ]
+ },
+ {
+  "w": "kızgın",
+  "uz": "jahli chiqqan",
+  "ru": "злой, сердитый",
+  "p": "kizgin",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Babam bana kızgın.",
+   "Otamning menga jahli chiqqan."
+  ]
+ },
+ {
+  "w": "yorgun",
+  "uz": "charchagan",
+  "ru": "усталый",
+  "p": "yorgun",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Çok yorgunum, uyumak istiyorum.",
+   "Juda charchadim, uxlagim kelyapti."
+  ]
+ },
+ {
+  "w": "korku",
+  "uz": "qo'rquv",
+  "ru": "страх",
+  "p": "korku",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Gözlerinde korku vardı.",
+   "Uning ko'zlarida qo'rquv bor edi."
+  ]
+ },
+ {
+  "w": "sevgi",
+  "uz": "sevgi, mehr",
+  "ru": "любовь",
+  "p": "sevgi",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Annemin sevgisi çok büyük.",
+   "Onamning mehri juda katta."
+  ]
+ },
+ {
+  "w": "aşk",
+  "uz": "ishq, muhabbat",
+  "ru": "любовь (страсть)",
+  "p": "ashk",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Bu bir aşk şarkısı.",
+   "Bu sevgi haqidagi qo'shiq."
+  ]
+ },
+ {
+  "w": "heyecanlı",
+  "uz": "hayajonli",
+  "ru": "взволнованный",
+  "p": "heyejanli",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Sınavdan önce çok heyecanlıyım.",
+   "Imtihondan oldin juda hayajondaman."
+  ]
+ },
+ {
+  "w": "sakin",
+  "uz": "xotirjam, tinch",
+  "ru": "спокойный",
+  "p": "sakin",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Sakin ol, her şey yolunda.",
+   "Xotirjam bo'l, hammasi joyida."
+  ]
+ },
+ {
+  "w": "nazik",
+  "uz": "xushmuomala, odobli",
+  "ru": "вежливый",
+  "p": "nazik",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "O çok nazik bir insan.",
+   "U juda xushmuomala odam."
+  ]
+ },
+ {
+  "w": "çalışkan",
+  "uz": "mehnatkash",
+  "ru": "трудолюбивый",
+  "p": "chalishkan",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Kardeşim çok çalışkan.",
+   "Ukam juda mehnatkash."
+  ]
+ },
+ {
+  "w": "tembel",
+  "uz": "dangasa",
+  "ru": "ленивый",
+  "p": "tembel",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Tembel olma, kalk!",
+   "Dangasa bo'lma, tur!"
+  ]
+ },
+ {
+  "w": "akıllı",
+  "uz": "aqlli",
+  "ru": "умный",
+  "p": "akilli",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Çok akıllı bir çocuk.",
+   "Juda aqlli bola."
+  ]
+ },
+ {
+  "w": "komik",
+  "uz": "kulgili",
+  "ru": "смешной",
+  "p": "komik",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Bu film çok komik.",
+   "Bu film juda kulgili."
+  ]
+ },
+ {
+  "w": "utangaç",
+  "uz": "uyatchan",
+  "ru": "застенчивый",
+  "p": "utangach",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "Küçük kız çok utangaç.",
+   "Kichkina qiz juda uyatchan."
+  ]
+ },
+ {
+  "w": "cesur",
+  "uz": "jasur",
+  "ru": "смелый",
+  "p": "jesur",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Asker çok cesur.",
+   "Askar juda jasur."
+  ]
+ },
+ {
+  "w": "sinirli",
+  "uz": "asabiy, jahldor",
+  "ru": "нервный, раздражённый",
+  "p": "sinirli",
+  "t": "his",
+  "lv": 2,
+  "e": [
+   "Bugün neden bu kadar sinirlisin?",
+   "Bugun nega bunchalik asabiysan?"
+  ]
+ },
+ {
+  "w": "şaşkın",
+  "uz": "hayron",
+  "ru": "удивлённый",
+  "p": "shashkin",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "Haberi duyunca şaşkın kaldım.",
+   "Xabarni eshitib hayron qoldim."
+  ]
+ },
+ {
+  "w": "endişeli",
+  "uz": "xavotirli",
+  "ru": "обеспокоенный",
+  "p": "endisheli",
+  "t": "his",
+  "lv": 3,
+  "e": [
+   "Annem benim için endişeli.",
+   "Onam men uchun xavotirda."
+  ]
+ },
+ {
+  "w": "gülmek",
+  "uz": "kulmoq",
+  "ru": "смеяться",
+  "p": "gulmek",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Çocuklar gülüyor.",
+   "Bolalar kulyapti."
+  ]
+ },
+ {
+  "w": "ağlamak",
+  "uz": "yig'lamoq",
+  "ru": "плакать",
+  "p": "aalamak",
+  "t": "his",
+  "lv": 1,
+  "e": [
+   "Bebek ağlıyor.",
+   "Chaqaloq yig'layapti."
+  ]
+ },
+ {
+  "w": "spor",
+  "uz": "sport",
+  "ru": "спорт",
+  "p": "spor",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Her gün spor yapıyorum.",
+   "Har kuni sport bilan shug'ullanaman."
+  ]
+ },
+ {
+  "w": "futbol",
+  "uz": "futbol",
+  "ru": "футбол",
+  "p": "futbol",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Futbol oynamayı severim.",
+   "Futbol o'ynashni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "basketbol",
+  "uz": "basketbol",
+  "ru": "баскетбол",
+  "p": "basketbol",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Okulda basketbol oynuyoruz.",
+   "Maktabda basketbol o'ynaymiz."
+  ]
+ },
+ {
+  "w": "voleybol",
+  "uz": "voleybol",
+  "ru": "волейбол",
+  "p": "voleybol",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Plajda voleybol oynadık.",
+   "Plyajda voleybol o'ynadik."
+  ]
+ },
+ {
+  "w": "yüzme",
+  "uz": "suzish",
+  "ru": "плавание",
+  "p": "yuzme",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Yüzme çok sağlıklı bir spor.",
+   "Suzish juda foydali sport turi."
+  ]
+ },
+ {
+  "w": "koşu",
+  "uz": "yugurish",
+  "ru": "бег",
+  "p": "koshu",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Sabahları koşuya çıkarım.",
+   "Ertalablari yugurishga chiqaman."
+  ]
+ },
+ {
+  "w": "top",
+  "uz": "to'p",
+  "ru": "мяч",
+  "p": "top",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Topu bana at!",
+   "To'pni menga ot!"
+  ]
+ },
+ {
+  "w": "takım",
+  "uz": "jamoa",
+  "ru": "команда",
+  "p": "takim",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Takımımız maçı kazandı.",
+   "Jamoamiz o'yinda yutdi."
+  ]
+ },
+ {
+  "w": "maç",
+  "uz": "o'yin, uchrashuv (sport)",
+  "ru": "матч",
+  "p": "mach",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Akşam maç var.",
+   "Kechqurun o'yin bor."
+  ]
+ },
+ {
+  "w": "oyun",
+  "uz": "o'yin",
+  "ru": "игра",
+  "p": "oyun",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Bu oyun çok eğlenceli.",
+   "Bu o'yin juda qiziqarli."
+  ]
+ },
+ {
+  "w": "oyuncu",
+  "uz": "o'yinchi",
+  "ru": "игрок",
+  "p": "oyunju",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "O çok iyi bir oyuncu.",
+   "U juda yaxshi o'yinchi."
+  ]
+ },
+ {
+  "w": "stadyum",
+  "uz": "stadion",
+  "ru": "стадион",
+  "p": "stadyum",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Stadyum çok kalabalık.",
+   "Stadion odamlarga to'la."
+  ]
+ },
+ {
+  "w": "spor salonu",
+  "uz": "sport zali",
+  "ru": "спортзал",
+  "p": "spor salonu",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Haftada üç gün spor salonuna giderim.",
+   "Haftada uch kun sport zaliga boraman."
+  ]
+ },
+ {
+  "w": "gol",
+  "uz": "gol",
+  "ru": "гол",
+  "p": "gol",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Messi harika bir gol attı.",
+   "Messi ajoyib gol urdi."
+  ]
+ },
+ {
+  "w": "kazanmak",
+  "uz": "yutmoq, g'alaba qilmoq",
+  "ru": "выигрывать",
+  "p": "kazanmak",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Bu maçı kazanmak istiyoruz.",
+   "Bu o'yinda yutishni xohlaymiz."
+  ]
+ },
+ {
+  "w": "kaybetmek",
+  "uz": "yutqazmoq; yo'qotmoq",
+  "ru": "проигрывать; терять",
+  "p": "kaybetmek",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Takımımız maçı kaybetti.",
+   "Jamoamiz o'yinda yutqazdi."
+  ]
+ },
+ {
+  "w": "hobi",
+  "uz": "xobbi, qiziqish",
+  "ru": "хобби",
+  "p": "hobi",
+  "t": "sport",
+  "lv": 2,
+  "e": [
+   "Benim hobim kitap okumak.",
+   "Mening xobbim kitob o'qish."
+  ]
+ },
+ {
+  "w": "müzik",
+  "uz": "musiqa",
+  "ru": "музыка",
+  "p": "muzik",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Müzik dinlemeyi severim.",
+   "Musiqa tinglashni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "şarkı",
+  "uz": "qo'shiq",
+  "ru": "песня",
+  "p": "sharki",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Bu şarkıyı çok seviyorum.",
+   "Bu qo'shiqni juda yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "film",
+  "uz": "film",
+  "ru": "фильм",
+  "p": "film",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Dün akşam güzel bir film izledik.",
+   "Kecha kechqurun yaxshi film ko'rdik."
+  ]
+ },
+ {
+  "w": "resim",
+  "uz": "rasm",
+  "ru": "рисунок, картина",
+  "p": "resim",
+  "t": "sport",
+  "lv": 1,
+  "e": [
+   "Kardeşim resim çiziyor.",
+   "Ukam rasm chizyapti."
+  ]
+ },
+ {
+  "w": "bilgisayar",
+  "uz": "kompyuter",
+  "ru": "компьютер",
+  "p": "bilgisayar",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Bilgisayarım çok yavaş.",
+   "Kompyuterim juda sekin."
+  ]
+ },
+ {
+  "w": "telefon",
+  "uz": "telefon",
+  "ru": "телефон",
+  "p": "telefon",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Telefonum nerede?",
+   "Telefonim qayerda?"
+  ]
+ },
+ {
+  "w": "internet",
+  "uz": "internet",
+  "ru": "интернет",
+  "p": "internet",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Evde internet yok.",
+   "Uyda internet yo'q."
+  ]
+ },
+ {
+  "w": "uygulama",
+  "uz": "ilova",
+  "ru": "приложение",
+  "p": "uygulama",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Bu uygulamayı indir.",
+   "Bu ilovani yuklab ol."
+  ]
+ },
+ {
+  "w": "şifre",
+  "uz": "parol",
+  "ru": "пароль",
+  "p": "shifre",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Wi-Fi şifresi ne?",
+   "Wi-Fi paroli qanday?"
+  ]
+ },
+ {
+  "w": "mesaj",
+  "uz": "xabar",
+  "ru": "сообщение",
+  "p": "mesaj",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Sana bir mesaj gönderdim.",
+   "Senga xabar yubordim."
+  ]
+ },
+ {
+  "w": "e-posta",
+  "uz": "elektron pochta",
+  "ru": "электронная почта",
+  "p": "e-posta",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Bana bir e-posta gönder.",
+   "Menga elektron xat yubor."
+  ]
+ },
+ {
+  "w": "ekran",
+  "uz": "ekran",
+  "ru": "экран",
+  "p": "ekran",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Telefonun ekranı kırıldı.",
+   "Telefonning ekrani sindi."
+  ]
+ },
+ {
+  "w": "klavye",
+  "uz": "klaviatura",
+  "ru": "клавиатура",
+  "p": "klavye",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Klavyem çalışmıyor.",
+   "Klaviaturam ishlamayapti."
+  ]
+ },
+ {
+  "w": "fare",
+  "uz": "sichqoncha (kompyuter)",
+  "ru": "мышь",
+  "p": "fare",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Fareyi sağa kaydır.",
+   "Sichqonchani o'ngga sur."
+  ]
+ },
+ {
+  "w": "şarj",
+  "uz": "quvvat (zaryad)",
+  "ru": "зарядка",
+  "p": "sharj",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Telefonumun şarjı bitti.",
+   "Telefonimning quvvati tugadi."
+  ]
+ },
+ {
+  "w": "site",
+  "uz": "sayt",
+  "ru": "сайт",
+  "p": "site",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Yeni bir web sitesi yaptım.",
+   "Yangi veb-sayt yaratdim."
+  ]
+ },
+ {
+  "w": "video",
+  "uz": "video",
+  "ru": "видео",
+  "p": "video",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Bu videoyu izledin mi?",
+   "Bu videoni ko'rdingmi?"
+  ]
+ },
+ {
+  "w": "fotoğraf",
+  "uz": "surat, foto",
+  "ru": "фотография",
+  "p": "fotooraf",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Bir fotoğraf çekelim.",
+   "Bitta surat olaylik."
+  ]
+ },
+ {
+  "w": "dosya",
+  "uz": "fayl",
+  "ru": "файл",
+  "p": "dosya",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Dosyayı kaydet.",
+   "Faylni saqla."
+  ]
+ },
+ {
+  "w": "program",
+  "uz": "dastur",
+  "ru": "программа",
+  "p": "program",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Bu program ücretsiz.",
+   "Bu dastur bepul."
+  ]
+ },
+ {
+  "w": "yazıcı",
+  "uz": "printer",
+  "ru": "принтер",
+  "p": "yaziji",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Yazıcıda kağıt bitti.",
+   "Printerda qog'oz tugadi."
+  ]
+ },
+ {
+  "w": "televizyon",
+  "uz": "televizor",
+  "ru": "телевизор",
+  "p": "televizyon",
+  "t": "texno",
+  "lv": 1,
+  "e": [
+   "Babam televizyon izliyor.",
+   "Otam televizor ko'ryapti."
+  ]
+ },
+ {
+  "w": "kamera",
+  "uz": "kamera",
+  "ru": "камера",
+  "p": "kamera",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Telefonun kamerası çok iyi.",
+   "Telefonning kamerasi juda yaxshi."
+  ]
+ },
+ {
+  "w": "sosyal medya",
+  "uz": "ijtimoiy tarmoqlar",
+  "ru": "социальные сети",
+  "p": "sosyal medya",
+  "t": "texno",
+  "lv": 2,
+  "e": [
+   "Sosyal medyada çok vakit geçiriyorum.",
+   "Ijtimoiy tarmoqlarda ko'p vaqt o'tkazaman."
+  ]
+ },
+ {
+  "w": "yapay zekâ",
+  "uz": "sun'iy intellekt",
+  "ru": "искусственный интеллект",
+  "p": "yapay zeka",
+  "t": "texno",
+  "lv": 3,
+  "e": [
+   "Yapay zekâ hayatımızı değiştiriyor.",
+   "Sun'iy intellekt hayotimizni o'zgartiryapti."
+  ]
+ },
+ {
+  "w": "olmak",
+  "uz": "bo'lmoq",
+  "ru": "быть, становиться",
+  "p": "olmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Doktor olmak istiyorum.",
+   "Shifokor bo'lishni xohlayman."
+  ]
+ },
+ {
+  "w": "yapmak",
+  "uz": "qilmoq",
+  "ru": "делать",
+  "p": "yapmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ne yapıyorsun?",
+   "Nima qilyapsan?"
+  ]
+ },
+ {
+  "w": "gitmek",
+  "uz": "bormoq, ketmoq",
+  "ru": "идти, ехать",
+  "p": "gitmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Okula gidiyorum.",
+   "Maktabga ketyapman."
+  ]
+ },
+ {
+  "w": "gelmek",
+  "uz": "kelmoq",
+  "ru": "приходить",
+  "p": "gelmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Yarın bize gel.",
+   "Ertaga bizga kel."
+  ]
+ },
+ {
+  "w": "içmek",
+  "uz": "ichmoq",
+  "ru": "пить",
+  "p": "ichmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Su içmek istiyorum.",
+   "Suv ichmoqchiman."
+  ]
+ },
+ {
+  "w": "görmek",
+  "uz": "ko'rmoq",
+  "ru": "видеть",
+  "p": "go'rmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Seni gördüğüme sevindim.",
+   "Seni ko'rganimdan xursandman."
+  ]
+ },
+ {
+  "w": "izlemek",
+  "uz": "tomosha qilmoq",
+  "ru": "смотреть",
+  "p": "izlemek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Akşam film izleriz.",
+   "Kechqurun film ko'ramiz."
+  ]
+ },
+ {
+  "w": "okumak",
+  "uz": "o'qimoq",
+  "ru": "читать, учиться",
+  "p": "okumak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Kitap okumayı severim.",
+   "Kitob o'qishni yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "yazmak",
+  "uz": "yozmoq",
+  "ru": "писать",
+  "p": "yazmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Arkadaşıma mektup yazdım.",
+   "Do'stimga xat yozdim."
+  ]
+ },
+ {
+  "w": "konuşmak",
+  "uz": "gapirmoq",
+  "ru": "говорить",
+  "p": "konushmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Türkçe konuşabiliyor musun?",
+   "Turkcha gapira olasanmi?"
+  ]
+ },
+ {
+  "w": "dinlemek",
+  "uz": "tinglamoq",
+  "ru": "слушать",
+  "p": "dinlemek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Beni dinle, lütfen.",
+   "Meni tingla, iltimos."
+  ]
+ },
+ {
+  "w": "anlamak",
+  "uz": "tushunmoq",
+  "ru": "понимать",
+  "p": "anlamak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Seni anlamıyorum.",
+   "Seni tushunmayapman."
+  ]
+ },
+ {
+  "w": "bilmek",
+  "uz": "bilmoq",
+  "ru": "знать",
+  "p": "bilmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Bu yolu biliyor musun?",
+   "Bu yo'lni bilasanmi?"
+  ]
+ },
+ {
+  "w": "istemek",
+  "uz": "xohlamoq",
+  "ru": "хотеть",
+  "p": "istemek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Ne istiyorsun?",
+   "Nima xohlaysan?"
+  ]
+ },
+ {
+  "w": "sevmek",
+  "uz": "sevmoq, yaxshi ko'rmoq",
+  "ru": "любить",
+  "p": "sevmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Seni seviyorum.",
+   "Seni sevaman."
+  ]
+ },
+ {
+  "w": "almak",
+  "uz": "olmoq, sotib olmoq",
+  "ru": "брать, покупать",
+  "p": "almak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Yeni bir telefon aldım.",
+   "Yangi telefon oldim."
+  ]
+ },
+ {
+  "w": "vermek",
+  "uz": "bermoq",
+  "ru": "давать",
+  "p": "vermek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Kalemi bana ver.",
+   "Ruchkani menga ber."
+  ]
+ },
+ {
+  "w": "açmak",
+  "uz": "ochmoq",
+  "ru": "открывать",
+  "p": "achmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Kapıyı açar mısın?",
+   "Eshikni ochib berasanmi?"
+  ]
+ },
+ {
+  "w": "çalışmak",
+  "uz": "ishlamoq; shug'ullanmoq",
+  "ru": "работать; заниматься",
+  "p": "chalishmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Babam bankada çalışıyor.",
+   "Otam bankda ishlaydi."
+  ]
+ },
+ {
+  "w": "öğrenmek",
+  "uz": "o'rganmoq",
+  "ru": "учить, изучать",
+  "p": "o'renmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Türkçe öğreniyorum.",
+   "Turk tilini o'rganyapman."
+  ]
+ },
+ {
+  "w": "uyumak",
+  "uz": "uxlamoq",
+  "ru": "спать",
+  "p": "uyumak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Erken uyumak lazım.",
+   "Erta uxlash kerak."
+  ]
+ },
+ {
+  "w": "kalkmak",
+  "uz": "turmoq (o'rnidan)",
+  "ru": "вставать",
+  "p": "kalkmak",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Sabah yedide kalkarım.",
+   "Ertalab yettida turaman."
+  ]
+ },
+ {
+  "w": "beklemek",
+  "uz": "kutmoq",
+  "ru": "ждать",
+  "p": "beklemek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Seni bekliyorum.",
+   "Seni kutyapman."
+  ]
+ },
+ {
+  "w": "yardım etmek",
+  "uz": "yordam bermoq",
+  "ru": "помогать",
+  "p": "yardim etmek",
+  "t": "fel",
+  "lv": 1,
+  "e": [
+   "Bana yardım eder misin?",
+   "Menga yordam berasanmi?"
+  ]
+ },
+ {
+  "w": "büyük",
+  "uz": "katta",
+  "ru": "большой",
+  "p": "buyuk",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Büyük bir evimiz var.",
+   "Katta uyimiz bor."
+  ]
+ },
+ {
+  "w": "küçük",
+  "uz": "kichik",
+  "ru": "маленький",
+  "p": "kuchuk",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Küçük bir kedi gördüm.",
+   "Kichkina mushuk ko'rdim."
+  ]
+ },
+ {
+  "w": "yeni",
+  "uz": "yangi",
+  "ru": "новый",
+  "p": "yeni",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Yeni telefonum çok güzel.",
+   "Yangi telefonim juda zo'r."
+  ]
+ },
+ {
+  "w": "eski",
+  "uz": "eski",
+  "ru": "старый",
+  "p": "eski",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bu eski bir bina.",
+   "Bu eski bino."
+  ]
+ },
+ {
+  "w": "güzel",
+  "uz": "chiroyli, yaxshi",
+  "ru": "красивый, хороший",
+  "p": "guzel",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Ne güzel bir gün!",
+   "Qanday ajoyib kun!"
+  ]
+ },
+ {
+  "w": "iyi",
+  "uz": "yaxshi",
+  "ru": "хороший",
+  "p": "iyi",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "O iyi bir öğretmen.",
+   "U yaxshi o'qituvchi."
+  ]
+ },
+ {
+  "w": "kötü",
+  "uz": "yomon",
+  "ru": "плохой",
+  "p": "ko'tu",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bugün kötü bir gün.",
+   "Bugun yomon kun."
+  ]
+ },
+ {
+  "w": "uzun",
+  "uz": "uzun, uzoq",
+  "ru": "длинный",
+  "p": "uzun",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Uzun bir yolculuk yaptık.",
+   "Uzoq safar qildik."
+  ]
+ },
+ {
+  "w": "kısa",
+  "uz": "qisqa, kalta",
+  "ru": "короткий",
+  "p": "kisa",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Saçları kısa.",
+   "Uning sochlari kalta."
+  ]
+ },
+ {
+  "w": "uzak",
+  "uz": "uzoq",
+  "ru": "далёкий",
+  "p": "uzak",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Okul evden uzak.",
+   "Maktab uydan uzoq."
+  ]
+ },
+ {
+  "w": "yakın",
+  "uz": "yaqin",
+  "ru": "близкий",
+  "p": "yakin",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Market çok yakın.",
+   "Do'kon juda yaqin."
+  ]
+ },
+ {
+  "w": "hızlı",
+  "uz": "tez",
+  "ru": "быстрый",
+  "p": "hizli",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bu araba çok hızlı.",
+   "Bu mashina juda tez."
+  ]
+ },
+ {
+  "w": "yavaş",
+  "uz": "sekin",
+  "ru": "медленный",
+  "p": "yavash",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Lütfen yavaş konuşun.",
+   "Iltimos, sekin gapiring."
+  ]
+ },
+ {
+  "w": "kolay",
+  "uz": "oson",
+  "ru": "лёгкий, простой",
+  "p": "kolay",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bu soru çok kolay.",
+   "Bu savol juda oson."
+  ]
+ },
+ {
+  "w": "zor",
+  "uz": "qiyin",
+  "ru": "трудный",
+  "p": "zor",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Matematik biraz zor.",
+   "Matematika biroz qiyin."
+  ]
+ },
+ {
+  "w": "açık",
+  "uz": "ochiq",
+  "ru": "открытый",
+  "p": "achik",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Dükkan açık mı?",
+   "Do'kon ochiqmi?"
+  ]
+ },
+ {
+  "w": "kapalı",
+  "uz": "yopiq",
+  "ru": "закрытый",
+  "p": "kapali",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Müze pazartesi kapalı.",
+   "Muzey dushanba kuni yopiq."
+  ]
+ },
+ {
+  "w": "boş",
+  "uz": "bo'sh",
+  "ru": "пустой, свободный",
+  "p": "bosh",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bu sandalye boş mu?",
+   "Bu stul bo'shmi?"
+  ]
+ },
+ {
+  "w": "temiz",
+  "uz": "toza",
+  "ru": "чистый",
+  "p": "temiz",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Odan çok temiz.",
+   "Xonang juda toza."
+  ]
+ },
+ {
+  "w": "ağır",
+  "uz": "og'ir",
+  "ru": "тяжёлый",
+  "p": "air",
+  "t": "sifat",
+  "lv": 2,
+  "e": [
+   "Bu çanta çok ağır.",
+   "Bu sumka juda og'ir."
+  ]
+ },
+ {
+  "w": "tatlı",
+  "uz": "shirin",
+  "ru": "сладкий",
+  "p": "tatli",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Bu kek çok tatlı.",
+   "Bu keks juda shirin."
+  ]
+ },
+ {
+  "w": "genç",
+  "uz": "yosh",
+  "ru": "молодой",
+  "p": "gench",
+  "t": "sifat",
+  "lv": 1,
+  "e": [
+   "Öğretmenimiz çok genç.",
+   "O'qituvchimiz juda yosh."
+  ]
+ },
+ {
+  "w": "ben",
+  "uz": "men",
+  "ru": "я",
+  "p": "ben",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ben de geliyorum.",
+   "Men ham kelyapman."
+  ]
+ },
+ {
+  "w": "sen",
+  "uz": "sen",
+  "ru": "ты",
+  "p": "sen",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Sen nerelisin?",
+   "Sen qayerliksan?"
+  ]
+ },
+ {
+  "w": "o",
+  "uz": "u",
+  "ru": "он, она, оно",
+  "p": "o",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "O benim kardeşim.",
+   "U mening ukam."
+  ]
+ },
+ {
+  "w": "biz",
+  "uz": "biz",
+  "ru": "мы",
+  "p": "biz",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Biz Özbekistanlıyız.",
+   "Biz o'zbekistonlikmiz."
+  ]
+ },
+ {
+  "w": "siz",
+  "uz": "siz",
+  "ru": "вы",
+  "p": "siz",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Siz nerede oturuyorsunuz?",
+   "Siz qayerda yashaysiz?"
+  ]
+ },
+ {
+  "w": "onlar",
+  "uz": "ular",
+  "ru": "они",
+  "p": "onlar",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Onlar parkta oynuyor.",
+   "Ular parkda o'ynayapti."
+  ]
+ },
+ {
+  "w": "bu",
+  "uz": "bu",
+  "ru": "это, этот",
+  "p": "bu",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Bu benim kitabım.",
+   "Bu mening kitobim."
+  ]
+ },
+ {
+  "w": "şu",
+  "uz": "anavi, shu",
+  "ru": "тот, этот",
+  "p": "shu",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Şu çanta kimin?",
+   "Anavi sumka kimniki?"
+  ]
+ },
+ {
+  "w": "ve",
+  "uz": "va",
+  "ru": "и",
+  "p": "ve",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Ali ve Ayşe arkadaş.",
+   "Ali va Oysha do'st."
+  ]
+ },
+ {
+  "w": "ama",
+  "uz": "lekin, ammo",
+  "ru": "но",
+  "p": "ama",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Yorgunum ama mutluyum.",
+   "Charchadim, lekin xursandman."
+  ]
+ },
+ {
+  "w": "çünkü",
+  "uz": "chunki",
+  "ru": "потому что",
+  "p": "chunku",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Gelemedim çünkü hastaydım.",
+   "Kela olmadim, chunki kasal edim."
+  ]
+ },
+ {
+  "w": "için",
+  "uz": "uchun",
+  "ru": "для",
+  "p": "ichin",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Bu hediye senin için.",
+   "Bu sovg'a sen uchun."
+  ]
+ },
+ {
+  "w": "çok",
+  "uz": "juda, ko'p",
+  "ru": "очень, много",
+  "p": "chok",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Türkçeyi çok seviyorum.",
+   "Turk tilini juda yaxshi ko'raman."
+  ]
+ },
+ {
+  "w": "biraz",
+  "uz": "ozgina, biroz",
+  "ru": "немного",
+  "p": "biraz",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Biraz bekle, lütfen.",
+   "Biroz kut, iltimos."
+  ]
+ },
+ {
+  "w": "şimdi",
+  "uz": "hozir",
+  "ru": "сейчас",
+  "p": "shimdi",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Şimdi çok meşgulüm.",
+   "Hozir juda bandman."
+  ]
+ },
+ {
+  "w": "sonra",
+  "uz": "keyin",
+  "ru": "потом, после",
+  "p": "sonra",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Dersten sonra eve gittim.",
+   "Darsdan keyin uyga bordim."
+  ]
+ },
+ {
+  "w": "her zaman",
+  "uz": "har doim",
+  "ru": "всегда",
+  "p": "her zaman",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Her zaman erken kalkarım.",
+   "Har doim erta turaman."
+  ]
+ },
+ {
+  "w": "burada",
+  "uz": "shu yerda",
+  "ru": "здесь",
+  "p": "burada",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Kitabım burada.",
+   "Kitobim shu yerda."
+  ]
+ },
+ {
+  "w": "nerede",
+  "uz": "qayerda",
+  "ru": "где",
+  "p": "nerede",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Banka nerede?",
+   "Bank qayerda?"
+  ]
+ },
+ {
+  "w": "ne",
+  "uz": "nima",
+  "ru": "что",
+  "p": "ne",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Bu ne?",
+   "Bu nima?"
+  ]
+ },
+ {
+  "w": "neden",
+  "uz": "nega",
+  "ru": "почему",
+  "p": "neden",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Neden geç kaldın?",
+   "Nega kechikding?"
+  ]
+ },
+ {
+  "w": "nasıl",
+  "uz": "qanday",
+  "ru": "как",
+  "p": "nasil",
+  "t": "soz",
+  "lv": 1,
+  "e": [
+   "Bu nasıl yapılır?",
+   "Bu qanday qilinadi?"
+  ]
+ }
+]
